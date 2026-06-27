@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Graal.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
+    "explanation": "Le Graal est l’objectif sacré qui justifie la Table Ronde et les missions des chevaliers. Dans Kaamelott, sa grandeur contraste avec leur manque d’efficacité, leurs disputes et leur difficulté à comprendre ce qu’ils cherchent vraiment."
   },
   {
     "id": 127,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
+    "explanation": "Excalibur est l’épée plantée dans le rocher et retirée par Arthur, ce qui fonde sa légitimité. Elle appartient donc autant au merveilleux qu’à la politique : celui qui la porte peut prétendre régner."
   },
   {
     "id": 128,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’élu des dieux appelé à régner sur la Bretagne.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
+    "explanation": "L’élu des dieux est le seul à pouvoir retirer Excalibur, ce qui explique pourquoi Arthur devient roi. La scène du rocher sert de preuve publique : le pouvoir d’Arthur ne vient pas seulement des hommes, mais d’un signe magique."
   },
   {
     "id": 129,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "À la relique ayant recueilli le sang du Christ.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
+    "explanation": "Le Graal est lié à la tradition chrétienne et au sang du Christ, ce qui donne à la quête une portée religieuse immense. Le comique de Kaamelott vient souvent du décalage entre cette relique sacrée et des chevaliers qui peinent à en saisir le sens."
   },
   {
     "id": 130,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Arthur replante Excalibur dans le Livre V pour remettre son élection à l’épreuve. Le geste ouvre la crise : quand l’épée ne revient plus à lui, le royaume doit se demander qui peut encore régner."
   },
   {
     "id": 131,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "La Dame du Lac sert de messagère divine auprès d’Arthur, surtout pour la mission du Graal. Elle apparaît comme un lien direct avec les dieux, même si ses consignes arrivent souvent dans des situations très ordinaires."
   },
   {
     "id": 132,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Arthur est le seul à voir et entendre la Dame du Lac lors de ses apparitions, ce qui l’isole dans sa mission. Les autres ne perçoivent pas la source de ses consignes, ce qui renforce le décalage entre destin mythologique et quotidien de la cour."
   },
   {
     "id": 133,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Fée Morgane.",
     "source": "Wiki Kaamelott — La Fée Morgane",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_F%C3%A9e_Morgane",
-    "explanation": "Méléagant agit moins comme un conseiller que comme une force de sabotage moral. Son influence accompagne la dégradation de Lancelot et donne aux derniers Livres une tonalité plus sombre."
+    "explanation": "La Fée Morgane annonce un châtiment lié à Méléagant, ce qui inscrit la crise d’Arthur et de Lancelot dans un registre surnaturel. Elle rappelle que les fautes politiques et intimes peuvent avoir des conséquences venues des dieux."
   },
   {
     "id": 134,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Merlin.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, chargé d’apporter une aide magique au royaume. Il reste pourtant associé à des ratés, des approximations et des rivalités qui rendent sa fonction beaucoup moins impressionnante en pratique."
   },
   {
     "id": 135,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Élias de Kelliwic’h.",
     "source": "Wiki Kaamelott — Élias de Kelliwic’h",
     "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h",
-    "explanation": "Élias de Kelliwic’h sert de contrepoint à Merlin : plus efficace, plus menaçant et nettement plus calculateur. Sa présence transforme la magie en rivalité de laboratoire autant qu’en enjeu de défense du royaume."
+    "explanation": "Élias de Kelliwic’h est recruté parce que Merlin ne suffit pas toujours à défendre le royaume. Sa magie paraît plus fiable, mais son arrivée crée aussi une rivalité et une menace d’influence à Kaamelott."
   },
   {
     "id": 136,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Des sorts comme l’invincibilité ou l’invisibilité.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
+    "explanation": "Les sorts d’invincibilité ou d’invisibilité montrent que Merlin peut parfois produire une magie très puissante. Le problème, fidèle au personnage, est qu’il ne maîtrise pas toujours la reproduction de ses propres réussites."
   },
   {
     "id": 137,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Il est le gardien du culte de Kaamelott.",
     "source": "Wiki Kaamelott — Père Blaise",
     "url": "https://kaamelott.fandom.com/fr/wiki/P%C3%A8re_Blaise",
-    "explanation": "Le Père Blaise consigne, corrige et officialise ce que les chevaliers aimeraient faire passer pour de grandes aventures. Ses scènes montrent souvent l’écart entre la légende qu’on veut écrire et la réalité beaucoup moins noble des faits."
+    "explanation": "Le Père Blaise est gardien du culte, ce qui le place entre les traditions anciennes, l’écriture de la légende et le christianisme qui s’installe. Son rôle dépasse celui du copiste : il donne un cadre religieux aux aventures de la Table Ronde."
   },
   {
     "id": 138,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Méléagant.",
     "source": "Wiki Kaamelott — Méléagant",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Méléagant manipule Lancelot en se présentant comme une force de sabordage, pas comme un sauveur. Il pousse le chevalier isolé vers une logique de destruction, ce qui donne aux derniers Livres une tonalité beaucoup plus sombre."
   },
   {
     "id": 139,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "La Table Ronde construite par Breccan donne une forme matérielle à l’ordre des chevaliers. Le gag de l’épisode vient justement du contraste entre la portée mythique du meuble et les commentaires très concrets sur sa fabrication."
   },
   {
     "id": 140,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "La Table Ronde brûlée sous Lancelot représente la destruction du projet collectif d’Arthur. En s’en prenant au meuble, Lancelot détruit le symbole même de la quête commune et de l’égalité chevaleresque."
   },
   {
     "id": 141,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Dans Le Larcin, Excalibur est l’objet volé autour duquel Arthur menace Venec. La menace de malédiction fonctionne parce que l’épée n’est pas un simple bien précieux : elle est liée au destin royal et aux dieux."
   },
   {
     "id": 142,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Graal.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Le Graal est l’objet religieux qu’Arthur tente d’expliquer à des chevaliers souvent incapables d’en saisir la portée. Cette incompréhension résume l’écart central de la série : une quête sacrée confiée à une équipe très peu préparée."
   },
   {
     "id": 143,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Avalon.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Le Père Blaise consigne, corrige et officialise ce que les chevaliers aimeraient faire passer pour de grandes aventures. Ses scènes montrent souvent l’écart entre la légende qu’on veut écrire et la réalité beaucoup moins noble des faits."
+    "explanation": "Avalon apparaît comme une piste mythique pour le Graal dans Always. Le Père Blaise l’évoque parce que la recherche du Graal oblige les personnages à naviguer entre religion chrétienne, légendes celtiques et hypothèses parfois hasardeuses."
   },
   {
     "id": 144,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guider Arthur et ses chevaliers dans la Quête du Graal.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "La Dame du Lac guide Arthur et ses chevaliers dans la Quête du Graal parce qu’elle agit au nom des dieux. Sa mission explique pourquoi Arthur reçoit des consignes que lui seul doit ensuite traduire en décisions politiques et chevaleresques."
   },
   {
     "id": 145,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "La Dame du Lac perd son statut céleste après les fautes d’Arthur et la crise du Livre IV. Sa chute montre que les erreurs du roi ne restent pas limitées au couple royal : elles atteignent aussi l’ordre divin qui le soutenait."
   },
   {
     "id": 326,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Excalibur flamboie dans les mains d’Arthur parce qu’elle reconnaît son porteur comme exceptionnel. Le feu de l’épée rend visible le lien entre l’objet magique et la destinée royale du personnage."
   },
   {
     "id": 327,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Parce qu’elle reconnaît la destinée exceptionnelle de son porteur.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "La Dame du Lac explique que l’éclat d’Excalibur dépend de la destinée de celui qui la tient. Si elle flamboie avec Arthur, c’est donc parce que l’épée confirme son statut d’élu et pas seulement parce qu’elle est magique."
   },
   {
     "id": 328,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
+    "explanation": "Excalibur est plantée dans le rocher pour éprouver publiquement la légitimité royale. Celui qui la retire ne gagne pas seulement une arme : il obtient la preuve qu’il est appelé à régner."
   },
   {
     "id": 329,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Graal.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
+    "explanation": "Le Graal est la relique ou l’objet sacré que les chevaliers doivent chercher. Tout le dispositif de la Table Ronde est construit autour de cette mission, même si la série montre surtout leur difficulté à l’accomplir."
   },
   {
     "id": 330,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le médaillon d’Ogma.",
     "source": "Wiki Kaamelott — Médaillon d’Ogma",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9daillon_d%27Ogma",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Le médaillon d’Ogma apparaît dans le souvenir d’Arthur enfant dans Dies Iræ. Cet objet rattache son identité à un passé plus ancien que Rome ou Kaamelott, et donne à la fin du Livre VI une dimension de mémoire personnelle."
   },
   {
     "id": 331,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "La Table Ronde est censée mettre les chevaliers sur un pied d’égalité autour du Graal. Dans la série, ce symbole héroïque devient aussi un lieu de réunions chaotiques, de disputes et de remarques très terre-à-terre."
+    "explanation": "La Table Ronde est le meuble mythique construit pour réunir les chevaliers. Elle matérialise l’idée d’une quête commune, même si les premières scènes autour d’elle soulignent surtout les problèmes très pratiques du meuble."
   },
   {
     "id": 332,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "La Dame du Lac donne régulièrement des consignes à Arthur parce qu’elle sert d’intermédiaire entre lui et les dieux. Ses apparitions rappellent que la mission du roi dépasse la simple gestion du château."
   },
   {
     "id": 333,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "La Dame du Lac rappelle à Lancelot une routine de guérison apprise dans son enfance, ce qui renvoie à son lien ancien avec lui. La réponse n’est donc pas Arthur : elle concerne le passé merveilleux de Lancelot et l’éducation reçue auprès d’elle."
   },
   {
     "id": 334,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Merlin.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
+    "explanation": "Merlin insiste sur son identité de druide parce que sa magie ne se réduit pas au rôle officiel d’enchanteur de cour. Cette précision nourrit ses disputes avec Arthur, qui attend surtout des résultats utiles au royaume."
   },
   {
     "id": 335,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Élias de Kelliwic’h.",
     "source": "Wiki Kaamelott — Élias de Kelliwic’h",
     "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h",
-    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
+    "explanation": "Élias de Kelliwic’h est le rival magique qui arrive avec une réputation plus redoutable que Merlin. Il incarne une magie plus performante, mais aussi plus inquiétante, ce qui met Merlin en position de faiblesse."
   },
   {
     "id": 336,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Les jeux de Perceval et Karadoc ressemblent à des traditions codifiées, mais leurs règles deviennent vite impraticables pour les autres. Le comique vient de leur aplomb : plus l’explication est confuse, plus ils la présentent comme évidente."
+    "explanation": "Le cul de chouette est le jeu de dés à trois dés associé aux annonces de combinaisons. Les règles paraissent codifiées et savantes, mais les explications de Perceval, Karadoc et du Tavernier les rendent presque impossibles à suivre."
   },
   {
     "id": 337,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Les jeux de Perceval et Karadoc ressemblent à des traditions codifiées, mais leurs règles deviennent vite impraticables pour les autres. Le comique vient de leur aplomb : plus l’explication est confuse, plus ils la présentent comme évidente."
+    "explanation": "La relance de quinze appartient au cul de chouette, un jeu où les annonces de points et de combinaisons deviennent vite absurdes. La précision de la règle contraste avec la confusion générale de ceux qui essaient de comprendre la partie."
   },
   {
     "id": 338,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "L’Aquitaine prend surtout du relief au moment où le pouvoir d’Arthur vacille. Le duc et la duchesse ajoutent une nouvelle couche d’alliances, de susceptibilités et de calculs à la crise du Livre V."
+    "explanation": "Les règles d’Aquitaine relèvent du cul de chouette et compliquent encore un jeu déjà opaque. Elles rappellent que les jeux de Kaamelott fonctionnent souvent comme de fausses traditions très sérieuses, mais incompréhensibles pour les non-initiés."
   },
   {
     "id": 339,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le sloubi.",
     "source": "Wiki Kaamelott — Sloubi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Sloubi",
-    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
+    "explanation": "Le sloubi est l’un des jeux gallois absurdes associés à Perceval. Comme souvent avec lui, l’explication paraît avoir une logique interne très solide, mais elle échappe à presque tout le monde autour de la table."
   },
   {
     "id": 340,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le jeu du pélican.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Les jeux de Perceval et Karadoc ressemblent à des traditions codifiées, mais leurs règles deviennent vite impraticables pour les autres. Le comique vient de leur aplomb : plus l’explication est confuse, plus ils la présentent comme évidente."
+    "explanation": "Le jeu du pélican appartient à la série des jeux gallois aux noms étranges. Son intitulé à base d’oiseau le distingue des autres jeux absurdes cités autour de Perceval et de la taverne."
   },
   {
     "id": 341,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le jeu du caillou.",
     "source": "Wiki Kaamelott — Jeu du caillou",
     "url": "https://kaamelott.fandom.com/fr/wiki/Jeu_du_caillou",
-    "explanation": "Les jeux de Perceval et Karadoc ressemblent à des traditions codifiées, mais leurs règles deviennent vite impraticables pour les autres. Le comique vient de leur aplomb : plus l’explication est confuse, plus ils la présentent comme évidente."
+    "explanation": "Le jeu du caillou est nommé d’après un objet minéral très simple, ce qui colle à l’univers de Kadoc et Karadoc. Le gag tient à la disproportion entre le sérieux accordé au jeu et la pauvreté apparente de son matériel."
   },
   {
     "id": 342,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le robobrole.",
     "source": "Wiki Kaamelott — Robobrole",
     "url": "https://kaamelott.fandom.com/fr/wiki/Robobrole",
-    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
+    "explanation": "Le robobrole est associé au passage près du rocher d’Excalibur dans le premier film. Il prolonge la tradition des jeux absurdes de l’univers, mais dans un contexte où le symbole royal d’Excalibur est tout proche."
   },
   {
     "id": 343,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le gras.",
     "source": "Wiki Kaamelott — Karadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc",
-    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
+    "explanation": "Le gras devient chez Karadoc presque un principe de vie, pas seulement un goût alimentaire. Cette obsession éclaire ses scènes de repas, ses réserves et sa manière de juger le monde depuis le ventre."
   },
   {
     "id": 344,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les tartes aux myrtilles.",
     "source": "Wiki Kaamelott — Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Les_Tartes_Aux_Myrtilles",
-    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
+    "explanation": "Les tartes aux myrtilles de Séli déclenchent un gag culinaire parce qu’elles sont défendues comme du patrimoine alors que les autres les traitent comme des briques. La scène installe très tôt le comique familial de la Carmélide."
   },
   {
     "id": 345,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Quête du Graal.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
+    "explanation": "La Quête du Graal est parfois reformulée de façon absurde parce que les chevaliers peinent à saisir la portée de leur mission. Arthur doit constamment ramener un objectif sacré à des explications compréhensibles pour une équipe très dissipée."
   },
   {
     "id": 346,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "La Table Ronde détruite par le feu marque la rupture de Lancelot avec l’ordre d’Arthur. En brûlant ce symbole, il attaque à la fois la quête du Graal, la communauté des chevaliers et la mémoire politique de Kaamelott."
   },
   {
     "id": 347,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Un couteau transmis par Ban.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Le couteau transmis par Ban est traité comme un porte-bonheur de Lancelot parce qu’il vient de son père. Karadoc s’y intéresse de façon très concrète, mais pour Lancelot l’objet porte une valeur intime et familiale."
   },
   {
     "id": 348,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Dans Perceval Relance de Quinze, la taverne devient le terrain d’un jeu aux règles presque impénétrables. Le cul de chouette fonctionne comme une parodie de jeu traditionnel : très codifié en apparence, impossible à suivre pour un non-initié."
+    "explanation": "Le cul de chouette est le jeu pratiqué dans Perceval Relance de Quinze par Perceval, Karadoc et le Tavernier. La scène fonctionne sur des règles annoncées avec aplomb, dont la complexité devient elle-même le gag."
   },
   {
     "id": 349,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dux Bellorum.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Dux Bellorum rattache Arthur à son titre de chef de guerre. L’épisode appartient à l’arc où Rome organise sa montée en puissance pour pacifier et contrôler la Bretagne."
+    "explanation": "Dux Bellorum rejoue le cul de chouette avec Nonna dans le passé romain d’Arthur. Cela montre que ce jeu absurde appartient déjà à l’univers de Perceval avant les scènes de taverne les plus connues."
   },
   {
     "id": 350,
@@ -449,6 +449,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur et la mission liée au Graal.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Excalibur et la mission du Graal désignent Arthur comme élu des dieux : l’épée légitime le roi, la quête donne un sens à son règne. Ces deux éléments expliquent pourquoi son pouvoir est à la fois politique, magique et religieux."
   }
 ]);
