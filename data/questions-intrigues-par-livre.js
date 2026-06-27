@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Quête du Graal.",
     "source": "Wiki Kaamelott — Livre I",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_I",
-    "explanation": "Le Livre I installe le quotidien de Kaamelott : la Table Ronde existe, la Quête du Graal donne un objectif commun, mais les missions échouent souvent dans les malentendus et les réunions pénibles."
+    "explanation": "La Quête du Graal rassemble officiellement les chevaliers dès le Livre I. Toute la mécanique de Kaamelott part de là : Arthur dispose d’une mission sacrée, mais il doit la mener avec une Table Ronde souvent incapable de transformer l’idéal en résultats."
   },
   {
     "id": 52,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre I.",
     "source": "Wiki Kaamelott — Livre I",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_I",
-    "explanation": "Le Livre I installe le quotidien de Kaamelott : la Table Ronde existe, la Quête du Graal donne un objectif commun, mais les missions échouent souvent dans les malentendus et les réunions pénibles."
+    "explanation": "Le Livre I est bien celui où la Table Ronde est déjà en place et où les missions commencent. On y voit surtout le fonctionnement quotidien de Kaamelott : réunions, départs en quête, échecs, explications confuses et patience d’Arthur mise à rude épreuve."
   },
   {
     "id": 53,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Ses chevaliers sont motivés mais souvent incompétents ou mal coordonnés.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Le Livre I installe le quotidien de Kaamelott : la Table Ronde existe, la Quête du Graal donne un objectif commun, mais les missions échouent souvent dans les malentendus et les réunions pénibles."
+    "explanation": "Le problème récurrent est l’incompétence ou la mauvaise coordination des chevaliers. Le Livre I répète ce décalage : ils sont censés chercher le Graal, mais Arthur passe une grande partie de son temps à expliquer, recadrer et réparer leurs erreurs."
   },
   {
     "id": 54,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre II.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Le Livre II élargit le monde autour de Kaamelott avec plus de menaces extérieures et de tensions internes. Arthur doit déjà composer avec la fatigue du pouvoir et les premières fissures dans ses alliances."
+    "explanation": "Le Livre II renforce les menaces extérieures, dont les incursions barbares. La réponse tient à ce changement d’échelle : le quotidien comique reste présent, mais le royaume doit aussi composer avec des dangers militaires plus visibles."
   },
   {
     "id": 55,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les tensions entre Arthur et Lancelot.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Le Livre II élargit le monde autour de Kaamelott avec plus de menaces extérieures et de tensions internes. Arthur doit déjà composer avec la fatigue du pouvoir et les premières fissures dans ses alliances."
+    "explanation": "Les tensions entre Arthur et Lancelot prennent du poids au Livre II. Lancelot est encore un chevalier exemplaire, mais son exigence, son isolement et son malaise face au fonctionnement de Kaamelott commencent à fissurer sa relation avec Arthur."
   },
   {
     "id": 56,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre III.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Le Livre III fait monter l’intrigue Arthur-Mevanwi et transforme les affaires de cœur en problème politique. La relation adultère fragilise Guenièvre, Karadoc et l’équilibre de la cour."
+    "explanation": "Arthur commence à s’éprendre de Mevanwi dans le Livre III. Cet arc transforme l’attirance du roi pour l’épouse de Karadoc en problème narratif durable, jusqu’à bousculer Guenièvre et les règles politiques de la cour."
   },
   {
     "id": 57,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La liaison d’Arthur avec Mevanwi, l’épouse de Karadoc.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "Le Livre III fait monter l’intrigue Arthur-Mevanwi et transforme les affaires de cœur en problème politique. La relation adultère fragilise Guenièvre, Karadoc et l’équilibre de la cour."
+    "explanation": "La liaison adultère du Livre III est celle d’Arthur avec Mevanwi, l’épouse de Karadoc. La réponse se reconnaît au triangle qu’elle crée : Arthur transgresse son mariage, Karadoc est directement concerné et Guenièvre voit l’alliance royale se fissurer."
   },
   {
     "id": 58,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre IV.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Le Livre IV concrétise la rupture de Lancelot : Guenièvre rejoint son camp, Loth soutient la dissidence et Arthur doit reprendre une situation qui lui échappe. La comédie de cour laisse davantage de place à l’éclatement du royaume."
+    "explanation": "Lancelot rompt ouvertement avec Kaamelott dans le Livre IV. Son camp dans la forêt, le départ de Guenièvre et le soutien de Loth transforment une tension personnelle avec Arthur en rupture politique."
   },
   {
     "id": 59,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Au camp de Lancelot dans la forêt.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Le Livre IV concrétise la rupture de Lancelot : Guenièvre rejoint son camp, Loth soutient la dissidence et Arthur doit reprendre une situation qui lui échappe. La comédie de cour laisse davantage de place à l’éclatement du royaume."
+    "explanation": "Au début du Livre IV, Guenièvre part au camp de Lancelot dans la forêt. C’est bien cette réponse parce que son départ matérialise la séparation du couple royal et donne à Lancelot une place de rival direct d’Arthur."
   },
   {
     "id": 60,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac est bannie par les dieux.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Après le départ de Guenièvre et les fautes d’Arthur, la sanction touche même la Dame du Lac. Le fantastique rejoint alors la crise conjugale : les dieux cessent de soutenir Arthur comme avant."
+    "explanation": "La Dame du Lac est bannie après les fautes d’Arthur et le désordre provoqué par Guenièvre et Lancelot. La crise n’est donc pas seulement conjugale : elle atteint aussi le lien entre Arthur, les dieux et la mission du Graal."
   },
   {
     "id": 61,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth d’Orcanie.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Loth profite de la rupture entre Arthur et Lancelot pour affaiblir le pouvoir de Logres. Son soutien à la dissidence montre que la crise sentimentale devient vite une affaire de stratégie entre royaumes."
+    "explanation": "Loth d’Orcanie soutient militairement et financièrement la dissidence de Lancelot. Il saisit l’occasion d’affaiblir Arthur : une rupture amoureuse devient aussitôt une manœuvre de pouvoir entre royaumes."
   },
   {
     "id": 62,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guenièvre, retenue par Lancelot.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "À la fin du Livre IV, Arthur va chercher Guenièvre au camp de Lancelot. Le geste ne répare pas tout, mais il marque une tentative de reprendre la main sur une rupture conjugale devenue politique."
+    "explanation": "À la fin du Livre IV, Arthur va libérer Guenièvre retenue par Lancelot. Le geste montre qu’il tente de reprendre la main sur une situation qu’il a lui-même contribué à déclencher avec Mevanwi."
   },
   {
     "id": 63,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "De Mevanwi.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Au début du Livre V, Arthur n’est plus avec Mevanwi, mais les conséquences de l’échange d’épouses et de la crise conjugale restent présentes. Le royaume avance déjà vers une question plus grave : qui peut encore régner ?"
+    "explanation": "Au début du Livre V, Arthur s’est séparé de Mevanwi. La liaison n’est plus l’arc principal, mais ses conséquences juridiques et politiques restent là, notamment à cause de l’échange d’épouses et de la question de la régence."
   },
   {
     "id": 64,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Il replante Excalibur dans le rocher.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Dans La Roche et le Fer, Arthur replante Excalibur et remet en jeu le signe même de sa légitimité. Le geste paraît simple, mais il ouvre la crise politique du Livre V."
+    "explanation": "Au Livre V, Arthur replante Excalibur dans le rocher. Ce geste remet en jeu le symbole même de sa légitimité : s’il ne la retire plus, le royaume ne peut plus se contenter de l’appeler roi comme avant."
   },
   {
     "id": 65,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Il ne retire plus Excalibur du rocher.",
     "source": "Wiki Kaamelott — Roi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roi",
-    "explanation": "Le Royaume Sans Tête correspond au moment où la Bretagne se retrouve sans souverain pleinement reconnu. Les règles de succession, les clans et les ambitions personnelles prennent alors le dessus."
+    "explanation": "La régence devient nécessaire parce qu’Arthur ne retire plus Excalibur du rocher. La réponse est liée au Livre V : l’échec devant l’épée transforme une crise personnelle en problème institutionnel pour Logres."
   },
   {
     "id": 66,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Jurisconsulte.",
     "source": "Wiki Kaamelott — Le Jurisconsulte",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29",
-    "explanation": "Dans Le Jurisconsulte, la crise du pouvoir se règle par le droit plutôt que par l’héroïsme. Le spécialiste appelé à Kaamelott transforme la succession en casse-tête administratif et matrimonial."
+    "explanation": "Le Jurisconsulte est appelé pour régler la vacance du pouvoir. La situation est devenue trop complexe pour une décision d’Arthur : il faut interpréter les règles de succession, les mariages et les droits de la reine."
   },
   {
     "id": 67,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Le Jurisconsulte",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29",
-    "explanation": "Dans Le Jurisconsulte, la crise du pouvoir se règle par le droit plutôt que par l’héroïsme. Le spécialiste appelé à Kaamelott transforme la succession en casse-tête administratif et matrimonial."
+    "explanation": "Léodagan est d’abord désigné régent parce que la règle donne ce pouvoir à la reine, et que Guenièvre le choisit. La réponse s’explique par l’alliance avec la Carmélide : le beau-père d’Arthur récupère provisoirement la main sur Logres."
   },
   {
     "id": 68,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — Le Jurisconsulte",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29",
-    "explanation": "Dans Le Jurisconsulte, la crise du pouvoir se règle par le droit plutôt que par l’héroïsme. Le spécialiste appelé à Kaamelott transforme la succession en casse-tête administratif et matrimonial."
+    "explanation": "Karadoc devient régent après l’intervention de Mevanwi autour de l’acte annulant l’échange d’épouses. Le gag politique est énorme : le chevalier de Vannes, plus connu pour la nourriture et la taverne, se retrouve légalement à la tête du royaume."
   },
   {
     "id": 69,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre VI.",
     "source": "Wiki Kaamelott — Livre VI",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI",
-    "explanation": "Le Livre VI remonte à Rome pour montrer comment Arturus devient l’outil politique qui sera envoyé en Bretagne. Le dernier épisode rejoint ensuite le présent et donne une issue beaucoup plus sombre à la trajectoire d’Arthur et Lancelot."
+    "explanation": "Le Livre VI raconte surtout la jeunesse d’Arthur à Rome. On y découvre Arturus avant Kaamelott : un soldat romain que Sallustius, Aconia et les jeux de pouvoir transforment peu à peu en futur roi de Bretagne."
   },
   {
     "id": 70,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les huit premiers épisodes.",
     "source": "Wiki Kaamelott — Livre VI",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI",
-    "explanation": "Le Livre VI remonte à Rome pour montrer comment Arturus devient l’outil politique qui sera envoyé en Bretagne. Le dernier épisode rejoint ensuite le présent et donne une issue beaucoup plus sombre à la trajectoire d’Arthur et Lancelot."
+    "explanation": "Les huit premiers épisodes du Livre VI racontent la jeunesse romaine d’Arthur. Le neuvième, Dies Iræ, revient au présent ; c’est pour cela que la réponse distingue clairement le préquel romain du final après le Livre V."
   },
   {
     "id": 71,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dies Iræ.",
     "source": "Wiki Kaamelott — Livre VI",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Dies Iræ reprend l’histoire après la fin du Livre V. La réponse est ce dernier épisode parce qu’il quitte le passé romain pour montrer Arthur après sa tentative de suicide, puis Lancelot prenant les pleins pouvoirs."
   },
   {
     "id": 72,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arturus.",
     "source": "Wikipédia — Personnages de Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott",
-    "explanation": "Le Livre VI remonte à Rome pour montrer comment Arturus devient l’outil politique qui sera envoyé en Bretagne. Le dernier épisode rejoint ensuite le présent et donne une issue beaucoup plus sombre à la trajectoire d’Arthur et Lancelot."
+    "explanation": "À Rome, Arthur apparaît sous le nom d’Arturus. Ce nom appartient à l’arc du Livre VI : avant la légende bretonne et Excalibur, le personnage est intégré à l’appareil romain."
   },
   {
     "id": 73,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lucius Sillius Sallustius.",
     "source": "Wiki Kaamelott — Lucius Sillius Sallustius",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lucius_Sillius_Sallustius",
-    "explanation": "Sallustius repère en Arturus l’outil dont Rome a besoin pour reprendre la main en Bretagne. Son rôle montre que la naissance du roi Arthur passe d’abord par une opération politique romaine."
+    "explanation": "Sallustius organise l’ascension politique d’Arturus. Il voit en lui l’homme que Rome peut envoyer en Bretagne pour restaurer une autorité romaine, ce qui fait du futur roi Arthur un produit de stratégie impériale."
   },
   {
     "id": 74,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Aconia Minor.",
     "source": "Wiki Kaamelott — Aconia Minor",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aconia_Minor",
-    "explanation": "Aconia forme Arturus aux codes du pouvoir romain et devient une figure intime décisive. Son influence donne au futur Arthur une part de mélancolie et de secret qui rejaillit jusqu’à son mariage avec Guenièvre."
+    "explanation": "Aconia Minor forme Arthur à l’exercice du pouvoir. Elle lui enseigne les codes de la haute société romaine et devient aussi une figure intime, ce qui explique pourquoi son souvenir pèse encore dans Dies Iræ."
   },
   {
     "id": 75,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Aconia.",
     "source": "Wikipédia — Personnages de Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott",
-    "explanation": "Le mariage secret avec Aconia précède l’alliance politique avec Guenièvre. Cette union romaine donne une profondeur tragique à Arthur, partagé entre devoir royal et attachement intime."
+    "explanation": "Arthur se marie secrètement avec Aconia avant Guenièvre. Ce mariage romain rend son alliance bretonne plus douloureuse : quand il épouse Guenièvre pour la Carmélide, son passé intime avec Aconia n’a pas disparu."
   },
   {
     "id": 76,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Cæsar.",
     "source": "Wiki Kaamelott — Cæsar Imperator",
     "url": "https://kaamelott.fandom.com/fr/wiki/C%C3%A6sar_Imperator",
-    "explanation": "Cæsar apparaît comme une figure vieillissante de l’autorité romaine et transmet à Arturus une forme de lucidité sur le pouvoir. Ses scènes éclairent ce que le futur roi apprend avant même de revenir en Bretagne."
+    "explanation": "Cæsar marque l’apprentissage d’Arthur parce qu’il incarne une autorité romaine vieillissante et lucide. Ses échanges avec Arturus donnent au futur roi une vision moins héroïque, plus mélancolique, de la fonction de chef."
   },
   {
     "id": 77,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Appius Manilius.",
     "source": "Wiki Kaamelott — Appius Manilius",
     "url": "https://kaamelott.fandom.com/fr/wiki/Appius_Manilius",
-    "explanation": "Manilius est l’ami romain d’Arturus, et sa mort marque l’arc du Livre VI d’une perte personnelle. Le passé d’Arthur n’est donc pas seulement politique : il est aussi fait de deuils et de fidélités anciennes."
+    "explanation": "Appius Manilius est l’ami d’Arturus dans la milice romaine qui meurt pendant le Livre VI. Sa disparition rappelle que le passé d’Arthur n’est pas seulement politique : il est aussi construit sur des deuils personnels."
   },
   {
     "id": 78,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lancelot.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI)",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Lancelot sauve Arthur après sa tentative de suicide. La réponse est forte parce qu’elle précède son basculement final : celui qui sauve Arthur est aussi celui qui va recevoir les pleins pouvoirs et détruire la Table Ronde."
   },
   {
     "id": 79,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Lancelot fait brûler la Table Ronde lors de sa prise de pouvoir. Il ne détruit pas un simple meuble : il efface le symbole de la quête commune, de l’égalité des chevaliers et du projet politique d’Arthur."
   },
   {
     "id": 80,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "À Lancelot.",
     "source": "Wiki Kaamelott — Chronologie fictionnelle",
     "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Arthur remet les pleins pouvoirs à Lancelot après que Karadoc les lui rend. Ce transfert explique la fin tragique : Arthur croit peut-être confier le royaume au chevalier le plus capable, mais Lancelot est déjà sous une influence destructrice."
   },
   {
     "id": 81,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI)",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Arthur revient vivant dans Dies Iræ après sa tentative de suicide. L’épisode reprend le présent pour montrer un roi physiquement sauvé, mais moralement épuisé et déjà prêt à s’effacer du pouvoir."
   },
   {
     "id": 82,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Villa Aconia.",
     "source": "Wiki Kaamelott — Chronologie fictionnelle",
     "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "La Villa Aconia est la demeure romaine qu’Arthur retrouve après sa fuite. Le lieu renvoie à son mariage secret avec Aconia et fait remonter tout le passé du Livre VI au moment où il tente de disparaître de Bretagne."
   },
   {
     "id": 83,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Venec.",
     "source": "Wiki Kaamelott — Chronologie fictionnelle",
     "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle",
-    "explanation": "Venec aide Arthur à fuir vers Rome après l’effondrement du Livre V. Même dans un moment tragique, la sortie passe par un personnage habitué aux affaires clandestines."
+    "explanation": "Venec vient chercher Arthur à Tintagel pour l’aider à fuir vers Rome. C’est logique pour ce personnage : habitué aux trafics, aux arrangements et aux routes clandestines, il devient le passeur d’un roi en fuite."
   },
   {
     "id": 84,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Méléagant.",
     "source": "Wiki Kaamelott — Méléagant",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant",
-    "explanation": "Méléagant accompagne Lancelot au moment où sa solitude devient plus dangereuse. Sa présence donne à la rupture avec Arthur une dimension de manipulation et de chute morale."
+    "explanation": "Méléagant manipule Lancelot au moment de son basculement tyrannique. Sa présence transforme la solitude et la rigidité de Lancelot en chute morale, avec une violence de plus en plus assumée."
   },
   {
     "id": 85,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Méléagant.",
     "source": "Wiki Kaamelott — Méléagant",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant",
-    "explanation": "L’annonce autour de Lionel de Gaunes montre comment Méléagant pousse Lancelot à franchir des seuils de plus en plus sombres. La famille de Lancelot elle-même devient un terrain d’épreuve."
+    "explanation": "Méléagant révèle à Lancelot que Lionel de Gaunes est le voyageur à tuer. Le détail est glaçant parce qu’il vise la parenté de Lancelot : l’épreuve ne concerne plus des ennemis abstraits, mais son propre lien familial."
   },
   {
     "id": 251,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Quête du Graal.",
     "source": "Wiki Kaamelott — Livre I",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_I",
-    "explanation": "Le Livre I installe le quotidien de Kaamelott : la Table Ronde existe, la Quête du Graal donne un objectif commun, mais les missions échouent souvent dans les malentendus et les réunions pénibles."
+    "explanation": "La Quête du Graal est le fil rouge héroïque dès le Livre I. Elle donne une justification sacrée à la Table Ronde, même si la série s’amuse à montrer des chevaliers qui peinent déjà à comprendre leur mission."
   },
   {
     "id": 252,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre I.",
     "source": "Wiki Kaamelott — Livre I",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_I",
-    "explanation": "Le Livre I installe le quotidien de Kaamelott : la Table Ronde existe, la Quête du Graal donne un objectif commun, mais les missions échouent souvent dans les malentendus et les réunions pénibles."
+    "explanation": "Le Livre I garde l’équilibre comique dominant : la quête existe, mais les réunions, les jeux de langage, les missions ratées et la taverne occupent une place énorme. Arthur y apparaît surtout comme un roi qui tente de faire fonctionner une équipe ingérable."
   },
   {
     "id": 253,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre II.",
     "source": "Wiki Kaamelott — Livre II",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_II",
-    "explanation": "Le Livre II élargit le monde autour de Kaamelott avec plus de menaces extérieures et de tensions internes. Arthur doit déjà composer avec la fatigue du pouvoir et les premières fissures dans ses alliances."
+    "explanation": "Les tensions Arthur-Lancelot deviennent plus visibles dans le Livre II. Lancelot reste compétent, mais son sérieux et son exigence l’éloignent de plus en plus du fonctionnement brouillon de Kaamelott."
   },
   {
     "id": 254,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre III.",
     "source": "Wiki Kaamelott — Livre III",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_III",
-    "explanation": "Le Livre III fait monter l’intrigue Arthur-Mevanwi et transforme les affaires de cœur en problème politique. La relation adultère fragilise Guenièvre, Karadoc et l’équilibre de la cour."
+    "explanation": "La relation Arthur-Mevanwi devient un arc majeur dans le Livre III. Elle commence comme une attirance interdite, puis devient un problème de cour parce que Mevanwi est l’épouse de Karadoc et qu’Arthur est marié à Guenièvre."
   },
   {
     "id": 255,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre IV.",
     "source": "Wiki Kaamelott — Livre IV",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_IV",
-    "explanation": "Le Livre IV concrétise la rupture de Lancelot : Guenièvre rejoint son camp, Loth soutient la dissidence et Arthur doit reprendre une situation qui lui échappe. La comédie de cour laisse davantage de place à l’éclatement du royaume."
+    "explanation": "La rupture de Lancelot avec Kaamelott se concrétise dans le Livre IV. Son camp séparé, Guenièvre auprès de lui et le soutien de Loth montrent que le conflit avec Arthur a dépassé le simple désaccord entre chevaliers."
   },
   {
     "id": 256,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre V.",
     "source": "Wiki Kaamelott — Livre V",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_V",
-    "explanation": "Le Livre V place Excalibur et la régence au centre du récit. Arthur ne veut plus ou ne peut plus assumer la royauté, et les clans remplissent le vide laissé par son retrait."
+    "explanation": "Le Livre V met la légitimité royale au centre parce qu’Arthur replante Excalibur et ne la retire plus. À partir de là, tout le monde doit répondre à une question très simple et très dangereuse : qui est roi si l’élu renonce ?"
   },
   {
     "id": 257,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Livre VI.",
     "source": "Wiki Kaamelott — Livre VI",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI",
-    "explanation": "Le Livre VI remonte à Rome pour montrer comment Arturus devient l’outil politique qui sera envoyé en Bretagne. Le dernier épisode rejoint ensuite le présent et donne une issue beaucoup plus sombre à la trajectoire d’Arthur et Lancelot."
+    "explanation": "Le Livre VI revient sur la jeunesse romaine d’Arthur. Il montre Arturus avant le trône, avant Guenièvre et avant Kaamelott, pour expliquer comment Rome a préparé son retour en Bretagne."
   },
   {
     "id": 258,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Il replante Excalibur dans le rocher.",
     "source": "Wiki Kaamelott — La Roche Et Le Fer",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Roche_Et_Le_Fer",
-    "explanation": "Dans La Roche et le Fer, Arthur replante Excalibur et remet en jeu le signe même de sa légitimité. Le geste paraît simple, mais il ouvre la crise politique du Livre V."
+    "explanation": "Le geste déclencheur du Livre V est le fait qu’Arthur replante Excalibur dans le rocher. En faisant cela, il transforme son doute personnel en crise publique : n’importe qui peut venir vérifier s’il est encore l’élu."
   },
   {
     "id": 259,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Royaume Sans Tête.",
     "source": "Wiki Kaamelott — Le Royaume Sans Tête",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Royaume_Sans_T%C3%AAte",
-    "explanation": "Le Royaume Sans Tête correspond au moment où la Bretagne se retrouve sans souverain pleinement reconnu. Les règles de succession, les clans et les ambitions personnelles prennent alors le dessus."
+    "explanation": "Le Royaume Sans Tête porte directement le titre de la crise : Logres n’a plus de souverain pleinement reconnu. La réponse s’impose parce que l’épisode organise les conséquences politiques du retrait d’Excalibur."
   },
   {
     "id": 260,
@@ -449,7 +449,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Élu.",
     "source": "Wiki Kaamelott — L’Élu",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27%C3%89lu",
-    "explanation": "Dans L’Élu, la question n’est plus seulement de savoir qui peut régner, mais si Arthur veut encore assumer ce rôle. Le refus de reprendre Excalibur rend la crise du Livre V plus intime et plus politique à la fois."
+    "explanation": "L’Élu est associé au refus d’Arthur de redevenir roi. Le titre parle de son statut divin, mais l’épisode montre surtout un homme qui ne veut plus forcément porter ce rôle."
   },
   {
     "id": 261,
@@ -459,7 +459,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Jurisconsulte.",
     "source": "Wiki Kaamelott — Le Jurisconsulte",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte",
-    "explanation": "Dans Le Jurisconsulte, la crise du pouvoir se règle par le droit plutôt que par l’héroïsme. Le spécialiste appelé à Kaamelott transforme la succession en casse-tête administratif et matrimonial."
+    "explanation": "Le Jurisconsulte est convoqué parce que la succession ne peut plus se régler seulement par l’épée. Il vient démêler les règles entre reine, régent, mariages et actes juridiques, ce qui fait basculer la crise dans l’administratif."
   },
   {
     "id": 262,
@@ -469,7 +469,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les Semi-Croustillants.",
     "source": "Wiki Kaamelott — Semi-Croustillants",
     "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants",
-    "explanation": "Les Semi-Croustillants naissent dans le désordre politique, autour de Perceval et Karadoc. Le clan a des ambitions de résistance, mais garde la tonalité de taverne et d’organisation approximative propre au duo."
+    "explanation": "Les Semi-Croustillants se constituent autour de Perceval et Karadoc pendant le désordre politique. Le clan correspond bien à ces deux personnages : une tentative d’existence politique qui garde l’esprit de taverne, de combines et de logique bancale."
   },
   {
     "id": 263,
@@ -479,7 +479,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les Petits pédestres.",
     "source": "Wiki Kaamelott — Petits pédestres",
     "url": "https://kaamelott.fandom.com/fr/wiki/Petits_p%C3%A9destres",
-    "explanation": "Les Petits pédestres permettent à Yvain et Gauvain d’éviter de choisir frontalement entre Arthur et Loth. Le clan est politique en apparence, mais il garde l’allure hésitante et adolescente du duo."
+    "explanation": "Les Petits pédestres réunissent Yvain et Gauvain pour ne pas choisir frontalement entre Arthur et Loth. Le clan reflète leur position inconfortable : loyauté familiale, naïveté politique et volonté d’exister par eux-mêmes."
   },
   {
     "id": 264,
@@ -489,7 +489,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le clan de Lancelot.",
     "source": "Wiki Kaamelott — Clan de Lancelot",
     "url": "https://kaamelott.fandom.com/fr/wiki/Clan_de_Lancelot",
-    "explanation": "Le clan de Lancelot incarne une quête du Graal hors de l’autorité d’Arthur. Ce séparatisme transforme une rivalité personnelle en projet concurrent contre Kaamelott."
+    "explanation": "Le clan de Lancelot cherche le Graal hors de Kaamelott. La réponse renvoie à sa rupture : Lancelot estime que la Table Ronde n’est plus digne de la quête et crée une structure séparée dans la forêt."
   },
   {
     "id": 265,
@@ -499,7 +499,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Méléagant.",
     "source": "Wiki Kaamelott — Méléagant",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant",
-    "explanation": "Méléagant accompagne Lancelot après sa rupture avec Arthur et nourrit sa dérive. Le chevalier solitaire bascule alors d’une exigence morale à une logique de destruction."
+    "explanation": "Méléagant accompagne la dérive de Lancelot après sa rupture avec Arthur. Il nourrit son isolement et pousse sa rigueur chevaleresque vers une violence beaucoup plus sombre."
   },
   {
     "id": 266,
@@ -509,7 +509,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Miles Ignotus.",
     "source": "Wiki Kaamelott — Miles Ignotus",
     "url": "https://kaamelott.fandom.com/fr/wiki/Miles_Ignotus",
-    "explanation": "Miles Ignotus ouvre l’arc romain du Livre VI avec Arturus simple soldat, loin du roi de Logres que l’on connaît. Le préquel montre comment Rome fabrique progressivement l’outil politique dont elle a besoin en Bretagne."
+    "explanation": "Miles Ignotus ouvre l’arc romain du Livre VI. Le titre présente Arturus comme un soldat inconnu, bien avant qu’il ne devienne le roi Arthur et le centre de la légende bretonne."
   },
   {
     "id": 267,
@@ -519,7 +519,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Nuptiæ.",
     "source": "Wiki Kaamelott — Nuptiæ",
     "url": "https://kaamelott.fandom.com/fr/wiki/Nupti%C3%A6",
-    "explanation": "Nuptiæ renvoie au mariage d’Arturus et d’Aconia dans le Livre VI. Cette union secrète donne une autre couleur au mariage politique avec Guenièvre et pèse sur la trajectoire intime d’Arthur."
+    "explanation": "Nuptiæ marque le mariage romain autour d’Arthur et Aconia. Cet épisode compte parce que cette union secrète précède le mariage politique avec Guenièvre et donne au passé d’Arthur une blessure intime durable."
   },
   {
     "id": 268,
@@ -529,7 +529,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arturus Rex.",
     "source": "Wiki Kaamelott — Arturus Rex",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arturus_Rex",
-    "explanation": "Arturus Rex marque le moment où l’identité d’Arturus bascule vers la figure royale. Le titre annonce le passage du soldat romain au futur roi de Bretagne."
+    "explanation": "Arturus Rex associe Arturus à son futur statut royal. Le titre annonce que le soldat romain devient peu à peu l’homme choisi pour incarner le pouvoir en Bretagne."
   },
   {
     "id": 269,
@@ -539,7 +539,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dux Bellorum.",
     "source": "Wiki Kaamelott — Dux Bellorum",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dux_Bellorum",
-    "explanation": "Dux Bellorum rattache Arthur à son titre de chef de guerre. L’épisode appartient à l’arc où Rome organise sa montée en puissance pour pacifier et contrôler la Bretagne."
+    "explanation": "Dux Bellorum porte le titre latin de chef de guerre. L’épisode inscrit Arturus dans la stratégie romaine : il n’est pas encore le roi de Kaamelott, mais Rome lui confie déjà une fonction militaire en Bretagne."
   },
   {
     "id": 270,
@@ -549,7 +549,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dies Iræ.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI)",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Dies Iræ revient au présent après le préquel romain. C’est le dernier épisode du Livre VI, celui qui relie tout ce qu’on vient d’apprendre sur Arturus au destin brisé d’Arthur après le Livre V."
   },
   {
     "id": 271,
@@ -559,7 +559,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dies Iræ.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Lancelot incendie la Table Ronde dans Dies Iræ. Ce geste montre son basculement : il ne remplace pas seulement Arthur, il détruit le symbole qui réunissait les chevaliers autour du Graal."
   },
   {
     "id": 272,
@@ -569,7 +569,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le souvenir de la première fois où il retire Excalibur du rocher.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
+    "explanation": "Dans Dies Iræ, Arthur se souvient de la première fois où il retire Excalibur du rocher. Le souvenir répond à son présent : l’enfant élu et le roi qui renonce sont mis face à face."
   },
   {
     "id": 273,
@@ -579,7 +579,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Venec.",
     "source": "Wiki Kaamelott — Chronologie fictionnelle",
     "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle",
-    "explanation": "Venec aide Arthur à fuir vers Rome après l’effondrement du Livre V. Même dans un moment tragique, la sortie passe par un personnage habitué aux affaires clandestines."
+    "explanation": "Venec aide Arthur à fuir vers Rome après sa tentative de suicide. Sa réponse est cohérente avec son rôle de marchand et trafiquant : il sait organiser des déplacements discrets quand le roi ne peut plus passer par les voies officielles."
   },
   {
     "id": 274,
@@ -589,7 +589,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Sallustius.",
     "source": "Wiki Kaamelott — Lucius Sillius Sallustius",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lucius_Sillius_Sallustius",
-    "explanation": "Sallustius repère en Arturus l’outil dont Rome a besoin pour reprendre la main en Bretagne. Son rôle montre que la naissance du roi Arthur passe d’abord par une opération politique romaine."
+    "explanation": "Sallustius transforme Arturus en outil politique pour la Bretagne. Le sénateur ne fabrique pas une légende par romantisme : il cherche une solution romaine à un problème de contrôle territorial."
   },
   {
     "id": 275,
@@ -599,6 +599,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Manilius.",
     "source": "Wiki Kaamelott — Appius Manilius",
     "url": "https://kaamelott.fandom.com/fr/wiki/Appius_Manilius",
-    "explanation": "Manilius est l’ami romain d’Arturus, et sa mort marque l’arc du Livre VI d’une perte personnelle. Le passé d’Arthur n’est donc pas seulement politique : il est aussi fait de deuils et de fidélités anciennes."
+    "explanation": "Manilius est l’ami romain d’Arturus qui meurt dans l’arc du Livre VI. Sa mort donne une part personnelle et douloureuse à la formation d’Arthur, au-delà des calculs de Sallustius et des décisions de Rome."
   }
 ]);
