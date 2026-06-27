@@ -265,11 +265,11 @@ window.KAAMELOTT_CARDS.push(...[
     "id": 27,
     "category": "Personnages",
     "difficulty": "Difficile",
-    "question": "Quelle maîtresse d’Arthur est jumelle d’Aziliz ?",
-    "answer": "Aelis.",
-    "source": "Wiki Kaamelott — Aelis",
-    "url": "https://kaamelott.fandom.com/fr/wiki/Aelis",
-    "explanation": "Aelis appartient au groupe des maîtresses d’Arthur et elle est associée à sa jumelle Aziliz. Ce détail aide à la distinguer des autres femmes de la cour qui gravitent autour du roi et compliquent son mariage avec Guenièvre."
+    "question": "Quelle est la particularité d’Aziliz et Tumet, deux maîtresses d’Arthur ?",
+    "answer": "Elles sont jumelles.",
+    "source": "Wiki Kaamelott — Les jumelles du pêcheur",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Les_jumelles_du_p%C3%AAcheur",
+    "explanation": "Aziliz et Tumet sont les jumelles du pêcheur, deux sœurs qui font partie des maîtresses d’Arthur. Dans l’épisode Les Jumelles du Pêcheur, la scène joue précisément sur leur gémellité : elles veulent savoir si Arthur les distingue vraiment, et c’est cette particularité qui l’intéresse et déclenche le quiproquo."
   },
   {
     "id": 28,
