@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le royaume de Logres.",
     "source": "Wiki Kaamelott — Logres",
     "url": "https://kaamelott.fandom.com/fr/wiki/Logres",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le royaume de Logres. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 87,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Kaamelott.",
     "source": "Wiki Kaamelott — Logres",
     "url": "https://kaamelott.fandom.com/fr/wiki/Logres",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Kaamelott. Ces repères permettent de comprendre les alliances, les conflits et les déplacements des personnages."
+    "explanation": "Logres est le centre du projet d’Arthur : fédérer les royaumes bretons et donner une forme politique à la quête du Graal. Kaamelott en est le cœur visible, autant château que lieu de tensions quotidiennes."
   },
   {
     "id": 88,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Carmélide.",
     "source": "Wiki Kaamelott — Léodagan",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Carmélide. La Carmélide pèse dans l’équilibre politique de Logres par le mariage d’Arthur avec Guenièvre et par le rôle de Léodagan."
+    "explanation": "Léodagan apporte à Kaamelott la dureté de la Carmélide : défense du royaume, autorité militaire et goût très prononcé pour les solutions brutales. Sa présence rappelle que l’alliance avec Guenièvre est aussi un arrangement politique avec un beau-père envahissant."
   },
   {
     "id": 89,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le pays de Vannes.",
     "source": "Wiki Kaamelott — Karadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le pays de Vannes. Le pays de Vannes est surtout associé à Karadoc, à Mevanwi et à certaines règles coutumières utilisées dans les intrigues conjugales."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 90,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le pays de Galles.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le pays de Galles. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 91,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Gaunes.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Gaunes. Gaunes et Bénoïc situent une partie de la parenté de Lancelot et de Bohort dans la carte politique du récit."
+    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
   },
   {
     "id": 92,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Orcanie.",
     "source": "Wiki Kaamelott — Loth",
     "url": "https://kaamelott.fandom.com/fr/wiki/Loth",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : L’Orcanie. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "L’Orcanie est le grand foyer des calculs contre Arthur : Loth manœuvre, Galessin relaie les intérêts du royaume, et les liens familiaux compliquent tout. Avec Gauvain, l’opposition politique devient aussi une affaire de parenté."
   },
   {
     "id": 93,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Au nord de l’île de Bretagne, comprenant les Orcades et une partie nord de l’île principale.",
     "source": "Wiki Kaamelott — Orcanie",
     "url": "https://kaamelott.fandom.com/fr/wiki/Orcanie",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Au nord de l’île de Bretagne, comprenant les Orcades et une partie nord de l’île principale. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "L’Orcanie est le grand foyer des calculs contre Arthur : Loth manœuvre, Galessin relaie les intérêts du royaume, et les liens familiaux compliquent tout. Avec Gauvain, l’opposition politique devient aussi une affaire de parenté."
   },
   {
     "id": 94,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Aquitaine.",
     "source": "Wiki Kaamelott — Aquitaine",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aquitaine",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : L’Aquitaine. L’Aquitaine prend de l’importance dans les arcs de succession et de régence du Livre V."
+    "explanation": "L’Aquitaine prend surtout du relief au moment où le pouvoir d’Arthur vacille. Le duc et la duchesse ajoutent une nouvelle couche d’alliances, de susceptibilités et de calculs à la crise du Livre V."
   },
   {
     "id": 95,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le royaume burgonde.",
     "source": "Wiki Kaamelott — Royaume burgonde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Royaume_burgonde",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le royaume burgonde. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Les scènes burgondes reposent sur une diplomatie impossible : le roi ennemi ne parle pas la langue d’Arthur, et la traduction devient elle-même suspecte. Le pouvoir se retrouve bloqué par une simple impossibilité de se comprendre."
   },
   {
     "id": 96,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dans la forêt.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Dans la forêt. Guenièvre relie les intrigues conjugales, l’alliance avec la Carmélide et le conflit provoqué par Lancelot."
+    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
   },
   {
     "id": 97,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La taverne.",
     "source": "Wiki Kaamelott — Semi-Croustillants",
     "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La taverne. La taverne sert de refuge aux intrigues parallèles, aux discussions de Perceval et Karadoc et aux projets peu structurés."
+    "explanation": "La taverne est le royaume parallèle de Perceval et Karadoc : jeux, dettes, repas, messages mal compris et plans de clan. C’est là que les ambitions chevaleresques se transforment le plus facilement en discussions absurdes."
   },
   {
     "id": 98,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Villa Aconia.",
     "source": "Wiki Kaamelott — Aconia Minor",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aconia_Minor",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Villa Aconia. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Le Livre VI montre l’envers romain de la légende : Arturus y est d’abord un soldat et un instrument politique. Rome façonne le futur roi de Bretagne avant que la légende arthurienne ne prenne le relais."
   },
   {
     "id": 99,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Carmélide.",
     "source": "Wiki Kaamelott — Carmélide",
     "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Carmélide. La Carmélide pèse dans l’équilibre politique de Logres par le mariage d’Arthur avec Guenièvre et par le rôle de Léodagan."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 100,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le pays de Vannes.",
     "source": "Wiki Kaamelott — Pays de Vannes",
     "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Vannes",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le pays de Vannes. Le pays de Vannes est surtout associé à Karadoc, à Mevanwi et à certaines règles coutumières utilisées dans les intrigues conjugales."
+    "explanation": "Le pays de Vannes rattache Karadoc et Mevanwi à un ensemble de coutumes qui deviennent très utiles aux intrigues conjugales. La loi d’échange d’épouses transforme une affaire intime en mécanisme juridique absurde."
   },
   {
     "id": 101,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La salle de la Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La salle de la Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "La Table Ronde est censée mettre les chevaliers sur un pied d’égalité autour du Graal. Dans la série, ce symbole héroïque devient aussi un lieu de réunions chaotiques, de disputes et de remarques très terre-à-terre."
   },
   {
     "id": 102,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le domaine Dagonet.",
     "source": "Wiki Kaamelott — Dagonet",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dagonet",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le domaine Dagonet. Dagonet appartient aux seconds rôles politiques dont le statut contraste souvent avec leur efficacité réelle."
+    "explanation": "Dagonet appartient à ces seigneurs périphériques dont le rang paraît plus clair que la compétence réelle. Ses scènes jouent souvent sur le décalage entre statut noble, maladresse et difficulté à se situer dans la carte politique."
   },
   {
     "id": 103,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Rome.",
     "source": "Wiki Kaamelott — Livre VI",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Rome. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 276,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Kaamelott.",
     "source": "Wiki Kaamelott — Kaamelott",
     "url": "https://kaamelott.fandom.com/fr/wiki/Kaamelott",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Kaamelott. Ces repères permettent de comprendre les alliances, les conflits et les déplacements des personnages."
+    "explanation": "Logres est le centre du projet d’Arthur : fédérer les royaumes bretons et donner une forme politique à la quête du Graal. Kaamelott en est le cœur visible, autant château que lieu de tensions quotidiennes."
   },
   {
     "id": 277,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Logres.",
     "source": "Wiki Kaamelott — Logres",
     "url": "https://kaamelott.fandom.com/fr/wiki/Logres",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Logres. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 278,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le pays de Galles.",
     "source": "Wiki Kaamelott — Pays de Galles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Galles",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le pays de Galles. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 279,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le pays de Vannes.",
     "source": "Wiki Kaamelott — Pays de Vannes",
     "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Vannes",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le pays de Vannes. Le pays de Vannes est surtout associé à Karadoc, à Mevanwi et à certaines règles coutumières utilisées dans les intrigues conjugales."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 280,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Carmélide.",
     "source": "Wiki Kaamelott — Carmélide",
     "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Carmélide. La Carmélide pèse dans l’équilibre politique de Logres par le mariage d’Arthur avec Guenièvre et par le rôle de Léodagan."
+    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
   },
   {
     "id": 281,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Orcanie.",
     "source": "Wiki Kaamelott — Orcanie",
     "url": "https://kaamelott.fandom.com/fr/wiki/Orcanie",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : L’Orcanie. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
   },
   {
     "id": 282,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Gaunes.",
     "source": "Wiki Kaamelott — Gaunes",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gaunes",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Gaunes. Gaunes et Bénoïc situent une partie de la parenté de Lancelot et de Bohort dans la carte politique du récit."
+    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
   },
   {
     "id": 283,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Aquitaine.",
     "source": "Wiki Kaamelott — Aquitaine",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aquitaine",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : L’Aquitaine. L’Aquitaine prend de l’importance dans les arcs de succession et de régence du Livre V."
+    "explanation": "L’Aquitaine prend surtout du relief au moment où le pouvoir d’Arthur vacille. Le duc et la duchesse ajoutent une nouvelle couche d’alliances, de susceptibilités et de calculs à la crise du Livre V."
   },
   {
     "id": 284,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Calédonie.",
     "source": "Wiki Kaamelott — Calédonie",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cal%C3%A9donie",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Calédonie. Ces repères permettent de comprendre les alliances, les conflits et les déplacements des personnages."
+    "explanation": "Logres est le centre du projet d’Arthur : fédérer les royaumes bretons et donner une forme politique à la quête du Graal. Kaamelott en est le cœur visible, autant château que lieu de tensions quotidiennes."
   },
   {
     "id": 285,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Irlande.",
     "source": "Wiki Kaamelott — Irlande",
     "url": "https://kaamelott.fandom.com/fr/wiki/Irlande",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : L’Irlande. Ces repères permettent de comprendre les alliances, les conflits et les déplacements des personnages."
+    "explanation": "Logres est le centre du projet d’Arthur : fédérer les royaumes bretons et donner une forme politique à la quête du Graal. Kaamelott en est le cœur visible, autant château que lieu de tensions quotidiennes."
   },
   {
     "id": 286,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La taverne.",
     "source": "Wiki Kaamelott — Taverne",
     "url": "https://kaamelott.fandom.com/fr/wiki/Taverne",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La taverne. La taverne sert de refuge aux intrigues parallèles, aux discussions de Perceval et Karadoc et aux projets peu structurés."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 287,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La taverne.",
     "source": "Wiki Kaamelott — Semi-Croustillants",
     "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La taverne. La taverne sert de refuge aux intrigues parallèles, aux discussions de Perceval et Karadoc et aux projets peu structurés."
+    "explanation": "La taverne est le royaume parallèle de Perceval et Karadoc : jeux, dettes, repas, messages mal compris et plans de clan. C’est là que les ambitions chevaleresques se transforment le plus facilement en discussions absurdes."
   },
   {
     "id": 288,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dans la forêt, hors de Kaamelott.",
     "source": "Wiki Kaamelott — Clan de Lancelot",
     "url": "https://kaamelott.fandom.com/fr/wiki/Clan_de_Lancelot",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Dans la forêt, hors de Kaamelott. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 289,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Villa Aconia.",
     "source": "Wiki Kaamelott — Villa Aconia",
     "url": "https://kaamelott.fandom.com/fr/wiki/Villa_Aconia",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Villa Aconia. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 290,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Rome.",
     "source": "Wiki Kaamelott — Rome",
     "url": "https://kaamelott.fandom.com/fr/wiki/Rome",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Rome. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Le Livre VI montre l’envers romain de la légende : Arturus y est d’abord un soldat et un instrument politique. Rome façonne le futur roi de Bretagne avant que la légende arthurienne ne prenne le relais."
   },
   {
     "id": 291,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Empire romain.",
     "source": "Wiki Kaamelott — Empire romain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Empire_romain",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : L’Empire romain. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 292,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Tour de Ban.",
     "source": "Wiki Kaamelott — Tour de Ban",
     "url": "https://kaamelott.fandom.com/fr/wiki/Tour_de_Ban",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Tour de Ban. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 293,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le château de Carmélide.",
     "source": "Wiki Kaamelott — Carmélide",
     "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le château de Carmélide. La Carmélide pèse dans l’équilibre politique de Logres par le mariage d’Arthur avec Guenièvre et par le rôle de Léodagan."
+    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
   },
   {
     "id": 294,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le rocher d’Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le rocher d’Excalibur. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 295,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Tintagel.",
     "source": "Wiki Kaamelott — Ygerne de Tintagel",
     "url": "https://kaamelott.fandom.com/fr/wiki/Ygerne_de_Tintagel",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Tintagel. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 296,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le royaume burgonde.",
     "source": "Wiki Kaamelott — Le Roi Burgonde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Roi_Burgonde",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Le royaume burgonde. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Les scènes burgondes reposent sur une diplomatie impossible : le roi ennemi ne parle pas la langue d’Arthur, et la traduction devient elle-même suspecte. Le pouvoir se retrouve bloqué par une simple impossibilité de se comprendre."
   },
   {
     "id": 297,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les galeries creusées sous terre.",
     "source": "Wiki Kaamelott — Semi-Croustillants",
     "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : Les galeries creusées sous terre. La taverne sert de refuge aux intrigues parallèles, aux discussions de Perceval et Karadoc et aux projets peu structurés."
+    "explanation": "La taverne est le royaume parallèle de Perceval et Karadoc : jeux, dettes, repas, messages mal compris et plans de clan. C’est là que les ambitions chevaleresques se transforment le plus facilement en discussions absurdes."
   },
   {
     "id": 298,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La salle de la Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La salle de la Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "La Table Ronde est censée mettre les chevaliers sur un pied d’égalité autour du Graal. Dans la série, ce symbole héroïque devient aussi un lieu de réunions chaotiques, de disputes et de remarques très terre-à-terre."
   },
   {
     "id": 299,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Villa Aconia.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Villa Aconia. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
   },
   {
     "id": 300,
@@ -429,6 +429,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Bretagne et les pays alliés.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "La carte porte sur la géographie politique ou les lieux récurrents de la série : La Bretagne et les pays alliés. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   }
 ]);

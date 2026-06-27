@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Excalibur. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 105,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Retirer Excalibur du rocher.",
     "source": "Wiki Kaamelott — Roi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roi",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Retirer Excalibur du rocher. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
   },
   {
     "id": 106,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : La Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 107,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — Chevalier de la Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Chevalier_de_la_Table_Ronde",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : La Dame du Lac. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "La Dame du Lac relie Arthur aux dieux et rappelle que la quête du Graal n’est pas seulement une affaire de chevaliers. Ses apparitions donnent un cadre mythologique au récit, même quand Arthur reçoit ses consignes dans des situations très prosaïques."
   },
   {
     "id": 108,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Il est responsable de la défense du royaume de Logres.",
     "source": "Wiki Kaamelott — Léodagan",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Il est responsable de la défense du royaume de Logres. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 109,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Jurisconsulte.",
     "source": "Wiki Kaamelott — Le Jurisconsulte",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Le Jurisconsulte. Le Livre V transforme la question de la légitimité royale en crise institutionnelle."
+    "explanation": "Dans Le Jurisconsulte, la crise du pouvoir se règle par le droit plutôt que par l’héroïsme. Le spécialiste appelé à Kaamelott transforme la succession en casse-tête administratif et matrimonial."
   },
   {
     "id": 110,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La reine.",
     "source": "Wiki Kaamelott — Le Jurisconsulte",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : La reine. Le Livre V transforme la question de la légitimité royale en crise institutionnelle."
+    "explanation": "Dans Le Jurisconsulte, la crise du pouvoir se règle par le droit plutôt que par l’héroïsme. Le spécialiste appelé à Kaamelott transforme la succession en casse-tête administratif et matrimonial."
   },
   {
     "id": 111,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc, Léodagan et Lancelot.",
     "source": "Wiki Kaamelott — Roi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roi",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Karadoc, Léodagan et Lancelot. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 112,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Loth",
     "url": "https://kaamelott.fandom.com/fr/wiki/Loth",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Loth. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 113,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Galessin.",
     "source": "Wiki Kaamelott — Galessin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Galessin",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Galessin. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "L’Orcanie est le grand foyer des calculs contre Arthur : Loth manœuvre, Galessin relaie les intérêts du royaume, et les liens familiaux compliquent tout. Avec Gauvain, l’opposition politique devient aussi une affaire de parenté."
   },
   {
     "id": 114,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth d’Orcanie.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Loth d’Orcanie. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 115,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lancelot.",
     "source": "Wiki Kaamelott — Logres",
     "url": "https://kaamelott.fandom.com/fr/wiki/Logres",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Lancelot. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 116,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les chevaliers de la Table Ronde.",
     "source": "Wiki Kaamelott — Chronologie fictionnelle",
     "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Les chevaliers de la Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 117,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Carmélide",
     "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Léodagan. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 118,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Léodagan",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Léodagan. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Léodagan apporte à Kaamelott la dureté de la Carmélide : défense du royaume, autorité militaire et goût très prononcé pour les solutions brutales. Sa présence rappelle que l’alliance avec Guenièvre est aussi un arrangement politique avec un beau-père envahissant."
   },
   {
     "id": 119,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Venec.",
     "source": "Wiki Kaamelott — Raison D’Argent / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Raison_D%27Argent/Script",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Venec. Venec ouvre souvent la série vers les trafics, les arrangements douteux et les solutions peu recommandables."
+    "explanation": "Dans Raison d’Argent, Venec propose des solutions financières douteuses et met Arthur face à l’économie parallèle du royaume. La fausse monnaie résume bien son rôle : utile parfois, jamais vraiment recommandable."
   },
   {
     "id": 120,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : La Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "La Table Ronde est censée mettre les chevaliers sur un pied d’égalité autour du Graal. Dans la série, ce symbole héroïque devient aussi un lieu de réunions chaotiques, de disputes et de remarques très terre-à-terre."
   },
   {
     "id": 121,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Sallustius.",
     "source": "Wikipédia — Personnages de Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Sallustius. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 122,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les chefs locaux révoltés, notamment Léodagan.",
     "source": "Wikipédia — Personnages de Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Les chefs locaux révoltés, notamment Léodagan. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Léodagan apporte à Kaamelott la dureté de la Carmélide : défense du royaume, autorité militaire et goût très prononcé pour les solutions brutales. Sa présence rappelle que l’alliance avec Guenièvre est aussi un arrangement politique avec un beau-père envahissant."
   },
   {
     "id": 123,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dux bellorum, puis dux totius britanniae.",
     "source": "Wikipédia — Personnages de Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Dux bellorum, puis dux totius britanniae. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 124,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Père Blaise.",
     "source": "Wiki Kaamelott — Père Blaise",
     "url": "https://kaamelott.fandom.com/fr/wiki/P%C3%A8re_Blaise",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Le Père Blaise. Le Père Blaise sert à consigner, officialiser ou reformuler les événements de la Table Ronde."
+    "explanation": "Le Père Blaise consigne, corrige et officialise ce que les chevaliers aimeraient faire passer pour de grandes aventures. Ses scènes montrent souvent l’écart entre la légende qu’on veut écrire et la réalité beaucoup moins noble des faits."
   },
   {
     "id": 125,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le clan autonome de Lancelot.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Le clan autonome de Lancelot. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 301,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Excalibur. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 302,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Sa légitimité royale est remise en cause.",
     "source": "Wiki Kaamelott — Roi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roi",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Sa légitimité royale est remise en cause. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 303,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La régence.",
     "source": "Wiki Kaamelott — Roi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roi",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : La régence. Dans Kaamelott, les règles politiques deviennent souvent des moteurs d’intrigue et de conflit."
+    "explanation": "Logres est le centre du projet d’Arthur : fédérer les royaumes bretons et donner une forme politique à la quête du Graal. Kaamelott en est le cœur visible, autant château que lieu de tensions quotidiennes."
   },
   {
     "id": 304,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc, Léodagan et Lancelot.",
     "source": "Wiki Kaamelott — Roi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roi",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Karadoc, Léodagan et Lancelot. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 305,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : La Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 306,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’absence de place privilégiée entre les chevaliers.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : L’absence de place privilégiée entre les chevaliers. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "La Table Ronde est censée mettre les chevaliers sur un pied d’égalité autour du Graal. Dans la série, ce symbole héroïque devient aussi un lieu de réunions chaotiques, de disputes et de remarques très terre-à-terre."
   },
   {
     "id": 307,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : La Dame du Lac. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 308,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Léodagan",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Léodagan. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 309,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Loth",
     "url": "https://kaamelott.fandom.com/fr/wiki/Loth",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Loth. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 310,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le clan de Lancelot.",
     "source": "Wiki Kaamelott — Clan de Lancelot",
     "url": "https://kaamelott.fandom.com/fr/wiki/Clan_de_Lancelot",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Le clan de Lancelot. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 311,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les Semi-Croustillants.",
     "source": "Wiki Kaamelott — Semi-Croustillants",
     "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Les Semi-Croustillants. La taverne sert de refuge aux intrigues parallèles, aux discussions de Perceval et Karadoc et aux projets peu structurés."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 312,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les Petits pédestres.",
     "source": "Wiki Kaamelott — Petits pédestres",
     "url": "https://kaamelott.fandom.com/fr/wiki/Petits_p%C3%A9destres",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Les Petits pédestres. Yvain et Gauvain forment un duo de jeunes chevaliers dont l’inexpérience nourrit beaucoup de scènes comiques."
+    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
   },
   {
     "id": 313,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Jurisconsulte.",
     "source": "Wiki Kaamelott — Le Jurisconsulte",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Le Jurisconsulte. Le Livre V transforme la question de la légitimité royale en crise institutionnelle."
+    "explanation": "Dans Le Jurisconsulte, la crise du pouvoir se règle par le droit plutôt que par l’héroïsme. Le spécialiste appelé à Kaamelott transforme la succession en casse-tête administratif et matrimonial."
   },
   {
     "id": 314,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guenièvre.",
     "source": "Wiki Kaamelott — Roi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roi",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Guenièvre. Guenièvre relie les intrigues conjugales, l’alliance avec la Carmélide et le conflit provoqué par Lancelot."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 315,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Une loi du pays de Vannes.",
     "source": "Wiki Kaamelott — Pays de Vannes",
     "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Vannes",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Une loi du pays de Vannes. Le pays de Vannes est surtout associé à Karadoc, à Mevanwi et à certaines règles coutumières utilisées dans les intrigues conjugales."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 316,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Duc d’Aquitaine.",
     "source": "Wiki Kaamelott — Aquitaine",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aquitaine",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Le Duc d’Aquitaine. L’Aquitaine prend de l’importance dans les arcs de succession et de régence du Livre V."
+    "explanation": "L’Aquitaine prend surtout du relief au moment où le pouvoir d’Arthur vacille. Le duc et la duchesse ajoutent une nouvelle couche d’alliances, de susceptibilités et de calculs à la crise du Livre V."
   },
   {
     "id": 317,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Caius Camillus.",
     "source": "Wiki Kaamelott — Caius Camillus",
     "url": "https://kaamelott.fandom.com/fr/wiki/Caius_Camillus",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Caius Camillus. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Le Livre VI montre l’envers romain de la légende : Arturus y est d’abord un soldat et un instrument politique. Rome façonne le futur roi de Bretagne avant que la légende arthurienne ne prenne le relais."
   },
   {
     "id": 318,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dux Bellorum.",
     "source": "Wiki Kaamelott — Dux Bellorum",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dux_Bellorum",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Dux Bellorum. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Dux Bellorum rattache Arthur à son titre de chef de guerre. L’épisode appartient à l’arc où Rome organise sa montée en puissance pour pacifier et contrôler la Bretagne."
   },
   {
     "id": 319,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Sallustius.",
     "source": "Wiki Kaamelott — Lucius Sillius Sallustius",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lucius_Sillius_Sallustius",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Sallustius. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 320,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Roi Burgonde.",
     "source": "Wiki Kaamelott — Le Roi Burgonde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Roi_Burgonde",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Le Roi Burgonde. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Les scènes burgondes reposent sur une diplomatie impossible : le roi ennemi ne parle pas la langue d’Arthur, et la traduction devient elle-même suspecte. Le pouvoir se retrouve bloqué par une simple impossibilité de se comprendre."
   },
   {
     "id": 321,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Bohort.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Bohort. Bohort apporte un contrepoint pacifique et anxieux au modèle chevaleresque attendu autour de la Table Ronde."
+    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
   },
   {
     "id": 322,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’incendie de la Table Ronde.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : L’incendie de la Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
   },
   {
     "id": 323,
@@ -449,7 +449,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les pleins pouvoirs.",
     "source": "Wiki Kaamelott — Chronologie fictionnelle",
     "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Les pleins pouvoirs. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 324,
@@ -459,7 +459,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le mariage d’Arthur avec Guenièvre.",
     "source": "Wiki Kaamelott — Carmélide",
     "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : Le mariage d’Arthur avec Guenièvre. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 325,
@@ -469,6 +469,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde et ses chevaliers.",
     "source": "Wiki Kaamelott — Chevalier de la Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Chevalier_de_la_Table_Ronde",
-    "explanation": "La réponse concerne l’exercice du pouvoir, la légitimité ou les rapports de force : La Table Ronde et ses chevaliers. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
   }
 ]);

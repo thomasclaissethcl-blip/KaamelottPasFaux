@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur Pendragon.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "Cette carte sert à identifier Arthur Pendragon par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval de Galles.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "Cette carte sert à identifier Perceval de Galles par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — Karadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc",
-    "explanation": "Cette carte sert à identifier Karadoc par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 4,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lancelot du Lac.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Cette carte sert à identifier Lancelot du Lac par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 5,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guenièvre.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Cette carte sert à identifier Guenièvre par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Guenièvre relie les intrigues conjugales, l’alliance avec la Carmélide et le conflit provoqué par Lancelot."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 6,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Léodagan",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan",
-    "explanation": "Cette carte sert à identifier Léodagan par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Léodagan apporte à Kaamelott la dureté de la Carmélide : défense du royaume, autorité militaire et goût très prononcé pour les solutions brutales. Sa présence rappelle que l’alliance avec Guenièvre est aussi un arrangement politique avec un beau-père envahissant."
   },
   {
     "id": 7,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Séli.",
     "source": "Wiki Kaamelott — Séli",
     "url": "https://kaamelott.fandom.com/fr/wiki/S%C3%A9li",
-    "explanation": "Cette carte sert à identifier Séli par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Séli appartient au cercle familial de Carmélide et intervient souvent dans les affaires domestiques, politiques ou matrimoniales."
+    "explanation": "Léodagan apporte à Kaamelott la dureté de la Carmélide : défense du royaume, autorité militaire et goût très prononcé pour les solutions brutales. Sa présence rappelle que l’alliance avec Guenièvre est aussi un arrangement politique avec un beau-père envahissant."
   },
   {
     "id": 8,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Merlin.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Cette carte sert à identifier Merlin par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Merlin représente l’enchanteur officiel, avec un décalage comique fréquent entre sa fonction et ses résultats."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 9,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Élias de Kelliwic’h.",
     "source": "Wiki Kaamelott — Élias de Kelliwic’h",
     "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h",
-    "explanation": "Cette carte sert à identifier Élias de Kelliwic’h par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Élias met en contraste la magie très incertaine de Merlin avec une pratique plus efficace et plus calculatrice."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 10,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Père Blaise.",
     "source": "Wiki Kaamelott — Père Blaise",
     "url": "https://kaamelott.fandom.com/fr/wiki/P%C3%A8re_Blaise",
-    "explanation": "Cette carte sert à identifier Le Père Blaise par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Le Père Blaise sert à consigner, officialiser ou reformuler les événements de la Table Ronde."
+    "explanation": "Le Père Blaise consigne, corrige et officialise ce que les chevaliers aimeraient faire passer pour de grandes aventures. Ses scènes montrent souvent l’écart entre la légende qu’on veut écrire et la réalité beaucoup moins noble des faits."
   },
   {
     "id": 11,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Venec.",
     "source": "Wiki Kaamelott — Venec",
     "url": "https://kaamelott.fandom.com/fr/wiki/Venec",
-    "explanation": "Cette carte sert à identifier Venec par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Venec ouvre souvent la série vers les trafics, les arrangements douteux et les solutions peu recommandables."
+    "explanation": "Venec apparaît quand les solutions officielles ne suffisent plus ou quand Arthur a besoin d’un service douteux. Trafics, fausse monnaie, esclaves ou fuite clandestine : il incarne les raccourcis peu glorieux du royaume."
   },
   {
     "id": 12,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Bohort.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "Cette carte sert à identifier Bohort par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Bohort apporte un contrepoint pacifique et anxieux au modèle chevaleresque attendu autour de la Table Ronde."
+    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
   },
   {
     "id": 13,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Yvain.",
     "source": "Wiki Kaamelott — Yvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Yvain",
-    "explanation": "Cette carte sert à identifier Yvain par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Yvain et Gauvain forment un duo de jeunes chevaliers dont l’inexpérience nourrit beaucoup de scènes comiques."
+    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
   },
   {
     "id": 14,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Gauvain.",
     "source": "Wiki Kaamelott — Gauvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gauvain",
-    "explanation": "Cette carte sert à identifier Gauvain par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Yvain et Gauvain forment un duo de jeunes chevaliers dont l’inexpérience nourrit beaucoup de scènes comiques."
+    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
   },
   {
     "id": 15,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Kadoc.",
     "source": "Wiki Kaamelott — Kadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Kadoc",
-    "explanation": "Cette carte sert à identifier Kadoc par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Kadoc fonctionne surtout par langage absurde et par formules répétées, souvent impossibles à interpréter littéralement."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 16,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Loth",
     "url": "https://kaamelott.fandom.com/fr/wiki/Loth",
-    "explanation": "Cette carte sert à identifier Loth par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 17,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Galessin.",
     "source": "Wiki Kaamelott — Galessin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Galessin",
-    "explanation": "Cette carte sert à identifier Galessin par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "L’Orcanie est le grand foyer des calculs contre Arthur : Loth manœuvre, Galessin relaie les intérêts du royaume, et les liens familiaux compliquent tout. Avec Gauvain, l’opposition politique devient aussi une affaire de parenté."
   },
   {
     "id": 18,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dagonet.",
     "source": "Wiki Kaamelott — Dagonet",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dagonet",
-    "explanation": "Cette carte sert à identifier Dagonet par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Dagonet appartient aux seconds rôles politiques dont le statut contraste souvent avec leur efficacité réelle."
+    "explanation": "Dagonet appartient à ces seigneurs périphériques dont le rang paraît plus clair que la compétence réelle. Ses scènes jouent souvent sur le décalage entre statut noble, maladresse et difficulté à se situer dans la carte politique."
   },
   {
     "id": 19,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Méléagant.",
     "source": "Wiki Kaamelott — Méléagant",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant",
-    "explanation": "Cette carte sert à identifier Méléagant par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Méléagant intervient comme force de manipulation et accompagne le durcissement de Lancelot dans les derniers Livres."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 20,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac, aussi appelée Viviane.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Cette carte sert à identifier La Dame du Lac, aussi appelée Viviane par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 21,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Mevanwi.",
     "source": "Wiki Kaamelott — Mevanwi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Mevanwi",
-    "explanation": "Cette carte sert à identifier Mevanwi par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Mevanwi est au centre d’un arc conjugal et politique qui fragilise l’équilibre entre Arthur, Guenièvre et Karadoc."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 22,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Roparzh.",
     "source": "Wiki Kaamelott — Roparzh",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roparzh",
-    "explanation": "Cette carte sert à identifier Roparzh par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les paysans rendent visible le décalage entre les grands projets du royaume et les problèmes très concrets du peuple."
+    "explanation": "Guethenoc et Roparzh ramènent Arthur aux plaintes du peuple : champs, voisinage, bétail et rancunes anciennes. Le contraste est net entre la quête du Graal et les problèmes très concrets qui arrivent jusqu’au trône."
   },
   {
     "id": 23,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guethenoc.",
     "source": "Wiki Kaamelott — Guethenoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Guethenoc",
-    "explanation": "Cette carte sert à identifier Guethenoc par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les paysans rendent visible le décalage entre les grands projets du royaume et les problèmes très concrets du peuple."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 24,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Roi Burgonde.",
     "source": "Wiki Kaamelott — Le Roi Burgonde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Roi_Burgonde",
-    "explanation": "Cette carte sert à identifier Le Roi Burgonde par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 25,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Interprète.",
     "source": "Wiki Kaamelott — L’Interprète",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28personnage%29",
-    "explanation": "Cette carte sert à identifier L’Interprète par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
   },
   {
     "id": 26,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Maître d’Armes.",
     "source": "Wiki Kaamelott — Le Maître d’Armes",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_d%27Armes",
-    "explanation": "Cette carte sert à identifier Le Maître d’Armes par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Le Maître d’Armes rattache le comique verbal à l’entraînement guerrier d’Arthur."
+    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
   },
   {
     "id": 27,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Aelis.",
     "source": "Wiki Kaamelott — Aelis",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aelis",
-    "explanation": "Cette carte sert à identifier Aelis par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les maîtresses d’Arthur montrent aussi la dimension domestique et conjugale du pouvoir royal."
+    "explanation": "Aelis et Aziliz appartiennent au cercle des maîtresses d’Arthur. Elles rappellent que la vie sentimentale du roi n’est jamais seulement privée : elle se déroule sous les yeux de la cour et finit toujours par toucher Guenièvre."
   },
   {
     "id": 28,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Demetra.",
     "source": "Wiki Kaamelott — Demetra",
     "url": "https://kaamelott.fandom.com/fr/wiki/Demetra",
-    "explanation": "Cette carte sert à identifier Demetra par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les maîtresses d’Arthur montrent aussi la dimension domestique et conjugale du pouvoir royal."
+    "explanation": "Demetra fait partie des maîtresses d’Arthur tout en restant proche de Guenièvre. Cette proximité rend les intrigues conjugales plus ambiguës, parce que la cour vit les infidélités d’Arthur dans un quotidien presque domestique."
   },
   {
     "id": 201,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "« Guenièvre à la Blanche Fesse ».",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Cette carte sert à identifier « Guenièvre à la Blanche Fesse ». par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Guenièvre relie les intrigues conjugales, l’alliance avec la Carmélide et le conflit provoqué par Lancelot."
+    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
   },
   {
     "id": 202,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "884 ans dans trois semaines.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Cette carte sert à identifier 884 ans dans trois semaines par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Merlin représente l’enchanteur officiel, avec un décalage comique fréquent entre sa fonction et ses résultats."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 203,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Merlin.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Cette carte sert à identifier Merlin par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Merlin représente l’enchanteur officiel, avec un décalage comique fréquent entre sa fonction et ses résultats."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 204,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Bohort de Gaunes.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "Cette carte sert à identifier Bohort de Gaunes par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Bohort apporte un contrepoint pacifique et anxieux au modèle chevaleresque attendu autour de la Table Ronde."
+    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
   },
   {
     "id": 205,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Caius Camillus.",
     "source": "Wiki Kaamelott — Caius Camillus",
     "url": "https://kaamelott.fandom.com/fr/wiki/Caius_Camillus",
-    "explanation": "Cette carte sert à identifier Caius Camillus par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Le Livre VI montre l’envers romain de la légende : Arturus y est d’abord un soldat et un instrument politique. Rome façonne le futur roi de Bretagne avant que la légende arthurienne ne prenne le relais."
   },
   {
     "id": 206,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lucius Sillius Sallustius.",
     "source": "Wiki Kaamelott — Lucius Sillius Sallustius",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lucius_Sillius_Sallustius",
-    "explanation": "Cette carte sert à identifier Lucius Sillius Sallustius par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 207,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Manilius.",
     "source": "Wiki Kaamelott — Appius Manilius",
     "url": "https://kaamelott.fandom.com/fr/wiki/Appius_Manilius",
-    "explanation": "Cette carte sert à identifier Manilius par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 208,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Aconia Minor.",
     "source": "Wiki Kaamelott — Aconia Minor",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aconia_Minor",
-    "explanation": "Cette carte sert à identifier Aconia Minor par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 209,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Cæsar Imperator.",
     "source": "Wiki Kaamelott — Cæsar Imperator",
     "url": "https://kaamelott.fandom.com/fr/wiki/C%C3%A6sar_Imperator",
-    "explanation": "Cette carte sert à identifier Cæsar Imperator par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 210,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Manius Macrinus Firmus.",
     "source": "Wiki Kaamelott — Manius Macrinus Firmus",
     "url": "https://kaamelott.fandom.com/fr/wiki/Manius_Macrinus_Firmus",
-    "explanation": "Cette carte sert à identifier Manius Macrinus Firmus par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 211,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Interprète.",
     "source": "Wiki Kaamelott — L’Interprète",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28personnage%29",
-    "explanation": "Cette carte sert à identifier L’Interprète par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
   },
   {
     "id": 212,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Kadoc.",
     "source": "Wiki Kaamelott — Kadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Kadoc",
-    "explanation": "Cette carte sert à identifier Kadoc par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Kadoc fonctionne surtout par langage absurde et par formules répétées, souvent impossibles à interpréter littéralement."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 213,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Calogrenant.",
     "source": "Wiki Kaamelott — Calogrenant",
     "url": "https://kaamelott.fandom.com/fr/wiki/Calogrenant",
-    "explanation": "Cette carte sert à identifier Calogrenant par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "La Table Ronde est censée mettre les chevaliers sur un pied d’égalité autour du Graal. Dans la série, ce symbole héroïque devient aussi un lieu de réunions chaotiques, de disputes et de remarques très terre-à-terre."
   },
   {
     "id": 214,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Galessin.",
     "source": "Wiki Kaamelott — Galessin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Galessin",
-    "explanation": "Cette carte sert à identifier Galessin par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "L’Orcanie est le grand foyer des calculs contre Arthur : Loth manœuvre, Galessin relaie les intérêts du royaume, et les liens familiaux compliquent tout. Avec Gauvain, l’opposition politique devient aussi une affaire de parenté."
   },
   {
     "id": 215,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Loth",
     "url": "https://kaamelott.fandom.com/fr/wiki/Loth",
-    "explanation": "Cette carte sert à identifier Loth par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
   },
   {
     "id": 216,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Anna de Tintagel.",
     "source": "Wiki Kaamelott — Anna de Tintagel",
     "url": "https://kaamelott.fandom.com/fr/wiki/Anna_de_Tintagel",
-    "explanation": "Cette carte sert à identifier Anna de Tintagel par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 217,
@@ -449,7 +449,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Ygerne de Tintagel.",
     "source": "Wiki Kaamelott — Ygerne de Tintagel",
     "url": "https://kaamelott.fandom.com/fr/wiki/Ygerne_de_Tintagel",
-    "explanation": "Cette carte sert à identifier Ygerne de Tintagel par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 218,
@@ -459,7 +459,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Cryda de Tintagel.",
     "source": "Wiki Kaamelott — Cryda de Tintagel",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cryda_de_Tintagel",
-    "explanation": "Cette carte sert à identifier Cryda de Tintagel par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Elle aide à replacer le personnage dans l’entourage politique, familial ou chevaleresque d’Arthur."
+    "explanation": "Tintagel rattache Arthur à sa famille maternelle et aux zones plus anciennes de sa légende. Ygerne, Anna et Cryda rappellent que les liens de sang compliquent autant le pouvoir que les alliances politiques."
   },
   {
     "id": 219,
@@ -469,7 +469,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Bohort.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "Cette carte sert à identifier Bohort par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Bohort apporte un contrepoint pacifique et anxieux au modèle chevaleresque attendu autour de la Table Ronde."
+    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
   },
   {
     "id": 220,
@@ -479,7 +479,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Cette carte sert à identifier La Dame du Lac par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "La Dame du Lac relie Arthur aux dieux et rappelle que la quête du Graal n’est pas seulement une affaire de chevaliers. Ses apparitions donnent un cadre mythologique au récit, même quand Arthur reçoit ses consignes dans des situations très prosaïques."
   },
   {
     "id": 221,
@@ -489,7 +489,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Méléagant.",
     "source": "Wiki Kaamelott — Méléagant",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant",
-    "explanation": "Cette carte sert à identifier Méléagant par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Méléagant intervient comme force de manipulation et accompagne le durcissement de Lancelot dans les derniers Livres."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 222,
@@ -499,7 +499,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Élias de Kelliwic’h.",
     "source": "Wiki Kaamelott — Élias de Kelliwic’h",
     "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h",
-    "explanation": "Cette carte sert à identifier Élias de Kelliwic’h par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Élias met en contraste la magie très incertaine de Merlin avec une pratique plus efficace et plus calculatrice."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 223,
@@ -509,7 +509,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Venec.",
     "source": "Wiki Kaamelott — Venec",
     "url": "https://kaamelott.fandom.com/fr/wiki/Venec",
-    "explanation": "Cette carte sert à identifier Venec par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Venec ouvre souvent la série vers les trafics, les arrangements douteux et les solutions peu recommandables."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 224,
@@ -519,7 +519,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guethenoc.",
     "source": "Wiki Kaamelott — Guethenoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Guethenoc",
-    "explanation": "Cette carte sert à identifier Guethenoc par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les paysans rendent visible le décalage entre les grands projets du royaume et les problèmes très concrets du peuple."
+    "explanation": "Guethenoc et Roparzh ramènent Arthur aux plaintes du peuple : champs, voisinage, bétail et rancunes anciennes. Le contraste est net entre la quête du Graal et les problèmes très concrets qui arrivent jusqu’au trône."
   },
   {
     "id": 225,
@@ -529,6 +529,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Roparzh.",
     "source": "Wiki Kaamelott — Roparzh",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roparzh",
-    "explanation": "Cette carte sert à identifier Roparzh par sa fonction, son origine ou son rôle récurrent dans l’univers de Kaamelott. Les paysans rendent visible le décalage entre les grands projets du royaume et les problèmes très concrets du peuple."
+    "explanation": "Guethenoc et Roparzh ramènent Arthur aux plaintes du peuple : champs, voisinage, bétail et rancunes anciennes. Le contraste est net entre la quête du Graal et les problèmes très concrets qui arrivent jusqu’au trône."
   }
 ]);

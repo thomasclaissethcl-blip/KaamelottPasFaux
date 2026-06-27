@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   },
   {
     "id": 432,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   },
   {
     "id": 433,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Angharad.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La réplique est attribuée à Angharad. Angharad est liée à Guenièvre et à une intrigue sentimentale discrète avec Perceval."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   },
   {
     "id": 434,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   },
   {
     "id": 435,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 436,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "La réplique est attribuée à Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 437,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 438,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Le Message Codé",
     "url": "https://www.missabrevis.com/codex/episodes/le-message-code/",
-    "explanation": "La réplique est attribuée à Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Dans Le Message Codé, Perceval et Karadoc traitent un message incompréhensible comme s’il s’agissait forcément d’un code élaboré. La taverne devient le décor idéal de leur logique bancale, entre faux déchiffrage et assurance démesurée."
   },
   {
     "id": 439,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Tavernier.",
     "source": "Missa Brevis — Le Message Codé",
     "url": "https://www.missabrevis.com/codex/episodes/le-message-code/",
-    "explanation": "La réplique est attribuée à Le Tavernier. Le contexte de la question aide à reconnaître la voix du personnage, son registre et le type de situation où il intervient."
+    "explanation": "Dans Le Message Codé, Perceval et Karadoc traitent un message incompréhensible comme s’il s’agissait forcément d’un code élaboré. La taverne devient le décor idéal de leur logique bancale, entre faux déchiffrage et assurance démesurée."
   },
   {
     "id": 440,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Le Message Codé",
     "url": "https://www.missabrevis.com/codex/episodes/le-message-code/",
-    "explanation": "La réplique est attribuée à Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Dans Le Message Codé, Perceval et Karadoc traitent un message incompréhensible comme s’il s’agissait forcément d’un code élaboré. La taverne devient le décor idéal de leur logique bancale, entre faux déchiffrage et assurance démesurée."
   },
   {
     "id": 441,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — L’Interprète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
   },
   {
     "id": 442,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — L’Interprète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
   },
   {
     "id": 443,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Demetra.",
     "source": "Wiki Kaamelott — L’Interprète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script",
-    "explanation": "La réplique est attribuée à Demetra. Les maîtresses d’Arthur montrent aussi la dimension domestique et conjugale du pouvoir royal."
+    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
   },
   {
     "id": 444,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Maître d’Armes.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "La réplique est attribuée à Le Maître d’Armes. Le Maître d’Armes rattache le comique verbal à l’entraînement guerrier d’Arthur."
+    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
   },
   {
     "id": 445,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Maître d’Armes.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "La réplique est attribuée à Le Maître d’Armes. Le Maître d’Armes rattache le comique verbal à l’entraînement guerrier d’Arthur."
+    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
   },
   {
     "id": 446,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
   },
   {
     "id": 447,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Maître d’Armes.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "La réplique est attribuée à Le Maître d’Armes. Le Maître d’Armes rattache le comique verbal à l’entraînement guerrier d’Arthur."
+    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
   },
   {
     "id": 448,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Le Porte-bonheur",
     "url": "https://www.missabrevis.com/codex/episodes/le-porte-bonheur/",
-    "explanation": "La réplique est attribuée à Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Dans Le Porte-bonheur, Karadoc questionne Lancelot sur son couteau hérité du roi Ban. Le dialogue oppose la valeur intime de l’objet pour Lancelot à la curiosité insistante et très concrète de Karadoc."
   },
   {
     "id": 449,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lancelot.",
     "source": "Missa Brevis — Le Porte-bonheur",
     "url": "https://www.missabrevis.com/codex/episodes/le-porte-bonheur/",
-    "explanation": "La réplique est attribuée à Lancelot. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Dans Le Porte-bonheur, Karadoc questionne Lancelot sur son couteau hérité du roi Ban. Le dialogue oppose la valeur intime de l’objet pour Lancelot à la curiosité insistante et très concrète de Karadoc."
   },
   {
     "id": 450,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Le Porte-bonheur",
     "url": "https://www.missabrevis.com/codex/episodes/le-porte-bonheur/",
-    "explanation": "La réplique est attribuée à Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Dans Le Porte-bonheur, Karadoc questionne Lancelot sur son couteau hérité du roi Ban. Le dialogue oppose la valeur intime de l’objet pour Lancelot à la curiosité insistante et très concrète de Karadoc."
   },
   {
     "id": 451,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — Unagi II",
     "url": "https://www.missabrevis.com/codex/episodes/unagi-ii/",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans Unagi II, Perceval et Karadoc présentent une technique de combat supposée redoutable. La scène amuse parce qu’ils décrivent avec aplomb une méthode absurde, jusqu’à l’idée de casser des pierres à mains nues."
   },
   {
     "id": 452,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Missa Brevis — Unagi II",
     "url": "https://www.missabrevis.com/codex/episodes/unagi-ii/",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans Unagi II, Perceval et Karadoc présentent une technique de combat supposée redoutable. La scène amuse parce qu’ils décrivent avec aplomb une méthode absurde, jusqu’à l’idée de casser des pierres à mains nues."
   },
   {
     "id": 453,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Unagi II",
     "url": "https://www.missabrevis.com/codex/episodes/unagi-ii/",
-    "explanation": "La réplique est attribuée à Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Dans Unagi II, Perceval et Karadoc présentent une technique de combat supposée redoutable. La scène amuse parce qu’ils décrivent avec aplomb une méthode absurde, jusqu’à l’idée de casser des pierres à mains nues."
   },
   {
     "id": 454,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Missa Brevis — Unagi II",
     "url": "https://www.missabrevis.com/codex/episodes/unagi-ii/",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans Unagi II, Perceval et Karadoc présentent une technique de combat supposée redoutable. La scène amuse parce qu’ils décrivent avec aplomb une méthode absurde, jusqu’à l’idée de casser des pierres à mains nues."
   },
   {
     "id": 455,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — Sept Cent Quarante-Quatre",
     "url": "https://www.missabrevis.com/codex/episodes/sept-cent-quarante-quatre/",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans Sept Cent Quarante-Quatre, Perceval tente des calculs à la taverne avec une logique numérique qui lui échappe complètement. Le chiffre absurde devient drôle parce qu’il est présenté avec un sérieux total."
   },
   {
     "id": 456,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — La Poétique II, 1re partie",
     "url": "https://www.missabrevis.com/codex/episodes/la-poetique-ii-1re-partie/",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans La Poétique II, Perceval veut raconter une aventure à la Table Ronde mais doute lui-même de la qualité de son récit. La scène joue sur son envie d’être reconnu comme chevalier et sa peur de produire une histoire franchement décevante."
   },
   {
     "id": 457,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — La Poétique II, 1re partie",
     "url": "https://www.missabrevis.com/codex/episodes/la-poetique-ii-1re-partie/",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans La Poétique II, Perceval veut raconter une aventure à la Table Ronde mais doute lui-même de la qualité de son récit. La scène joue sur son envie d’être reconnu comme chevalier et sa peur de produire une histoire franchement décevante."
   },
   {
     "id": 458,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — L’Inspiration",
     "url": "https://www.missabrevis.com/codex/episodes/linspiration/",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans L’Inspiration, Arthur retrouve Perceval au bord de l’eau et croit d’abord à une scène de pêche. Perceval renverse la situation en expliquant qu’il n’aime pas ça, alors même que tout indique le contraire."
   },
   {
     "id": 459,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Missa Brevis — L’Inspiration",
     "url": "https://www.missabrevis.com/codex/episodes/linspiration/",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans L’Inspiration, Arthur retrouve Perceval au bord de l’eau et croit d’abord à une scène de pêche. Perceval renverse la situation en expliquant qu’il n’aime pas ça, alors même que tout indique le contraire."
   },
   {
     "id": 460,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — L’Inspiration",
     "url": "https://www.missabrevis.com/codex/episodes/linspiration/",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans L’Inspiration, Arthur retrouve Perceval au bord de l’eau et croit d’abord à une scène de pêche. Perceval renverse la situation en expliquant qu’il n’aime pas ça, alors même que tout indique le contraire."
   },
   {
     "id": 461,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Séli.",
     "source": "Wiki Kaamelott — Citations, Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Séli. Séli appartient au cercle familial de Carmélide et intervient souvent dans les affaires domestiques, politiques ou matrimoniales."
+    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
   },
   {
     "id": 462,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
   },
   {
     "id": 463,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Séli.",
     "source": "Wiki Kaamelott — Citations, Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Séli. Séli appartient au cercle familial de Carmélide et intervient souvent dans les affaires domestiques, politiques ou matrimoniales."
+    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
   },
   {
     "id": 464,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Citations, Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Léodagan. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
   },
   {
     "id": 465,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 466,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Citations, La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Léodagan. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 467,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "La réplique est attribuée à Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 468,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Bohort.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "La réplique est attribuée à Bohort. Bohort apporte un contrepoint pacifique et anxieux au modèle chevaleresque attendu autour de la Table Ronde."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 469,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Breccan.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "La réplique est attribuée à Breccan. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 470,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, À La Volette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans À la Volette, Merlin est rappelé à sa fonction d’enchanteur officiel. Arthur l’interpelle sèchement parce qu’il attend des résultats magiques, pas des remarques protectrices ou familiales."
   },
   {
     "id": 471,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Le Tourment",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans Le Tourment, Arthur répond à Perceval sur un sujet sentimental avec son mélange habituel d’agacement et de pragmatisme. La réplique fonctionne parce qu’elle traite la confusion amoureuse de Perceval avec une liberté volontairement excessive."
   },
   {
     "id": 472,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Unagi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans Unagi, Arthur observe les activités de Perceval et Karadoc avec son scepticisme habituel. La question sur le fait de glandouiller souligne le décalage entre la discipline attendue d’un chevalier et leur manière très personnelle de s’occuper."
   },
   {
     "id": 473,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Le Culte Secret",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans Le Culte Secret, les questions religieuses viennent compliquer la vie politique et domestique de Kaamelott. Arthur réagit comme souvent : moins en théologien qu’en roi saturé par les complications de son entourage."
   },
   {
     "id": 474,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, La Mission",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans La Mission, Arthur mesure l’écart entre l’idéal sacré de la quête et l’état réel de ses chevaliers. La phrase fonctionne parce qu’elle avoue, avec lassitude, que le Graal risque de rester hors de portée encore longtemps."
   },
   {
     "id": 475,
@@ -449,7 +449,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Livre V, L’Épée Des Rois",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans L’Épée des Rois, Arthur ne veut plus être reconnu comme souverain et rejette les marques de respect qui le ramènent à sa fonction. Le cri rappelle son épuisement face au rôle royal et à la question d’Excalibur."
   },
   {
     "id": 476,
@@ -459,7 +459,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Livre VI, Dies Iræ",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans Dies Iræ, Arthur parle depuis un point de fatigue et de lucidité qui donne à la réplique un poids plus mélancolique. On est loin du simple gag de cour : la phrase renvoie à ce qu’il a perdu, imaginé ou renoncé à devenir."
   },
   {
     "id": 477,
@@ -469,7 +469,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Citations, Léodagan, Livre II, Le Complot",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Léodagan. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Dans Le Complot, Léodagan retourne l’accusation contre lui en prétendant que son problème serait d’être trop gentil. La réplique est drôle parce qu’elle vient précisément du personnage le plus porté sur les réponses dures et militaires."
   },
   {
     "id": 478,
@@ -479,7 +479,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Citations, Loth, Livre V, La Promesse",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Loth. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "Dans La Promesse, Loth assume son goût de l’intrigue presque comme un passe-temps domestique. La phrase résume le personnage : s’il reste seul trop longtemps, il transforme l’ennui en complot politique."
   },
   {
     "id": 479,
@@ -489,7 +489,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Citations, Loth, Livre V, Les Dauphins",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Loth. L’Orcanie est régulièrement associée aux intrigues de cour, aux calculs politiques et aux oppositions à Arthur."
+    "explanation": "Dans Les Dauphins, Loth transforme son retard et son attente en formule théâtrale. Son humour vient de cette manière de dramatiser sa propre posture, avec une élégance ampoulée même pour une contrariété banale."
   },
   {
     "id": 480,
@@ -499,6 +499,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Angharad.",
     "source": "Wiki Kaamelott — Citations, Angharad, Livre I, La Romance de Lancelot",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "La réplique est attribuée à Angharad. Angharad est liée à Guenièvre et à une intrigue sentimentale discrète avec Perceval."
+    "explanation": "Dans La Romance de Lancelot, Angharad rappelle sa position de servante auprès de Guenièvre avec une amertume très concrète. La formule souligne le contraste entre les intrigues chevaleresques autour d’elle et sa condition quotidienne de domestique."
   }
 ]);

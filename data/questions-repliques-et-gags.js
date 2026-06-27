@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "« C’est pas faux. »",
     "source": "Wiki Kaamelott — « C’est pas faux »",
     "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : « C’est pas faux. ». Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 147,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — « C’est pas faux »",
     "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 148,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Botte Secrète, Livre I, épisode 28.",
     "source": "Wiki Kaamelott — « C’est pas faux »",
     "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : La Botte Secrète, Livre I, épisode 28. Les premiers épisodes installent le ton de la série : quotidien du château, missions des chevaliers et décalage comique."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   },
   {
     "id": 149,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "« Sinécure ».",
     "source": "Wiki Kaamelott — « C’est pas faux »",
     "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : « Sinécure ».. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 150,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "« Le gras, c’est la vie. »",
     "source": "Wiki Kaamelott — Karadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : « Le gras, c’est la vie. ». Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 151,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Le cul de chouette. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 152,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La grelottine.",
     "source": "Wiki Kaamelott — Grelottine",
     "url": "https://kaamelott.fandom.com/fr/wiki/Grelottine",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : La grelottine. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 153,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le jeu du caillou.",
     "source": "Wiki Kaamelott — Jeu du caillou",
     "url": "https://kaamelott.fandom.com/fr/wiki/Jeu_du_caillou",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Le jeu du caillou. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 154,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le sloubi, dans Perceval Chante Sloubi.",
     "source": "Wiki Kaamelott — Pays de Galles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Galles",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Le sloubi, dans Perceval Chante Sloubi. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 155,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les tartes aux myrtilles.",
     "source": "Wiki Kaamelott — Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Les_Tartes_Aux_Myrtilles",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Les tartes aux myrtilles. Les premiers épisodes installent le ton de la série : quotidien du château, missions des chevaliers et décalage comique."
+    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
   },
   {
     "id": 156,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table De Breccan.",
     "source": "Wiki Kaamelott — La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : La Table De Breccan. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 157,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Maître d’Armes.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Le Maître d’Armes. Le Maître d’Armes rattache le comique verbal à l’entraînement guerrier d’Arthur."
+    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
   },
   {
     "id": 158,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "« Fils d’unijambiste. »",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : « Fils d’unijambiste. ». Le Maître d’Armes rattache le comique verbal à l’entraînement guerrier d’Arthur."
+    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
   },
   {
     "id": 159,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval et Karadoc.",
     "source": "Wiki Kaamelott — Le Serpent Géant / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Serpent_G%C3%A9ant/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Perceval et Karadoc. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans Le Serpent Géant, Perceval et Karadoc rapportent une aventure comme s’ils avaient accompli un exploit héroïque. Le Père Blaise reçoit une version difficile à transformer en légende crédible."
   },
   {
     "id": 160,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Venec.",
     "source": "Wiki Kaamelott — Raison D’Argent / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Raison_D%27Argent/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Venec. Venec ouvre souvent la série vers les trafics, les arrangements douteux et les solutions peu recommandables."
+    "explanation": "Dans Raison d’Argent, Venec propose des solutions financières douteuses et met Arthur face à l’économie parallèle du royaume. La fausse monnaie résume bien son rôle : utile parfois, jamais vraiment recommandable."
   },
   {
     "id": 161,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Yvain.",
     "source": "Wiki Kaamelott — Dîner Dansant / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/D%C3%AEner_Dansant/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Yvain. Yvain et Gauvain forment un duo de jeunes chevaliers dont l’inexpérience nourrit beaucoup de scènes comiques."
+    "explanation": "Dans Dîner Dansant, le repas de cour devient une scène de conflit familial. Yvain refuse de manger, Séli monte le ton, et la situation rappelle que les affaires politiques de Carmélide passent souvent par la table."
   },
   {
     "id": 162,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Séli.",
     "source": "Wiki Kaamelott — Dîner Dansant / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/D%C3%AEner_Dansant/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Séli. Séli appartient au cercle familial de Carmélide et intervient souvent dans les affaires domestiques, politiques ou matrimoniales."
+    "explanation": "Dans Dîner Dansant, le repas de cour devient une scène de conflit familial. Yvain refuse de manger, Séli monte le ton, et la situation rappelle que les affaires politiques de Carmélide passent souvent par la table."
   },
   {
     "id": 163,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Gauvain.",
     "source": "Wiki Kaamelott — Les Nouveaux Frères / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Les_Nouveaux_Fr%C3%A8res/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Gauvain. Yvain et Gauvain forment un duo de jeunes chevaliers dont l’inexpérience nourrit beaucoup de scènes comiques."
+    "explanation": "Dans Les Nouveaux Frères, Yvain et Gauvain cherchent à construire leur propre alliance. Leur enthousiasme de jeunes chevaliers tranche avec leur manque d’expérience et donne au clan un ton volontairement peu intimidant."
   },
   {
     "id": 164,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les Semi-Croustillants.",
     "source": "Wiki Kaamelott — Semi-Croustillants",
     "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Les Semi-Croustillants. La taverne sert de refuge aux intrigues parallèles, aux discussions de Perceval et Karadoc et aux projets peu structurés."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 165,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Roi Burgonde ne parle pas la langue d’Arthur.",
     "source": "Wiki Kaamelott — Le Roi Burgonde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Roi_Burgonde",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Le Roi Burgonde ne parle pas la langue d’Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 166,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Interprète.",
     "source": "Wiki Kaamelott — L’Interprète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : L’Interprète. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
   },
   {
     "id": 167,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guethenoc.",
     "source": "Wiki Kaamelott — Roparzh",
     "url": "https://kaamelott.fandom.com/fr/wiki/Roparzh",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Guethenoc. Les paysans rendent visible le décalage entre les grands projets du royaume et les problèmes très concrets du peuple."
+    "explanation": "Guethenoc et Roparzh ramènent Arthur aux plaintes du peuple : champs, voisinage, bétail et rancunes anciennes. Le contraste est net entre la quête du Graal et les problèmes très concrets qui arrivent jusqu’au trône."
   },
   {
     "id": 168,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Guethenoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Guethenoc",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 169,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Kadoc.",
     "source": "Wiki Kaamelott — Kadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Kadoc",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Kadoc. Kadoc fonctionne surtout par langage absurde et par formules répétées, souvent impossibles à interpréter littéralement."
+    "explanation": "Kadoc est le frère de Karadoc et parle par formules opaques, comme si ses phrases obéissaient à une logique inaccessible aux autres. Ses apparitions reposent beaucoup sur la répétition et sur le décalage entre sérieux apparent et absurdité totale."
   },
   {
     "id": 170,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les jeux du pays de Galles ont des règles farfelues que Perceval explique mal.",
     "source": "Wiki Kaamelott — Grelottine",
     "url": "https://kaamelott.fandom.com/fr/wiki/Grelottine",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Les jeux du pays de Galles ont des règles farfelues que Perceval explique mal. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 351,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "« C’est pas faux. »",
     "source": "Wiki Kaamelott — « C’est pas faux »",
     "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : « C’est pas faux. ». Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 352,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "« Sinécure ».",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : « Sinécure ».. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   },
   {
     "id": 353,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   },
   {
     "id": 354,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval et Karadoc.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Perceval et Karadoc. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 355,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Le cul de chouette. La taverne sert de refuge aux intrigues parallèles, aux discussions de Perceval et Karadoc et aux projets peu structurés."
+    "explanation": "La taverne est le royaume parallèle de Perceval et Karadoc : jeux, dettes, repas, messages mal compris et plans de clan. C’est là que les ambitions chevaleresques se transforment le plus facilement en discussions absurdes."
   },
   {
     "id": 356,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Aquitaine.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : L’Aquitaine. L’Aquitaine prend de l’importance dans les arcs de succession et de régence du Livre V."
+    "explanation": "L’Aquitaine prend surtout du relief au moment où le pouvoir d’Arthur vacille. Le duc et la duchesse ajoutent une nouvelle couche d’alliances, de susceptibilités et de calculs à la crise du Livre V."
   },
   {
     "id": 357,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — Karadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 358,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — Mevanwi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Mevanwi",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Karadoc. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 359,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La famille de Guenièvre, surtout Séli.",
     "source": "Wiki Kaamelott — Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Les_Tartes_Aux_Myrtilles",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : La famille de Guenièvre, surtout Séli. Guenièvre relie les intrigues conjugales, l’alliance avec la Carmélide et le conflit provoqué par Lancelot."
+    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
   },
   {
     "id": 360,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Roi Burgonde.",
     "source": "Wiki Kaamelott — Le Roi Burgonde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Roi_Burgonde",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Le Roi Burgonde. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Les scènes burgondes reposent sur une diplomatie impossible : le roi ennemi ne parle pas la langue d’Arthur, et la traduction devient elle-même suspecte. Le pouvoir se retrouve bloqué par une simple impossibilité de se comprendre."
   },
   {
     "id": 361,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’Interprète.",
     "source": "Wiki Kaamelott — L’Interprète",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28personnage%29",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : L’Interprète. Les Burgondes créent un comique de diplomatie impossible, fondé sur la langue, les malentendus et les négociations absurdes."
+    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
   },
   {
     "id": 362,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Bohort.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Bohort. Bohort apporte un contrepoint pacifique et anxieux au modèle chevaleresque attendu autour de la Table Ronde."
+    "explanation": "Léodagan apporte à Kaamelott la dureté de la Carmélide : défense du royaume, autorité militaire et goût très prononcé pour les solutions brutales. Sa présence rappelle que l’alliance avec Guenièvre est aussi un arrangement politique avec un beau-père envahissant."
   },
   {
     "id": 363,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Léodagan",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Léodagan. Léodagan incarne la Carmélide, la défense militaire et une conception très dure de l’autorité."
+    "explanation": "Léodagan apporte à Kaamelott la dureté de la Carmélide : défense du royaume, autorité militaire et goût très prononcé pour les solutions brutales. Sa présence rappelle que l’alliance avec Guenièvre est aussi un arrangement politique avec un beau-père envahissant."
   },
   {
     "id": 364,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guethenoc et Roparzh.",
     "source": "Wiki Kaamelott — Guethenoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Guethenoc",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Guethenoc et Roparzh. Les paysans rendent visible le décalage entre les grands projets du royaume et les problèmes très concrets du peuple."
+    "explanation": "Guethenoc et Roparzh ramènent Arthur aux plaintes du peuple : champs, voisinage, bétail et rancunes anciennes. Le contraste est net entre la quête du Graal et les problèmes très concrets qui arrivent jusqu’au trône."
   },
   {
     "id": 365,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Père Blaise.",
     "source": "Wiki Kaamelott — Père Blaise",
     "url": "https://kaamelott.fandom.com/fr/wiki/P%C3%A8re_Blaise",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Le Père Blaise. Le Père Blaise sert à consigner, officialiser ou reformuler les événements de la Table Ronde."
+    "explanation": "Le Père Blaise consigne, corrige et officialise ce que les chevaliers aimeraient faire passer pour de grandes aventures. Ses scènes montrent souvent l’écart entre la légende qu’on veut écrire et la réalité beaucoup moins noble des faits."
   },
   {
     "id": 366,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Perceval. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 367,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval et Karadoc, avec les Semi-Croustillants.",
     "source": "Wiki Kaamelott — Semi-Croustillants",
     "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Perceval et Karadoc, avec les Semi-Croustillants. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 368,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Yvain et Gauvain, avec les Petits pédestres.",
     "source": "Wiki Kaamelott — Petits pédestres",
     "url": "https://kaamelott.fandom.com/fr/wiki/Petits_p%C3%A9destres",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Yvain et Gauvain, avec les Petits pédestres. Yvain et Gauvain forment un duo de jeunes chevaliers dont l’inexpérience nourrit beaucoup de scènes comiques."
+    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
   },
   {
     "id": 369,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Merlin.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Merlin. Merlin représente l’enchanteur officiel, avec un décalage comique fréquent entre sa fonction et ses résultats."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 370,
@@ -449,7 +449,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Élias.",
     "source": "Wiki Kaamelott — Élias de Kelliwic’h",
     "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Élias. Élias met en contraste la magie très incertaine de Merlin avec une pratique plus efficace et plus calculatrice."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 371,
@@ -459,7 +459,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Kadoc.",
     "source": "Wiki Kaamelott — Kadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Kadoc",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Kadoc. Kadoc fonctionne surtout par langage absurde et par formules répétées, souvent impossibles à interpréter littéralement."
+    "explanation": "Kadoc est le frère de Karadoc et parle par formules opaques, comme si ses phrases obéissaient à une logique inaccessible aux autres. Ses apparitions reposent beaucoup sur la répétition et sur le décalage entre sérieux apparent et absurdité totale."
   },
   {
     "id": 372,
@@ -469,7 +469,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La taverne.",
     "source": "Wiki Kaamelott — Taverne",
     "url": "https://kaamelott.fandom.com/fr/wiki/Taverne",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : La taverne. La taverne sert de refuge aux intrigues parallèles, aux discussions de Perceval et Karadoc et aux projets peu structurés."
+    "explanation": "La taverne est le royaume parallèle de Perceval et Karadoc : jeux, dettes, repas, messages mal compris et plans de clan. C’est là que les ambitions chevaleresques se transforment le plus facilement en discussions absurdes."
   },
   {
     "id": 373,
@@ -479,7 +479,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Caius Camillus.",
     "source": "Wiki Kaamelott — Caius Camillus",
     "url": "https://kaamelott.fandom.com/fr/wiki/Caius_Camillus",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Caius Camillus. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 374,
@@ -489,7 +489,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "« C’est pas faux. »",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : « C’est pas faux. ». L’effet repose souvent sur la répétition, le contresens ou le décalage entre langage héroïque et quotidien."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   },
   {
     "id": 375,
@@ -499,6 +499,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval répond « c’est pas faux » parce qu’il ne comprend pas « obsolètes ».",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La réponse identifie un gag, une formule ou une situation comique : Perceval répond « c’est pas faux » parce qu’il ne comprend pas « obsolètes ».. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
   }
 ]);

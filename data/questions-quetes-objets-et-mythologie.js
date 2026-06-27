@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Graal.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le Graal. Le Graal donne un objectif officiel aux chevaliers, même si la série montre souvent l’écart entre la grandeur de la quête et leur efficacité."
+    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
   },
   {
     "id": 127,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Excalibur. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
   },
   {
     "id": 128,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’élu des dieux appelé à régner sur la Bretagne.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : L’élu des dieux appelé à régner sur la Bretagne. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
   },
   {
     "id": 129,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "À la relique ayant recueilli le sang du Christ.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : À la relique ayant recueilli le sang du Christ. Le Graal donne un objectif officiel aux chevaliers, même si la série montre souvent l’écart entre la grandeur de la quête et leur efficacité."
+    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
   },
   {
     "id": 130,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Excalibur. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 131,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Dame du Lac. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 132,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Arthur. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 133,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Fée Morgane.",
     "source": "Wiki Kaamelott — La Fée Morgane",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_F%C3%A9e_Morgane",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Fée Morgane. Méléagant intervient comme force de manipulation et accompagne le durcissement de Lancelot dans les derniers Livres."
+    "explanation": "Méléagant agit moins comme un conseiller que comme une force de sabotage moral. Son influence accompagne la dégradation de Lancelot et donne aux derniers Livres une tonalité plus sombre."
   },
   {
     "id": 134,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Merlin.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Merlin. Merlin représente l’enchanteur officiel, avec un décalage comique fréquent entre sa fonction et ses résultats."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 135,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Élias de Kelliwic’h.",
     "source": "Wiki Kaamelott — Élias de Kelliwic’h",
     "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Élias de Kelliwic’h. Élias met en contraste la magie très incertaine de Merlin avec une pratique plus efficace et plus calculatrice."
+    "explanation": "Élias de Kelliwic’h sert de contrepoint à Merlin : plus efficace, plus menaçant et nettement plus calculateur. Sa présence transforme la magie en rivalité de laboratoire autant qu’en enjeu de défense du royaume."
   },
   {
     "id": 136,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Des sorts comme l’invincibilité ou l’invisibilité.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Des sorts comme l’invincibilité ou l’invisibilité. Merlin représente l’enchanteur officiel, avec un décalage comique fréquent entre sa fonction et ses résultats."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 137,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Il est le gardien du culte de Kaamelott.",
     "source": "Wiki Kaamelott — Père Blaise",
     "url": "https://kaamelott.fandom.com/fr/wiki/P%C3%A8re_Blaise",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Il est le gardien du culte de Kaamelott. Le Père Blaise sert à consigner, officialiser ou reformuler les événements de la Table Ronde."
+    "explanation": "Le Père Blaise consigne, corrige et officialise ce que les chevaliers aimeraient faire passer pour de grandes aventures. Ses scènes montrent souvent l’écart entre la légende qu’on veut écrire et la réalité beaucoup moins noble des faits."
   },
   {
     "id": 138,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Méléagant.",
     "source": "Wiki Kaamelott — Méléagant",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Méléagant. Méléagant intervient comme force de manipulation et accompagne le durcissement de Lancelot dans les derniers Livres."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 139,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
   },
   {
     "id": 140,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 141,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Excalibur. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 142,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Graal.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le Graal. Le Graal donne un objectif officiel aux chevaliers, même si la série montre souvent l’écart entre la grandeur de la quête et leur efficacité."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 143,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Avalon.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Avalon. Le Graal donne un objectif officiel aux chevaliers, même si la série montre souvent l’écart entre la grandeur de la quête et leur efficacité."
+    "explanation": "Le Père Blaise consigne, corrige et officialise ce que les chevaliers aimeraient faire passer pour de grandes aventures. Ses scènes montrent souvent l’écart entre la légende qu’on veut écrire et la réalité beaucoup moins noble des faits."
   },
   {
     "id": 144,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guider Arthur et ses chevaliers dans la Quête du Graal.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Guider Arthur et ses chevaliers dans la Quête du Graal. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 145,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Dame du Lac. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 326,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Excalibur. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 327,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Parce qu’elle reconnaît la destinée exceptionnelle de son porteur.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Parce qu’elle reconnaît la destinée exceptionnelle de son porteur. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 328,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur.",
     "source": "Wiki Kaamelott — Excalibur",
     "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Excalibur. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
   },
   {
     "id": 329,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Graal.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le Graal. Le Graal donne un objectif officiel aux chevaliers, même si la série montre souvent l’écart entre la grandeur de la quête et leur efficacité."
+    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
   },
   {
     "id": 330,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le médaillon d’Ogma.",
     "source": "Wiki Kaamelott — Médaillon d’Ogma",
     "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9daillon_d%27Ogma",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le médaillon d’Ogma. Arthur concentre les tensions du récit : royauté, Graal, alliances politiques et lassitude face à ses responsabilités."
+    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
   },
   {
     "id": 331,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Table Ronde",
     "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "La Table Ronde est censée mettre les chevaliers sur un pied d’égalité autour du Graal. Dans la série, ce symbole héroïque devient aussi un lieu de réunions chaotiques, de disputes et de remarques très terre-à-terre."
   },
   {
     "id": 332,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Dame du Lac. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   },
   {
     "id": 333,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Dame du Lac.",
     "source": "Wiki Kaamelott — La Dame du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Dame du Lac. La Dame du Lac relie Arthur aux injonctions divines et à la dimension mythologique de la quête."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 334,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Merlin.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Merlin. Merlin représente l’enchanteur officiel, avec un décalage comique fréquent entre sa fonction et ses résultats."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 335,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Élias de Kelliwic’h.",
     "source": "Wiki Kaamelott — Élias de Kelliwic’h",
     "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Élias de Kelliwic’h. Élias met en contraste la magie très incertaine de Merlin avec une pratique plus efficace et plus calculatrice."
+    "explanation": "Merlin est l’enchanteur officiel de Kaamelott, mais son prestige théorique se heurte souvent à des résultats incertains. Ses échanges avec Arthur fonctionnent sur l’écart entre ce qu’un roi attend d’un mage et ce que Merlin arrive réellement à produire."
   },
   {
     "id": 336,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le cul de chouette. Le Graal, Excalibur et les signes divins donnent un cadre épique que la série détourne souvent par le comique."
+    "explanation": "Les jeux de Perceval et Karadoc ressemblent à des traditions codifiées, mais leurs règles deviennent vite impraticables pour les autres. Le comique vient de leur aplomb : plus l’explication est confuse, plus ils la présentent comme évidente."
   },
   {
     "id": 337,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le cul de chouette. Le Graal, Excalibur et les signes divins donnent un cadre épique que la série détourne souvent par le comique."
+    "explanation": "Les jeux de Perceval et Karadoc ressemblent à des traditions codifiées, mais leurs règles deviennent vite impraticables pour les autres. Le comique vient de leur aplomb : plus l’explication est confuse, plus ils la présentent comme évidente."
   },
   {
     "id": 338,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le cul de chouette. L’Aquitaine prend de l’importance dans les arcs de succession et de régence du Livre V."
+    "explanation": "L’Aquitaine prend surtout du relief au moment où le pouvoir d’Arthur vacille. Le duc et la duchesse ajoutent une nouvelle couche d’alliances, de susceptibilités et de calculs à la crise du Livre V."
   },
   {
     "id": 339,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le sloubi.",
     "source": "Wiki Kaamelott — Sloubi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Sloubi",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le sloubi. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
   },
   {
     "id": 340,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le jeu du pélican.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le jeu du pélican. Le Graal, Excalibur et les signes divins donnent un cadre épique que la série détourne souvent par le comique."
+    "explanation": "Les jeux de Perceval et Karadoc ressemblent à des traditions codifiées, mais leurs règles deviennent vite impraticables pour les autres. Le comique vient de leur aplomb : plus l’explication est confuse, plus ils la présentent comme évidente."
   },
   {
     "id": 341,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le jeu du caillou.",
     "source": "Wiki Kaamelott — Jeu du caillou",
     "url": "https://kaamelott.fandom.com/fr/wiki/Jeu_du_caillou",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le jeu du caillou. Le Graal, Excalibur et les signes divins donnent un cadre épique que la série détourne souvent par le comique."
+    "explanation": "Les jeux de Perceval et Karadoc ressemblent à des traditions codifiées, mais leurs règles deviennent vite impraticables pour les autres. Le comique vient de leur aplomb : plus l’explication est confuse, plus ils la présentent comme évidente."
   },
   {
     "id": 342,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le robobrole.",
     "source": "Wiki Kaamelott — Robobrole",
     "url": "https://kaamelott.fandom.com/fr/wiki/Robobrole",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le robobrole. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Excalibur n’est pas seulement une arme : elle prouve qu’Arthur est l’élu appelé à régner. Quand il la replante ou ne la retire plus, le signe magique devient immédiatement une crise politique."
   },
   {
     "id": 343,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le gras.",
     "source": "Wiki Kaamelott — Karadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le gras. Karadoc est lié aux gags alimentaires, à la taverne et au duo qu’il forme avec Perceval."
+    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
   },
   {
     "id": 344,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Les tartes aux myrtilles.",
     "source": "Wiki Kaamelott — Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Les_Tartes_Aux_Myrtilles",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Les tartes aux myrtilles. Les premiers épisodes installent le ton de la série : quotidien du château, missions des chevaliers et décalage comique."
+    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
   },
   {
     "id": 345,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Quête du Graal.",
     "source": "Wiki Kaamelott — Graal",
     "url": "https://kaamelott.fandom.com/fr/wiki/Graal",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Quête du Graal. Le Graal donne un objectif officiel aux chevaliers, même si la série montre souvent l’écart entre la grandeur de la quête et leur efficacité."
+    "explanation": "Le Graal donne aux chevaliers une mission sacrée, mais Kaamelott montre sans cesse l’écart entre cette grandeur et leur quotidien. Plus l’objectif est élevé, plus les réunions, disputes et malentendus rendent la quête improbable."
   },
   {
     "id": 346,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : La Table Ronde. La Table Ronde est à la fois un lieu, une institution et le symbole collectif de la quête menée par Arthur."
+    "explanation": "Dans Dies Iræ, le récit revient au présent après le préquel romain et montre Arthur au plus bas, puis Lancelot prenant le pouvoir. L’épisode boucle plusieurs fils : la tentative de suicide, le souvenir d’Excalibur, la fuite vers Rome et la destruction de l’ancien ordre."
   },
   {
     "id": 347,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Un couteau transmis par Ban.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Un couteau transmis par Ban. Lancelot occupe une place ambivalente : chevalier exemplaire au départ, puis figure de rupture avec Kaamelott."
+    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
   },
   {
     "id": 348,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Le cul de chouette. Perceval est associé aux malentendus, aux raisonnements déroutants et à une fidélité réelle envers Arthur."
+    "explanation": "Dans Perceval Relance de Quinze, la taverne devient le terrain d’un jeu aux règles presque impénétrables. Le cul de chouette fonctionne comme une parodie de jeu traditionnel : très codifié en apparence, impossible à suivre pour un non-initié."
   },
   {
     "id": 349,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Dux Bellorum.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Dux Bellorum. Les séquences romaines éclairent les origines politiques d’Arthur avant son installation comme roi en Bretagne."
+    "explanation": "Dux Bellorum rattache Arthur à son titre de chef de guerre. L’épisode appartient à l’arc où Rome organise sa montée en puissance pour pacifier et contrôler la Bretagne."
   },
   {
     "id": 350,
@@ -449,6 +449,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Excalibur et la mission liée au Graal.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "Cette carte rattache la réponse à la dimension mythologique de Kaamelott : Excalibur et la mission liée au Graal. Excalibur est le marqueur de la légitimité royale : elle relie Arthur à l’élection divine et à la fonction de roi."
+    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
   }
 ]);
