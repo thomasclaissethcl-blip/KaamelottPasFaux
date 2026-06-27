@@ -1,0 +1,2149 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="200 questions lore Kaamelott façon Trivial Pursuit, en flashcards interactives filtrables.">
+  <title>Kaamelott — 200 questions lore</title>
+  <style>
+    :root {
+      --bg: #111827;
+      --panel: #182235;
+      --panel-2: #243044;
+      --text: #f8fafc;
+      --muted: #cbd5e1;
+      --accent: #f4c95d;
+      --accent-2: #8fb3ff;
+      --danger: #fca5a5;
+      --ok: #86efac;
+      --shadow: 0 18px 60px rgba(0,0,0,.35);
+      --radius: 22px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top left, #31405e 0, #111827 42%, #0b1020 100%);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    a { color: var(--accent-2); }
+    .app { width: min(1180px, calc(100% - 32px)); margin: 0 auto; padding: 28px 0 44px; }
+    header { display: grid; gap: 12px; margin-bottom: 20px; }
+    .eyebrow { color: var(--accent); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: .78rem; }
+    h1 { margin: 0; font-size: clamp(2rem, 5vw, 4.25rem); line-height: .95; letter-spacing: -.055em; }
+    .intro { max-width: 820px; color: var(--muted); line-height: 1.6; margin: 0; }
+    .layout { display: grid; grid-template-columns: 360px minmax(0, 1fr); gap: 20px; align-items: start; }
+    .panel { background: rgba(24,34,53,.88); border: 1px solid rgba(255,255,255,.1); border-radius: var(--radius); box-shadow: var(--shadow); }
+    .controls { padding: 18px; position: sticky; top: 16px; }
+    .controls h2 { margin: 0 0 10px; font-size: 1.05rem; }
+    .control-group { padding: 14px 0; border-top: 1px solid rgba(255,255,255,.1); }
+    .control-group:first-of-type { border-top: 0; padding-top: 0; }
+    .group-title { display:flex; justify-content:space-between; align-items:center; gap: 8px; margin-bottom: 10px; color: var(--muted); font-size: .9rem; }
+    .checks { display: grid; gap: 8px; }
+    label.check { display:flex; align-items:center; gap: 9px; padding: 8px 10px; border: 1px solid rgba(255,255,255,.08); border-radius: 14px; background: rgba(255,255,255,.035); cursor: pointer; }
+    label.check:hover { border-color: rgba(244,201,93,.35); }
+    input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--accent); }
+    .search { width: 100%; border: 1px solid rgba(255,255,255,.14); border-radius: 14px; padding: 12px 13px; background: #0f172a; color: var(--text); font: inherit; }
+    .btn-row { display:flex; flex-wrap: wrap; gap: 8px; }
+    button { border: 0; border-radius: 999px; padding: 10px 14px; background: var(--accent); color: #171717; font-weight: 800; cursor: pointer; font: inherit; }
+    button.secondary { background: rgba(255,255,255,.1); color: var(--text); border: 1px solid rgba(255,255,255,.12); }
+    button.danger { background: rgba(252,165,165,.13); color: var(--danger); border: 1px solid rgba(252,165,165,.28); }
+    button:disabled { opacity: .45; cursor: not-allowed; }
+    .stage { display: grid; gap: 16px; }
+    .stats { display:grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+    .stat { padding: 14px; background: rgba(24,34,53,.78); border: 1px solid rgba(255,255,255,.1); border-radius: 18px; }
+    .stat strong { display:block; font-size: 1.35rem; }
+    .stat span { color: var(--muted); font-size: .82rem; }
+    .card-wrap { perspective: 1400px; min-height: 420px; }
+    .flashcard { position: relative; width: 100%; min-height: 420px; transform-style: preserve-3d; transition: transform .55s ease; cursor: pointer; outline: none; }
+    .flashcard.flipped { transform: rotateY(180deg); }
+    .face { position: absolute; inset: 0; border-radius: calc(var(--radius) + 6px); padding: clamp(20px, 4vw, 34px); backface-visibility: hidden; display:flex; flex-direction:column; justify-content:space-between; gap: 22px; border: 1px solid rgba(255,255,255,.13); box-shadow: var(--shadow); overflow:hidden; }
+    .face::before { content:""; position:absolute; inset:-40%; background: radial-gradient(circle, rgba(244,201,93,.18), transparent 38%); transform: translate(-20%, -25%); pointer-events:none; }
+    .front { background: linear-gradient(145deg, rgba(36,48,68,.96), rgba(16,24,39,.98)); }
+    .back { background: linear-gradient(145deg, rgba(39,54,78,.98), rgba(12,19,34,.98)); transform: rotateY(180deg); }
+    .meta { position: relative; display:flex; flex-wrap:wrap; gap: 8px; align-items:center; color: var(--muted); }
+    .pill { border: 1px solid rgba(255,255,255,.14); background: rgba(255,255,255,.07); padding: 6px 10px; border-radius: 999px; font-size: .83rem; }
+    .pill.difficulty { color: #111827; background: var(--accent); border-color: transparent; font-weight: 800; }
+    .question { position: relative; margin: 0; font-size: clamp(1.65rem, 3.3vw, 3rem); line-height: 1.13; letter-spacing: -.035em; }
+    .answer { position: relative; margin: 0; font-size: clamp(1.28rem, 2.2vw, 2rem); line-height: 1.35; }
+    .hint { position: relative; color: var(--muted); margin: 0; }
+    .source { position: relative; display:flex; flex-wrap:wrap; gap: 8px; align-items:center; color: var(--muted); font-size: .95rem; }
+    .nav { display:flex; gap: 10px; flex-wrap: wrap; align-items:center; justify-content:center; }
+    .empty { display:none; padding: 28px; color: var(--muted); text-align:center; }
+    .empty.show { display:block; }
+    .list-panel { padding: 16px; }
+    details summary { cursor: pointer; color: var(--accent); font-weight: 800; }
+    .mini-list { margin: 12px 0 0; columns: 2; color: var(--muted); line-height: 1.7; }
+    footer { color: var(--muted); line-height: 1.6; font-size: .92rem; margin-top: 24px; }
+    @media (max-width: 940px) {
+      .layout { grid-template-columns: 1fr; }
+      .controls { position: static; }
+      .checks { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .mini-list { columns: 1; }
+    }
+    @media (max-width: 560px) {
+      .app { width: min(100% - 20px, 1180px); padding-top: 18px; }
+      .checks { grid-template-columns: 1fr; }
+      .stats { grid-template-columns: 1fr 1fr; }
+      .card-wrap, .flashcard { min-height: 470px; }
+      button { width: 100%; }
+      .btn-row button, .nav button { flex: 1 1 100%; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .flashcard { transition: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <header>
+      <div class="eyebrow">Kaamelott — quiz lore façon Trivial Pursuit</div>
+      <h1>200 questions lore</h1>
+      <p class="intro">Jeu statique, autonome et hébergeable sur GitHub Pages. Les cartes se retournent comme des flashcards et couvrent personnages, intrigues, répliques, lieux, politique, relations et gags à travers les Livres I à VI.</p>
+    </header>
+
+    <section class="layout" aria-label="Application de flashcards">
+      <aside class="panel controls" aria-label="Filtres">
+        <h2>Filtres et jeu</h2>
+        <div class="control-group">
+          <label for="search" class="group-title">Recherche dans les questions et réponses</label>
+          <input id="search" class="search" type="search" placeholder="Ex. Perceval, Livre IV, Excalibur">
+        </div>
+        <div class="control-group">
+          <div class="group-title"><span>Catégories à jouer</span><span id="catCount"></span></div>
+          <div id="categoryChecks" class="checks"></div>
+          <div class="btn-row" style="margin-top:10px">
+            <button type="button" class="secondary" id="allCats">Tout cocher</button>
+            <button type="button" class="secondary" id="noCats">Tout décocher</button>
+          </div>
+        </div>
+        <div class="control-group">
+          <div class="group-title"><span>Difficultés</span><span>Aucune sélection = tous niveaux</span></div>
+          <div id="difficultyChecks" class="checks"></div>
+        </div>
+        <div class="control-group">
+          <div class="btn-row">
+            <button type="button" id="shuffleBtn">Mélanger</button>
+            <button type="button" class="secondary" id="resetBtn">Réinitialiser</button>
+          </div>
+        </div>
+      </aside>
+
+      <section class="stage">
+        <div class="stats" aria-live="polite">
+          <div class="stat"><strong id="visibleCount">0</strong><span>cartes visibles</span></div>
+          <div class="stat"><strong id="totalCount">200</strong><span>cartes au total</span></div>
+          <div class="stat"><strong id="position">0/0</strong><span>position</span></div>
+          <div class="stat"><strong id="currentDifficulty">—</strong><span>difficulté</span></div>
+        </div>
+
+        <div class="panel empty" id="emptyState">Aucune carte ne correspond aux filtres actuels.</div>
+
+        <div class="card-wrap" id="cardWrap">
+          <article class="flashcard" id="flashcard" tabindex="0" role="button" aria-pressed="false" aria-label="Retourner la carte">
+            <section class="face front" aria-label="Question">
+              <div class="meta" id="frontMeta"></div>
+              <h2 class="question" id="questionText"></h2>
+              <p class="hint">Cliquez sur la carte, ou utilisez Entrée ou Espace pour afficher la réponse.</p>
+            </section>
+            <section class="face back" aria-label="Réponse">
+              <div class="meta" id="backMeta"></div>
+              <p class="answer" id="answerText"></p>
+              <div class="source" id="sourceText"></div>
+            </section>
+          </article>
+        </div>
+
+        <nav class="nav" aria-label="Navigation entre les cartes">
+          <button type="button" class="secondary" id="prevBtn">Précédente</button>
+          <button type="button" id="flipBtn">Retourner</button>
+          <button type="button" class="secondary" id="nextBtn">Suivante</button>
+          <button type="button" class="secondary" id="randomBtn">Carte aléatoire</button>
+        </nav>
+
+        <section class="panel list-panel">
+          <details>
+            <summary>Voir les catégories et sources principales</summary>
+            <ul class="mini-list">
+              <li>Personnages : Arthur, Guenièvre, Lancelot, Perceval, Karadoc, Léodagan, Bohort, Merlin et personnages secondaires.</li>
+              <li>Intrigues : progression des Livres I à VI, crise Lancelot, Mevanwi, Livre V et retour du Livre VI.</li>
+              <li>Relations : familles, alliances, mariages, rivalités et ruptures politiques.</li>
+              <li>Univers : Logres, Carmélide, Orcanie, Vannes, Gaunes, Aquitaine, Rome et lieux récurrents.</li>
+              <li>Répliques et gags : formules cultes, jeux gallois, nourriture, Burgondes, paysans et taverne.</li>
+              <li>Sources principales : Wiki Kaamelott/Fandom, Missa Brevis, Wikipédia et pages de scripts disponibles en ligne.</li>
+            </ul>
+          </details>
+        </section>
+      </section>
+    </section>
+    <footer>
+      Les questions sont formulées comme un quiz et les références sont indiquées au dos des cartes. Les formulations paraphrasent les informations vérifiées et évitent de reproduire de longs passages de scripts.
+    </footer>
+  </main>
+
+  <script>
+    const CARDS = [
+  {
+    "id": 1,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel roi porte Excalibur et règne sur Logres au début de la série ?",
+    "answer": "Arthur Pendragon.",
+    "source": "Wiki Kaamelott — Arthur Pendragon",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon"
+  },
+  {
+    "id": 2,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel chevalier gallois forme avec Karadoc le duo le plus célèbre de la taverne ?",
+    "answer": "Perceval de Galles.",
+    "source": "Wiki Kaamelott — Perceval",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Perceval"
+  },
+  {
+    "id": 3,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel chevalier de Vannes est obsédé par la nourriture et ami intime de Perceval ?",
+    "answer": "Karadoc.",
+    "source": "Wiki Kaamelott — Karadoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc"
+  },
+  {
+    "id": 4,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel chevalier est présenté comme le plus compétent de la Table Ronde avant sa rupture avec Arthur ?",
+    "answer": "Lancelot du Lac.",
+    "source": "Wiki Kaamelott — Lancelot du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac"
+  },
+  {
+    "id": 5,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quelle reine est l’épouse d’Arthur et la fille de Léodagan et Séli ?",
+    "answer": "Guenièvre.",
+    "source": "Wiki Kaamelott — Guenièvre",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre"
+  },
+  {
+    "id": 6,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel roi de Carmélide est surnommé « le Sanguinaire » ?",
+    "answer": "Léodagan.",
+    "source": "Wiki Kaamelott — Léodagan",
+    "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan"
+  },
+  {
+    "id": 7,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quelle femme de Léodagan gère souvent l’intendance du château et les repas ?",
+    "answer": "Séli.",
+    "source": "Wiki Kaamelott — Séli",
+    "url": "https://kaamelott.fandom.com/fr/wiki/S%C3%A9li"
+  },
+  {
+    "id": 8,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel enchanteur officiel de Kaamelott est souvent moins fiable que prévu ?",
+    "answer": "Merlin.",
+    "source": "Wiki Kaamelott — Merlin",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Merlin"
+  },
+  {
+    "id": 9,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quel enchanteur de Kelliwic’h est présenté comme plus compétent que Merlin ?",
+    "answer": "Élias de Kelliwic’h.",
+    "source": "Wiki Kaamelott — Élias de Kelliwic’h",
+    "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h"
+  },
+  {
+    "id": 10,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel personnage consigne les faits et les légendes autour de la Table Ronde ?",
+    "answer": "Le Père Blaise.",
+    "source": "Wiki Kaamelott — Père Blaise",
+    "url": "https://kaamelott.fandom.com/fr/wiki/P%C3%A8re_Blaise"
+  },
+  {
+    "id": 11,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel marchand, trafiquant et fournisseur d’esclaves apparaît régulièrement dans les affaires douteuses du royaume ?",
+    "answer": "Venec.",
+    "source": "Wiki Kaamelott — Venec",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Venec"
+  },
+  {
+    "id": 12,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quel chevalier est roi de Gaunes et se distingue par sa grande peur du danger ?",
+    "answer": "Bohort.",
+    "source": "Wiki Kaamelott — Bohort",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Bohort"
+  },
+  {
+    "id": 13,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel jeune chevalier, fils de Léodagan et de Séli, est le frère de Guenièvre ?",
+    "answer": "Yvain.",
+    "source": "Wiki Kaamelott — Yvain",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Yvain"
+  },
+  {
+    "id": 14,
+    "category": "Personnages",
+    "difficulty": "Facile",
+    "question": "Quel chevalier d’Orcanie est le fils de Loth et d’Anna ?",
+    "answer": "Gauvain.",
+    "source": "Wiki Kaamelott — Gauvain",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gauvain"
+  },
+  {
+    "id": 15,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quel personnage est le frère de Karadoc et parle souvent par formules absurdes ?",
+    "answer": "Kadoc.",
+    "source": "Wiki Kaamelott — Kadoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Kadoc"
+  },
+  {
+    "id": 16,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quel roi d’Orcanie intrigue régulièrement contre Arthur ?",
+    "answer": "Loth.",
+    "source": "Wiki Kaamelott — Loth",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Loth"
+  },
+  {
+    "id": 17,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quel duc d’Orcanie sert de bras droit à Loth ?",
+    "answer": "Galessin.",
+    "source": "Wiki Kaamelott — Galessin",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Galessin"
+  },
+  {
+    "id": 18,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quel seigneur est associé à des terres que lui-même situe mal, notamment dans le Livre VI ?",
+    "answer": "Dagonet.",
+    "source": "Wiki Kaamelott — Dagonet",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Dagonet"
+  },
+  {
+    "id": 19,
+    "category": "Personnages",
+    "difficulty": "Difficile",
+    "question": "Quel homme en noir manipule Lancelot dans les Livres V et VI ?",
+    "answer": "Méléagant.",
+    "source": "Wiki Kaamelott — Méléagant",
+    "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant"
+  },
+  {
+    "id": 20,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quelle fée envoyée par les dieux guide Arthur dans la quête du Graal ?",
+    "answer": "La Dame du Lac, aussi appelée Viviane.",
+    "source": "Wiki Kaamelott — La Dame du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac"
+  },
+  {
+    "id": 21,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quelle femme de Karadoc devient l’amante puis l’épouse d’Arthur par échange d’épouses ?",
+    "answer": "Mevanwi.",
+    "source": "Wiki Kaamelott — Mevanwi",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Mevanwi"
+  },
+  {
+    "id": 22,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quel paysan est l’éternel rival de Guethenoc dans les doléances paysannes ?",
+    "answer": "Roparzh.",
+    "source": "Wiki Kaamelott — Roparzh",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Roparzh"
+  },
+  {
+    "id": 23,
+    "category": "Personnages",
+    "difficulty": "Moyen",
+    "question": "Quel paysan porte souvent les révoltes et les plaintes du peuple devant Arthur ?",
+    "answer": "Guethenoc.",
+    "source": "Wiki Kaamelott — Guethenoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Guethenoc"
+  },
+  {
+    "id": 24,
+    "category": "Personnages",
+    "difficulty": "Difficile",
+    "question": "Quel souverain ennemi ne parlant pas la langue d’Arthur revient souvent assiéger Kaamelott ?",
+    "answer": "Le Roi Burgonde.",
+    "source": "Wiki Kaamelott — Le Roi Burgonde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Roi_Burgonde"
+  },
+  {
+    "id": 25,
+    "category": "Personnages",
+    "difficulty": "Difficile",
+    "question": "Quel personnage traduit le burgonde auprès d’Arthur ?",
+    "answer": "L’Interprète.",
+    "source": "Wiki Kaamelott — L’Interprète",
+    "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28personnage%29"
+  },
+  {
+    "id": 26,
+    "category": "Personnages",
+    "difficulty": "Difficile",
+    "question": "Quel maître entraîne Arthur au combat et lui demande de trouver des insultes vexantes ?",
+    "answer": "Le Maître d’Armes.",
+    "source": "Wiki Kaamelott — Le Maître d’Armes",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_d%27Armes"
+  },
+  {
+    "id": 27,
+    "category": "Personnages",
+    "difficulty": "Difficile",
+    "question": "Quelle maîtresse d’Arthur est jumelle d’Aziliz ?",
+    "answer": "Aelis.",
+    "source": "Wiki Kaamelott — Aelis",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Aelis"
+  },
+  {
+    "id": 28,
+    "category": "Personnages",
+    "difficulty": "Difficile",
+    "question": "Quelle maîtresse d’Arthur est proche de la reine et apparaît comme l’une de ses confidentes ?",
+    "answer": "Demetra.",
+    "source": "Wiki Kaamelott — Demetra",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Demetra"
+  },
+  {
+    "id": 29,
+    "category": "Relations & familles",
+    "difficulty": "Facile",
+    "question": "Qui sont les parents de Guenièvre ?",
+    "answer": "Léodagan et Séli.",
+    "source": "Wiki Kaamelott — Guenièvre",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre"
+  },
+  {
+    "id": 30,
+    "category": "Relations & familles",
+    "difficulty": "Facile",
+    "question": "Quel lien familial unit Yvain et Guenièvre ?",
+    "answer": "Yvain est le frère de Guenièvre.",
+    "source": "Wiki Kaamelott — Yvain",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Yvain"
+  },
+  {
+    "id": 31,
+    "category": "Relations & familles",
+    "difficulty": "Facile",
+    "question": "Quel lien unit Gauvain à Arthur ?",
+    "answer": "Gauvain est le neveu, plus précisément le demi-neveu, d’Arthur.",
+    "source": "Wiki Kaamelott — Gauvain",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gauvain"
+  },
+  {
+    "id": 32,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Qui sont les parents de Gauvain ?",
+    "answer": "Loth d’Orcanie et Anna de Tintagel.",
+    "source": "Wiki Kaamelott — Gauvain",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gauvain"
+  },
+  {
+    "id": 33,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Quel lien unit Anna de Tintagel à Arthur ?",
+    "answer": "Anna est la demi-sœur d’Arthur.",
+    "source": "Wiki Kaamelott — Anna de Tintagel",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Anna_de_Tintagel"
+  },
+  {
+    "id": 34,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Quelle femme Arthur épouse-t-il par alliance politique avec la Carmélide ?",
+    "answer": "Guenièvre.",
+    "source": "Wiki Kaamelott — Arthur Pendragon",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon"
+  },
+  {
+    "id": 35,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Pour quel motif politique le mariage Arthur-Guenièvre est-il important ?",
+    "answer": "Il sert à rallier la Carmélide à la fédération d’Arthur.",
+    "source": "Wiki Kaamelott — Carmélide",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide"
+  },
+  {
+    "id": 36,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Qui est l’ami et coéquipier habituel d’Yvain ?",
+    "answer": "Gauvain.",
+    "source": "Wiki Kaamelott — Yvain",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Yvain"
+  },
+  {
+    "id": 37,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Quel duo fonde le clan des Petits Pédestres ?",
+    "answer": "Yvain et Gauvain.",
+    "source": "Wiki Kaamelott — Gauvain",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gauvain"
+  },
+  {
+    "id": 38,
+    "category": "Relations & familles",
+    "difficulty": "Facile",
+    "question": "Quel personnage est le meilleur ami de Karadoc ?",
+    "answer": "Perceval.",
+    "source": "Wiki Kaamelott — Karadoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc"
+  },
+  {
+    "id": 39,
+    "category": "Relations & familles",
+    "difficulty": "Facile",
+    "question": "Quel personnage est le meilleur ami de Perceval ?",
+    "answer": "Karadoc.",
+    "source": "Wiki Kaamelott — Perceval",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Perceval"
+  },
+  {
+    "id": 40,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Quelle suivante de Guenièvre entretient une idylle avec Perceval ?",
+    "answer": "Angharad.",
+    "source": "Wiki Kaamelott — Angharad",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Angharad"
+  },
+  {
+    "id": 41,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Quel lien de parenté unit Lancelot et Bohort ?",
+    "answer": "Ils sont cousins.",
+    "source": "Wiki Kaamelott — Lancelot du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac"
+  },
+  {
+    "id": 42,
+    "category": "Relations & familles",
+    "difficulty": "Difficile",
+    "question": "Qui est le père de Lancelot ?",
+    "answer": "Le roi Ban de Bénoïc.",
+    "source": "Wiki Kaamelott — Lancelot du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac"
+  },
+  {
+    "id": 43,
+    "category": "Relations & familles",
+    "difficulty": "Difficile",
+    "question": "Quel frère de Bohort croise Lancelot dans le Livre V ?",
+    "answer": "Lionel de Gaunes.",
+    "source": "Wiki Kaamelott — Lionel de Gaunes",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lionel_de_Gaunes"
+  },
+  {
+    "id": 44,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Qui est le frère de Karadoc ?",
+    "answer": "Kadoc.",
+    "source": "Wiki Kaamelott — Kadoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Kadoc"
+  },
+  {
+    "id": 45,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Comment s’appellent les filles de Karadoc et Mevanwi les plus citées par le wiki ?",
+    "answer": "Mehben et Mehgan.",
+    "source": "Wiki Kaamelott — Karadoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc"
+  },
+  {
+    "id": 46,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "De qui Lancelot est-il amoureux avant sa rupture avec Arthur ?",
+    "answer": "Guenièvre.",
+    "source": "Wiki Kaamelott — Lancelot du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac"
+  },
+  {
+    "id": 47,
+    "category": "Relations & familles",
+    "difficulty": "Moyen",
+    "question": "Quelle relation pousse Guenièvre à quitter Kaamelott pour rejoindre le camp de Lancelot ?",
+    "answer": "La liaison d’Arthur avec Mevanwi la choque et la pousse vers Lancelot.",
+    "source": "Wiki Kaamelott — Guenièvre",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre"
+  },
+  {
+    "id": 48,
+    "category": "Relations & familles",
+    "difficulty": "Difficile",
+    "question": "Quel échange juridique permet à Arthur d’épouser Mevanwi sans duel contre Karadoc ?",
+    "answer": "L’échange d’épouses selon une loi du pays de Vannes.",
+    "source": "Wiki Kaamelott — Pays de Vannes",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Vannes"
+  },
+  {
+    "id": 49,
+    "category": "Relations & familles",
+    "difficulty": "Difficile",
+    "question": "Après la prise de pouvoir de Lancelot, avec qui Mevanwi est-elle mariée ?",
+    "answer": "Avec Lancelot, selon la situation indiquée après le Livre VI / KV1.",
+    "source": "Wiki Kaamelott — Lancelot du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac"
+  },
+  {
+    "id": 50,
+    "category": "Relations & familles",
+    "difficulty": "Difficile",
+    "question": "Quel lien familial fait de Lancelot le cousin de Lionel ?",
+    "answer": "Leurs pères sont frères.",
+    "source": "Wiki Kaamelott — Lionel de Gaunes",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lionel_de_Gaunes"
+  },
+  {
+    "id": 51,
+    "category": "Intrigues par Livre",
+    "difficulty": "Facile",
+    "question": "Au Livre I, quel grand projet rassemble les chevaliers autour d’Arthur ?",
+    "answer": "La Quête du Graal.",
+    "source": "Wiki Kaamelott — Livre I",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Livre_I"
+  },
+  {
+    "id": 52,
+    "category": "Intrigues par Livre",
+    "difficulty": "Facile",
+    "question": "Dans quel Livre la Table Ronde est-elle déjà installée et les chevaliers commencent-ils leurs missions ?",
+    "answer": "Le Livre I.",
+    "source": "Wiki Kaamelott — Livre I",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Livre_I"
+  },
+  {
+    "id": 53,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel problème récurrent Arthur découvre-il dès les débuts de la Table Ronde ?",
+    "answer": "Ses chevaliers sont motivés mais souvent incompétents ou mal coordonnés.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 54,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Dans quel Livre les incursions barbares menacent régulièrement le royaume ?",
+    "answer": "Le Livre II.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 55,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel conflit relationnel commence à peser de plus en plus dans le Livre II ?",
+    "answer": "Les tensions entre Arthur et Lancelot.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 56,
+    "category": "Intrigues par Livre",
+    "difficulty": "Facile",
+    "question": "Dans quel Livre Arthur commence-t-il à s’éprendre de Mevanwi ?",
+    "answer": "Le Livre III.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 57,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quelle liaison adultère structure une grande partie du Livre III ?",
+    "answer": "La liaison d’Arthur avec Mevanwi, l’épouse de Karadoc.",
+    "source": "Wiki Kaamelott — Arthur Pendragon",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon"
+  },
+  {
+    "id": 58,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Dans quel Livre Lancelot rompt-il ouvertement avec la cour de Kaamelott ?",
+    "answer": "Le Livre IV.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 59,
+    "category": "Intrigues par Livre",
+    "difficulty": "Facile",
+    "question": "Où Guenièvre part-elle au début du Livre IV ?",
+    "answer": "Au camp de Lancelot dans la forêt.",
+    "source": "Wiki Kaamelott — Guenièvre",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre"
+  },
+  {
+    "id": 60,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quelle conséquence divine suit la fuite de Guenièvre et l’adultère d’Arthur selon le résumé général ?",
+    "answer": "La Dame du Lac est bannie par les dieux.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 61,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel roi soutient militairement et financièrement la dissidence de Lancelot dans le Livre IV ?",
+    "answer": "Loth d’Orcanie.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 62,
+    "category": "Intrigues par Livre",
+    "difficulty": "Facile",
+    "question": "À la fin du Livre IV, qui Arthur va-t-il libérer ?",
+    "answer": "Guenièvre, retenue par Lancelot.",
+    "source": "Wiki Kaamelott — Arthur Pendragon",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon"
+  },
+  {
+    "id": 63,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Au début du Livre V, de qui Arthur s’est-il séparé ?",
+    "answer": "De Mevanwi.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 64,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel geste Arthur accomplit-il au Livre V pour rappeler qu’il est l’élu ?",
+    "answer": "Il replante Excalibur dans le rocher.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 65,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel échec d’Arthur provoque la question de la régence au Livre V ?",
+    "answer": "Il ne retire plus Excalibur du rocher.",
+    "source": "Wiki Kaamelott — Roi",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Roi"
+  },
+  {
+    "id": 66,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "Quel spécialiste du droit est appelé pour régler la vacance du pouvoir au Livre V ?",
+    "answer": "Le Jurisconsulte.",
+    "source": "Wiki Kaamelott — Le Jurisconsulte",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29"
+  },
+  {
+    "id": 67,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "Qui est d’abord désigné régent quand le Jurisconsulte trouve la règle donnant ce pouvoir à la reine ?",
+    "answer": "Léodagan.",
+    "source": "Wiki Kaamelott — Le Jurisconsulte",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29"
+  },
+  {
+    "id": 68,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "Qui devient régent après que Mevanwi a détruit l’acte annulant l’échange d’épouses ?",
+    "answer": "Karadoc.",
+    "source": "Wiki Kaamelott — Le Jurisconsulte",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29"
+  },
+  {
+    "id": 69,
+    "category": "Intrigues par Livre",
+    "difficulty": "Facile",
+    "question": "Quel Livre raconte surtout la jeunesse d’Arthur à Rome ?",
+    "answer": "Le Livre VI.",
+    "source": "Wiki Kaamelott — Livre VI",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI"
+  },
+  {
+    "id": 70,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Combien d’épisodes du Livre VI racontent la jeunesse d’Arthur avant le retour au présent ?",
+    "answer": "Les huit premiers épisodes.",
+    "source": "Wiki Kaamelott — Livre VI",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI"
+  },
+  {
+    "id": 71,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel dernier épisode du Livre VI reprend l’histoire après la fin du Livre V ?",
+    "answer": "Dies Iræ.",
+    "source": "Wiki Kaamelott — Livre VI",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI"
+  },
+  {
+    "id": 72,
+    "category": "Intrigues par Livre",
+    "difficulty": "Facile",
+    "question": "À Rome, sous quel nom Arthur apparaît-il au début du Livre VI ?",
+    "answer": "Arturus.",
+    "source": "Wikipédia — Personnages de Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott"
+  },
+  {
+    "id": 73,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel sénateur organise l’ascension politique d’Arturus ?",
+    "answer": "Lucius Sillius Sallustius.",
+    "source": "Wiki Kaamelott — Lucius Sillius Sallustius",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lucius_Sillius_Sallustius"
+  },
+  {
+    "id": 74,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quelle Romaine est chargée de former Arthur à l’exercice du pouvoir ?",
+    "answer": "Aconia Minor.",
+    "source": "Wiki Kaamelott — Aconia Minor",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Aconia_Minor"
+  },
+  {
+    "id": 75,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Avec qui Arthur se marie-t-il secrètement avant Guenièvre ?",
+    "answer": "Aconia.",
+    "source": "Wikipédia — Personnages de Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott"
+  },
+  {
+    "id": 76,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel vieil empereur romain marque l’apprentissage d’Arthur ?",
+    "answer": "Cæsar.",
+    "source": "Wiki Kaamelott — Cæsar Imperator",
+    "url": "https://kaamelott.fandom.com/fr/wiki/C%C3%A6sar_Imperator"
+  },
+  {
+    "id": 77,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "Quel ami d’Arthur dans la milice romaine meurt pendant l’intrigue du Livre VI ?",
+    "answer": "Appius Manilius.",
+    "source": "Wiki Kaamelott — Appius Manilius",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Appius_Manilius"
+  },
+  {
+    "id": 78,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "Qui sauve Arthur après sa tentative de suicide ?",
+    "answer": "Lancelot.",
+    "source": "Wiki Kaamelott — Dies Iræ (Livre VI)",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29"
+  },
+  {
+    "id": 79,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "Quel symbole Lancelot fait-il brûler lors de sa prise de pouvoir ?",
+    "answer": "La Table Ronde.",
+    "source": "Wiki Kaamelott — Table Ronde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde"
+  },
+  {
+    "id": 80,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "À qui Arthur remet-il les pleins pouvoirs après que Karadoc les lui rend ?",
+    "answer": "À Lancelot.",
+    "source": "Wiki Kaamelott — Chronologie fictionnelle",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle"
+  },
+  {
+    "id": 81,
+    "category": "Intrigues par Livre",
+    "difficulty": "Facile",
+    "question": "Quel personnage revient vivant dans Dies Iræ alors qu’on l’avait laissé après une tentative de suicide ?",
+    "answer": "Arthur.",
+    "source": "Wiki Kaamelott — Dies Iræ (Livre VI)",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29"
+  },
+  {
+    "id": 82,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quelle demeure romaine Arthur retrouve-t-il après sa fuite à Rome selon la chronologie fictionnelle ?",
+    "answer": "La Villa Aconia.",
+    "source": "Wiki Kaamelott — Chronologie fictionnelle",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle"
+  },
+  {
+    "id": 83,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "Qui vient chercher Arthur à Tintagel pour l’aider à fuir vers Rome ?",
+    "answer": "Venec.",
+    "source": "Wiki Kaamelott — Chronologie fictionnelle",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle"
+  },
+  {
+    "id": 84,
+    "category": "Intrigues par Livre",
+    "difficulty": "Moyen",
+    "question": "Quel personnage manipule Lancelot au moment de son basculement tyrannique ?",
+    "answer": "Méléagant.",
+    "source": "Wiki Kaamelott — Méléagant",
+    "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant"
+  },
+  {
+    "id": 85,
+    "category": "Intrigues par Livre",
+    "difficulty": "Difficile",
+    "question": "Dans le Livre V, quel personnage révèle à Lancelot que son prochain voyageur à tuer est Lionel de Gaunes ?",
+    "answer": "Méléagant.",
+    "source": "Wiki Kaamelott — Méléagant",
+    "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant"
+  },
+  {
+    "id": 86,
+    "category": "Lieux & royaumes",
+    "difficulty": "Facile",
+    "question": "Quel royaume Arthur dirige-t-il ?",
+    "answer": "Le royaume de Logres.",
+    "source": "Wiki Kaamelott — Logres",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Logres"
+  },
+  {
+    "id": 87,
+    "category": "Lieux & royaumes",
+    "difficulty": "Facile",
+    "question": "Quel château sert de siège au royaume de Logres ?",
+    "answer": "Kaamelott.",
+    "source": "Wiki Kaamelott — Logres",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Logres"
+  },
+  {
+    "id": 88,
+    "category": "Lieux & royaumes",
+    "difficulty": "Facile",
+    "question": "De quel royaume Léodagan est-il roi ?",
+    "answer": "La Carmélide.",
+    "source": "Wiki Kaamelott — Léodagan",
+    "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan"
+  },
+  {
+    "id": 89,
+    "category": "Lieux & royaumes",
+    "difficulty": "Facile",
+    "question": "De quel pays Karadoc est-il chevalier ?",
+    "answer": "Le pays de Vannes.",
+    "source": "Wiki Kaamelott — Karadoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc"
+  },
+  {
+    "id": 90,
+    "category": "Lieux & royaumes",
+    "difficulty": "Facile",
+    "question": "De quel pays Perceval est-il chevalier ?",
+    "answer": "Le pays de Galles.",
+    "source": "Wiki Kaamelott — Perceval",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Perceval"
+  },
+  {
+    "id": 91,
+    "category": "Lieux & royaumes",
+    "difficulty": "Moyen",
+    "question": "De quel royaume Bohort est-il roi ?",
+    "answer": "Gaunes.",
+    "source": "Wiki Kaamelott — Bohort",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Bohort"
+  },
+  {
+    "id": 92,
+    "category": "Lieux & royaumes",
+    "difficulty": "Moyen",
+    "question": "Quel royaume est dirigé par Loth ?",
+    "answer": "L’Orcanie.",
+    "source": "Wiki Kaamelott — Loth",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Loth"
+  },
+  {
+    "id": 93,
+    "category": "Lieux & royaumes",
+    "difficulty": "Moyen",
+    "question": "Dans quelle région se situe l’Orcanie selon le wiki ?",
+    "answer": "Au nord de l’île de Bretagne, comprenant les Orcades et une partie nord de l’île principale.",
+    "source": "Wiki Kaamelott — Orcanie",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Orcanie"
+  },
+  {
+    "id": 94,
+    "category": "Lieux & royaumes",
+    "difficulty": "Moyen",
+    "question": "Quel duché gagne en importance au Livre V avec l’arrivée du duc et de la duchesse ?",
+    "answer": "L’Aquitaine.",
+    "source": "Wiki Kaamelott — Aquitaine",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Aquitaine"
+  },
+  {
+    "id": 95,
+    "category": "Lieux & royaumes",
+    "difficulty": "Moyen",
+    "question": "Quel royaume ennemi est dirigé par le Roi Burgonde ?",
+    "answer": "Le royaume burgonde.",
+    "source": "Wiki Kaamelott — Royaume burgonde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Royaume_burgonde"
+  },
+  {
+    "id": 96,
+    "category": "Lieux & royaumes",
+    "difficulty": "Moyen",
+    "question": "Où Lancelot installe-t-il son camp de dissidence ?",
+    "answer": "Dans la forêt.",
+    "source": "Wiki Kaamelott — Guenièvre",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre"
+  },
+  {
+    "id": 97,
+    "category": "Lieux & royaumes",
+    "difficulty": "Moyen",
+    "question": "Quel lieu devient le quartier général des Semi-Croustillants ?",
+    "answer": "La taverne.",
+    "source": "Wiki Kaamelott — Semi-Croustillants",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants"
+  },
+  {
+    "id": 98,
+    "category": "Lieux & royaumes",
+    "difficulty": "Difficile",
+    "question": "Quel lieu romain est associé à Aconia Minor ?",
+    "answer": "La Villa Aconia.",
+    "source": "Wiki Kaamelott — Aconia Minor",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Aconia_Minor"
+  },
+  {
+    "id": 99,
+    "category": "Lieux & royaumes",
+    "difficulty": "Moyen",
+    "question": "Quelle région est ralliée à Arthur par son mariage politique avec Guenièvre ?",
+    "answer": "La Carmélide.",
+    "source": "Wiki Kaamelott — Carmélide",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide"
+  },
+  {
+    "id": 100,
+    "category": "Lieux & royaumes",
+    "difficulty": "Difficile",
+    "question": "Quel pays possède la loi d’échange d’épouses ?",
+    "answer": "Le pays de Vannes.",
+    "source": "Wiki Kaamelott — Pays de Vannes",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Vannes"
+  },
+  {
+    "id": 101,
+    "category": "Lieux & royaumes",
+    "difficulty": "Difficile",
+    "question": "Quel lieu du château est central pour les réunions des chevaliers ?",
+    "answer": "La salle de la Table Ronde.",
+    "source": "Wiki Kaamelott — Table Ronde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde"
+  },
+  {
+    "id": 102,
+    "category": "Lieux & royaumes",
+    "difficulty": "Difficile",
+    "question": "Quel domaine seigneurial Dagonet semble incapable de situer précisément ?",
+    "answer": "Le domaine Dagonet.",
+    "source": "Wiki Kaamelott — Dagonet",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Dagonet"
+  },
+  {
+    "id": 103,
+    "category": "Lieux & royaumes",
+    "difficulty": "Difficile",
+    "question": "Dans le Livre VI, dans quelle grande ville Arthur sert-il comme soldat romain ?",
+    "answer": "Rome.",
+    "source": "Wiki Kaamelott — Livre VI",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI"
+  },
+  {
+    "id": 104,
+    "category": "Pouvoir & politique",
+    "difficulty": "Facile",
+    "question": "Quel objet donne à Arthur sa légitimité royale ?",
+    "answer": "Excalibur.",
+    "source": "Wiki Kaamelott — Excalibur",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur"
+  },
+  {
+    "id": 105,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Dans Kaamelott, que doit-on pouvoir faire pour être roi de Logres ?",
+    "answer": "Retirer Excalibur du rocher.",
+    "source": "Wiki Kaamelott — Roi",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Roi"
+  },
+  {
+    "id": 106,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quelle assemblée Arthur fonde-t-il pour organiser la Quête du Graal ?",
+    "answer": "La Table Ronde.",
+    "source": "Wiki Kaamelott — Table Ronde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde"
+  },
+  {
+    "id": 107,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Qui ordonne la création des Chevaliers de la Table Ronde selon le wiki ?",
+    "answer": "La Dame du Lac.",
+    "source": "Wiki Kaamelott — Chevalier de la Table Ronde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Chevalier_de_la_Table_Ronde"
+  },
+  {
+    "id": 108,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel ministère ou fonction militaire Léodagan exerce-t-il auprès d’Arthur ?",
+    "answer": "Il est responsable de la défense du royaume de Logres.",
+    "source": "Wiki Kaamelott — Léodagan",
+    "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan"
+  },
+  {
+    "id": 109,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel personnage est appelé à trancher la crise institutionnelle du Livre V ?",
+    "answer": "Le Jurisconsulte.",
+    "source": "Wiki Kaamelott — Le Jurisconsulte",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29"
+  },
+  {
+    "id": 110,
+    "category": "Pouvoir & politique",
+    "difficulty": "Difficile",
+    "question": "Quand Arthur ne peut plus exercer comme roi, qui désigne le régent selon la règle trouvée au Livre V ?",
+    "answer": "La reine.",
+    "source": "Wiki Kaamelott — Le Jurisconsulte",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28personnage%29"
+  },
+  {
+    "id": 111,
+    "category": "Pouvoir & politique",
+    "difficulty": "Difficile",
+    "question": "Quels régents sont listés par le wiki pour la période de crise ?",
+    "answer": "Karadoc, Léodagan et Lancelot.",
+    "source": "Wiki Kaamelott — Roi",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Roi"
+  },
+  {
+    "id": 112,
+    "category": "Pouvoir & politique",
+    "difficulty": "Facile",
+    "question": "Quel roi tente régulièrement de manipuler les autres chefs contre Arthur ?",
+    "answer": "Loth.",
+    "source": "Wiki Kaamelott — Loth",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Loth"
+  },
+  {
+    "id": 113,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel duc représente l’Orcanie à la Table Ronde et relaie souvent les intérêts de Loth ?",
+    "answer": "Galessin.",
+    "source": "Wiki Kaamelott — Galessin",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Galessin"
+  },
+  {
+    "id": 114,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel personnage soutient la dissidence de Lancelot dans le Livre IV ?",
+    "answer": "Loth d’Orcanie.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 115,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel personnage devient tyrannique après avoir reçu les pleins pouvoirs ?",
+    "answer": "Lancelot.",
+    "source": "Wiki Kaamelott — Logres",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Logres"
+  },
+  {
+    "id": 116,
+    "category": "Pouvoir & politique",
+    "difficulty": "Difficile",
+    "question": "Quels chevaliers sont pourchassés après la prise de pouvoir de Lancelot selon la chronologie ?",
+    "answer": "Les chevaliers de la Table Ronde.",
+    "source": "Wiki Kaamelott — Chronologie fictionnelle",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Chronologie_fictionnelle"
+  },
+  {
+    "id": 117,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel personnage est roi de Carmélide mais reste vassalisé ou fédéré par Arthur ?",
+    "answer": "Léodagan.",
+    "source": "Wiki Kaamelott — Carmélide",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide"
+  },
+  {
+    "id": 118,
+    "category": "Pouvoir & politique",
+    "difficulty": "Difficile",
+    "question": "Quel personnage cherche à conserver son rang de chevalier et de ministre malgré son opposition à l’échange d’épouses ?",
+    "answer": "Léodagan.",
+    "source": "Wiki Kaamelott — Léodagan",
+    "url": "https://kaamelott.fandom.com/fr/wiki/L%C3%A9odagan"
+  },
+  {
+    "id": 119,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel marchand fabrique de fausses pièces dans Raison D’Argent ?",
+    "answer": "Venec.",
+    "source": "Wiki Kaamelott — Raison D’Argent / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Raison_D%27Argent/Script"
+  },
+  {
+    "id": 120,
+    "category": "Pouvoir & politique",
+    "difficulty": "Difficile",
+    "question": "Quelle institution est autant un symbole politique qu’un outil de quête ?",
+    "answer": "La Table Ronde.",
+    "source": "Wiki Kaamelott — Table Ronde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde"
+  },
+  {
+    "id": 121,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel personnage romain fait monter Arturus en grade pour réaffirmer l’autorité romaine en Bretagne ?",
+    "answer": "Sallustius.",
+    "source": "Wikipédia — Personnages de Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott"
+  },
+  {
+    "id": 122,
+    "category": "Pouvoir & politique",
+    "difficulty": "Difficile",
+    "question": "Quels chefs bretons sont visés par la stratégie romaine du Livre VI ?",
+    "answer": "Les chefs locaux révoltés, notamment Léodagan.",
+    "source": "Wikipédia — Personnages de Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott"
+  },
+  {
+    "id": 123,
+    "category": "Pouvoir & politique",
+    "difficulty": "Difficile",
+    "question": "Quel titre militaire romain Arthur reçoit-il avant de devenir roi de Bretagne ?",
+    "answer": "Dux bellorum, puis dux totius britanniae.",
+    "source": "Wikipédia — Personnages de Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Personnages_de_Kaamelott"
+  },
+  {
+    "id": 124,
+    "category": "Pouvoir & politique",
+    "difficulty": "Moyen",
+    "question": "Quel personnage de Kaamelott sert de « gardien du culte » et représente la religion catholique naissante ?",
+    "answer": "Le Père Blaise.",
+    "source": "Wiki Kaamelott — Père Blaise",
+    "url": "https://kaamelott.fandom.com/fr/wiki/P%C3%A8re_Blaise"
+  },
+  {
+    "id": 125,
+    "category": "Pouvoir & politique",
+    "difficulty": "Difficile",
+    "question": "Quel groupe rebelle fondé par Lancelot prétend mener la recherche du Graal à sa manière ?",
+    "answer": "Le clan autonome de Lancelot.",
+    "source": "Wiki Kaamelott — Lancelot du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac"
+  },
+  {
+    "id": 126,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Facile",
+    "question": "Quel objet les chevaliers de la Table Ronde recherchent-ils ?",
+    "answer": "Le Graal.",
+    "source": "Wiki Kaamelott — Graal",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Graal"
+  },
+  {
+    "id": 127,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Facile",
+    "question": "Quelle épée magique est plantée dans un rocher ?",
+    "answer": "Excalibur.",
+    "source": "Wiki Kaamelott — Excalibur",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur"
+  },
+  {
+    "id": 128,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Qui peut retirer Excalibur du rocher ?",
+    "answer": "L’élu des dieux appelé à régner sur la Bretagne.",
+    "source": "Wiki Kaamelott — Excalibur",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur"
+  },
+  {
+    "id": 129,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "À quoi le Graal est-il associé dans la tradition chrétienne de la série ?",
+    "answer": "À la relique ayant recueilli le sang du Christ.",
+    "source": "Wiki Kaamelott — Graal",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Graal"
+  },
+  {
+    "id": 130,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quel objet Arthur replante-t-il au Livre V ?",
+    "answer": "Excalibur.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 131,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quel personnage sert de messagère divine auprès d’Arthur ?",
+    "answer": "La Dame du Lac.",
+    "source": "Wiki Kaamelott — La Dame du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac"
+  },
+  {
+    "id": 132,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Qui est le seul à pouvoir voir et entendre la Dame du Lac quand elle apparaît ?",
+    "answer": "Arthur.",
+    "source": "Wiki Kaamelott — La Dame du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac"
+  },
+  {
+    "id": 133,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Difficile",
+    "question": "Quel personnage surnaturel annonce indirectement le châtiment des dieux lié à Méléagant ?",
+    "answer": "La Fée Morgane.",
+    "source": "Wiki Kaamelott — La Fée Morgane",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_F%C3%A9e_Morgane"
+  },
+  {
+    "id": 134,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quel personnage est l’enchanteur officiel de Kaamelott malgré son manque de régularité magique ?",
+    "answer": "Merlin.",
+    "source": "Wiki Kaamelott — Merlin",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Merlin"
+  },
+  {
+    "id": 135,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quel autre enchanteur est recruté pour aider à défendre le royaume ?",
+    "answer": "Élias de Kelliwic’h.",
+    "source": "Wiki Kaamelott — Élias de Kelliwic’h",
+    "url": "https://kaamelott.fandom.com/fr/wiki/%C3%89lias_de_Kelliwic%27h"
+  },
+  {
+    "id": 136,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quel sort puissant Merlin réussit parfois mais ne parvient pas toujours à refaire ?",
+    "answer": "Des sorts comme l’invincibilité ou l’invisibilité.",
+    "source": "Wiki Kaamelott — Merlin",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Merlin"
+  },
+  {
+    "id": 137,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Difficile",
+    "question": "Quel rôle religieux donne au Père Blaise une place entre l’ancien monde païen et le christianisme naissant ?",
+    "answer": "Il est le gardien du culte de Kaamelott.",
+    "source": "Wiki Kaamelott — Père Blaise",
+    "url": "https://kaamelott.fandom.com/fr/wiki/P%C3%A8re_Blaise"
+  },
+  {
+    "id": 138,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Difficile",
+    "question": "Quel personnage manipule Lancelot en se présentant comme une force de sabordage plutôt que d’aide ?",
+    "answer": "Méléagant.",
+    "source": "Wiki Kaamelott — Méléagant",
+    "url": "https://kaamelott.fandom.com/fr/wiki/M%C3%A9l%C3%A9agant"
+  },
+  {
+    "id": 139,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quel objet construit par Breccan donne physiquement son nom à l’ordre des chevaliers ?",
+    "answer": "La Table Ronde.",
+    "source": "Wiki Kaamelott — La Table De Breccan",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan"
+  },
+  {
+    "id": 140,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quel symbole de la quête et du règne d’Arthur est brûlé sous Lancelot ?",
+    "answer": "La Table Ronde.",
+    "source": "Wiki Kaamelott — Table Ronde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Table_Ronde"
+  },
+  {
+    "id": 141,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Difficile",
+    "question": "Quel objet magique Arthur menace Venec de rendre sous peine de malédiction dans Le Larcin ?",
+    "answer": "Excalibur.",
+    "source": "Wiki Kaamelott — Excalibur",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Excalibur"
+  },
+  {
+    "id": 142,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quel objet religieux Arthur explique difficilement à des chevaliers qui n’en saisissent pas la portée ?",
+    "answer": "Le Graal.",
+    "source": "Wiki Kaamelott — Graal",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Graal"
+  },
+  {
+    "id": 143,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Difficile",
+    "question": "Quel lieu mythique le Père Blaise envisage-t-il comme piste pour le Graal dans Always ?",
+    "answer": "Avalon.",
+    "source": "Wiki Kaamelott — Graal",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Graal"
+  },
+  {
+    "id": 144,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Moyen",
+    "question": "Quelle mission divine fait de la Dame du Lac la guide d’Arthur ?",
+    "answer": "Guider Arthur et ses chevaliers dans la Quête du Graal.",
+    "source": "Wiki Kaamelott — La Dame du Lac",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Dame_du_Lac"
+  },
+  {
+    "id": 145,
+    "category": "Quêtes, objets & mythologie",
+    "difficulty": "Difficile",
+    "question": "Quel personnage féminin perd son statut céleste après les fautes d’Arthur et la crise du Livre IV ?",
+    "answer": "La Dame du Lac.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 146,
+    "category": "Répliques & gags",
+    "difficulty": "Facile",
+    "question": "Quelle formule Perceval utilise-t-il quand il ne comprend pas un mot ?",
+    "answer": "« C’est pas faux. »",
+    "source": "Wiki Kaamelott — « C’est pas faux »",
+    "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux"
+  },
+  {
+    "id": 147,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Qui invente la ruse du « C’est pas faux » ?",
+    "answer": "Karadoc.",
+    "source": "Wiki Kaamelott — « C’est pas faux »",
+    "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux"
+  },
+  {
+    "id": 148,
+    "category": "Répliques & gags",
+    "difficulty": "Difficile",
+    "question": "Dans quel épisode la formule « C’est pas faux » est-elle utilisée pour la première fois ?",
+    "answer": "La Botte Secrète, Livre I, épisode 28.",
+    "source": "Wiki Kaamelott — « C’est pas faux »",
+    "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux"
+  },
+  {
+    "id": 149,
+    "category": "Répliques & gags",
+    "difficulty": "Difficile",
+    "question": "Quel mot du Tavernier déclenche l’apprentissage de la botte secrète à Perceval ?",
+    "answer": "« Sinécure ».",
+    "source": "Wiki Kaamelott — « C’est pas faux »",
+    "url": "https://kaamelott.fandom.com/fr/wiki/C%27est_pas_faux"
+  },
+  {
+    "id": 150,
+    "category": "Répliques & gags",
+    "difficulty": "Facile",
+    "question": "Quelle phrase de Karadoc résume sa philosophie alimentaire ?",
+    "answer": "« Le gras, c’est la vie. »",
+    "source": "Wiki Kaamelott — Karadoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc"
+  },
+  {
+    "id": 151,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Quel jeu compliqué de dés Perceval, Karadoc et le Tavernier pratiquent-ils ?",
+    "answer": "Le cul de chouette.",
+    "source": "Wiki Kaamelott — Cul de chouette",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette"
+  },
+  {
+    "id": 152,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Quel jeu gallois Perceval tente-t-il d’expliquer avec des lentilles ou des haricots ?",
+    "answer": "La grelottine.",
+    "source": "Wiki Kaamelott — Grelottine",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Grelottine"
+  },
+  {
+    "id": 153,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Quel jeu de Kadoc et Karadoc ressemble à une pétanque rudimentaire ?",
+    "answer": "Le jeu du caillou.",
+    "source": "Wiki Kaamelott — Jeu du caillou",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Jeu_du_caillou"
+  },
+  {
+    "id": 154,
+    "category": "Répliques & gags",
+    "difficulty": "Difficile",
+    "question": "Quel jeu gallois Perceval chante-t-il dans un épisode du Livre III ?",
+    "answer": "Le sloubi, dans Perceval Chante Sloubi.",
+    "source": "Wiki Kaamelott — Pays de Galles",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Galles"
+  },
+  {
+    "id": 155,
+    "category": "Répliques & gags",
+    "difficulty": "Facile",
+    "question": "Quel plat raté de Séli est devenu un gag dès le deuxième épisode ?",
+    "answer": "Les tartes aux myrtilles.",
+    "source": "Wiki Kaamelott — Les Tartes Aux Myrtilles",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Les_Tartes_Aux_Myrtilles"
+  },
+  {
+    "id": 156,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Dans quel épisode la nouvelle Table Ronde paraît trop proche d’un meuble de banquet ?",
+    "answer": "La Table De Breccan.",
+    "source": "Wiki Kaamelott — La Table De Breccan",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan"
+  },
+  {
+    "id": 157,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Quel personnage pousse Arthur à inventer des insultes pendant l’entraînement ?",
+    "answer": "Le Maître d’Armes.",
+    "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script"
+  },
+  {
+    "id": 158,
+    "category": "Répliques & gags",
+    "difficulty": "Difficile",
+    "question": "Quelle insulte d’Arthur blesse le Maître d’Armes parce qu’elle est vraie ?",
+    "answer": "« Fils d’unijambiste. »",
+    "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script"
+  },
+  {
+    "id": 159,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Quel duo raconte au Père Blaise une version héroïque très douteuse du Serpent Géant ?",
+    "answer": "Perceval et Karadoc.",
+    "source": "Wiki Kaamelott — Le Serpent Géant / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Serpent_G%C3%A9ant/Script"
+  },
+  {
+    "id": 160,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Dans Raison D’Argent, qui propose de fausses pièces à l’effigie d’Arthur ?",
+    "answer": "Venec.",
+    "source": "Wiki Kaamelott — Raison D’Argent / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Raison_D%27Argent/Script"
+  },
+  {
+    "id": 161,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Dans Dîner Dansant, quel jeune chevalier refuse de manger ?",
+    "answer": "Yvain.",
+    "source": "Wiki Kaamelott — Dîner Dansant / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/D%C3%AEner_Dansant/Script"
+  },
+  {
+    "id": 162,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Quelle mère hurle sur Yvain pour qu’il mange ?",
+    "answer": "Séli.",
+    "source": "Wiki Kaamelott — Dîner Dansant / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/D%C3%AEner_Dansant/Script"
+  },
+  {
+    "id": 163,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Dans Les Nouveaux Frères, qui propose une coopération avec Yvain ?",
+    "answer": "Gauvain.",
+    "source": "Wiki Kaamelott — Les Nouveaux Frères / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Les_Nouveaux_Fr%C3%A8res/Script"
+  },
+  {
+    "id": 164,
+    "category": "Répliques & gags",
+    "difficulty": "Difficile",
+    "question": "Quelle expression donne leur nom au clan fondé par Perceval et Karadoc ?",
+    "answer": "Les Semi-Croustillants.",
+    "source": "Wiki Kaamelott — Semi-Croustillants",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Semi-Croustillants"
+  },
+  {
+    "id": 165,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Dans le gag des Burgondes, quel obstacle complique les négociations ?",
+    "answer": "Le Roi Burgonde ne parle pas la langue d’Arthur.",
+    "source": "Wiki Kaamelott — Le Roi Burgonde",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Roi_Burgonde"
+  },
+  {
+    "id": 166,
+    "category": "Répliques & gags",
+    "difficulty": "Difficile",
+    "question": "Quel personnage burgonde se met à conseiller Arthur au lieu de traduire docilement ?",
+    "answer": "L’Interprète.",
+    "source": "Wiki Kaamelott — L’Interprète / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script"
+  },
+  {
+    "id": 167,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Quel paysan est souvent en conflit avec Roparzh pour des histoires de voisinage ou de bétail ?",
+    "answer": "Guethenoc.",
+    "source": "Wiki Kaamelott — Roparzh",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Roparzh"
+  },
+  {
+    "id": 168,
+    "category": "Répliques & gags",
+    "difficulty": "Moyen",
+    "question": "Dans les gags paysans, quel roi doit arbitrer les plaintes absurdes de Guethenoc et Roparzh ?",
+    "answer": "Arthur.",
+    "source": "Wiki Kaamelott — Guethenoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Guethenoc"
+  },
+  {
+    "id": 169,
+    "category": "Répliques & gags",
+    "difficulty": "Difficile",
+    "question": "Quel personnage ne dort jamais selon sa fiche, ce qui expliquerait son retard mental ?",
+    "answer": "Kadoc.",
+    "source": "Wiki Kaamelott — Kadoc",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Kadoc"
+  },
+  {
+    "id": 170,
+    "category": "Répliques & gags",
+    "difficulty": "Difficile",
+    "question": "Quelle règle de Perceval donne souvent des jeux impossibles à comprendre pour Karadoc et le Tavernier ?",
+    "answer": "Les jeux du pays de Galles ont des règles farfelues que Perceval explique mal.",
+    "source": "Wiki Kaamelott — Grelottine",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Grelottine"
+  },
+  {
+    "id": 171,
+    "category": "Épisodes & situations",
+    "difficulty": "Facile",
+    "question": "Quel est le premier épisode du Livre I ?",
+    "answer": "Heat.",
+    "source": "Wiki Kaamelott — Heat",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Heat"
+  },
+  {
+    "id": 172,
+    "category": "Épisodes & situations",
+    "difficulty": "Facile",
+    "question": "Quel est le deuxième épisode du Livre I ?",
+    "answer": "Les Tartes Aux Myrtilles.",
+    "source": "Wiki Kaamelott — Les Tartes Aux Myrtilles",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Les_Tartes_Aux_Myrtilles"
+  },
+  {
+    "id": 173,
+    "category": "Épisodes & situations",
+    "difficulty": "Facile",
+    "question": "Quel épisode du Livre I introduit la Table Ronde construite par Breccan ?",
+    "answer": "La Table De Breccan.",
+    "source": "Wiki Kaamelott — La Table De Breccan",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan"
+  },
+  {
+    "id": 174,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Dans quel épisode Arthur et les chevaliers inaugurent-ils maladroitement la Table Ronde ?",
+    "answer": "La Table De Breccan.",
+    "source": "Wiki Kaamelott — La Table De Breccan",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan"
+  },
+  {
+    "id": 175,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Dans quel épisode Perceval fait-il la visite de son propre château ?",
+    "answer": "La Mort Le Roy Artu.",
+    "source": "Wiki Kaamelott — page ou script d’épisode",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Mort_Le_Roy_Artu/Script"
+  },
+  {
+    "id": 176,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Quel épisode met Calogrenant dans une situation vestimentaire devenue célèbre ?",
+    "answer": "La Jupe De Calogrenant.",
+    "source": "Wiki Kaamelott — page ou script d’épisode",
+    "url": "https://kaamelott.fandom.com/fr/wiki/La_Jupe_De_Calogrenant/Script"
+  },
+  {
+    "id": 177,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Dans quel épisode Arthur négocie-t-il avec les Burgondes par l’intermédiaire d’un traducteur ?",
+    "answer": "L’Interprète.",
+    "source": "Wiki Kaamelott — L’Interprète / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script"
+  },
+  {
+    "id": 178,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Quel épisode Livre I, épisode 100, porte sur la question centrale du Graal ?",
+    "answer": "La Vraie Nature Du Graal.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  },
+  {
+    "id": 179,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Quel épisode Livre I, épisode 93, est associé aux techniques absurdes de Perceval et Karadoc ?",
+    "answer": "Unagi.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  },
+  {
+    "id": 180,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Quel épisode Livre II, épisode 54, porte un titre anglais lié au jeu ?",
+    "answer": "The Game.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  },
+  {
+    "id": 181,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Quel épisode Livre II, épisode 69, réunit Roparzh, Guethenoc, Arthur et Karadoc autour d’une vache morte ?",
+    "answer": "Feue La Vache De Roparzh.",
+    "source": "Wiki Kaamelott — page ou script d’épisode",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Feue_La_Vache_De_Roparzh"
+  },
+  {
+    "id": 182,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Quel épisode voit Guenièvre mentionner bruyamment des commérages sur la Duchesse d’Aquitaine ?",
+    "answer": "La Ronde, au Livre II.",
+    "source": "Wiki Kaamelott — Aquitaine",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Aquitaine"
+  },
+  {
+    "id": 183,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Dans quel Livre apparaît l’idylle Arthur-Mevanwi ?",
+    "answer": "Le Livre III.",
+    "source": "Wiki Kaamelott — Arthur Pendragon",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon"
+  },
+  {
+    "id": 184,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Quel épisode du Livre III amorce la scène où Mevanwi prend un bain près d’Arthur ?",
+    "answer": "Ablutions.",
+    "source": "Wiki Kaamelott — Arthur Pendragon",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon"
+  },
+  {
+    "id": 185,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Dans quel épisode Arthur commence-t-il à parler à Mevanwi après le début de son trouble ?",
+    "answer": "Le Trouble.",
+    "source": "Wiki Kaamelott — Arthur Pendragon",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon"
+  },
+  {
+    "id": 186,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Quels épisodes terminent le Livre III par la crise ouverte entre Arthur, Mevanwi et Guenièvre ?",
+    "answer": "La Dispute, 1re et 2e parties.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  },
+  {
+    "id": 187,
+    "category": "Épisodes & situations",
+    "difficulty": "Facile",
+    "question": "Quel Livre commence avec Guenièvre au camp de Lancelot ?",
+    "answer": "Le Livre IV.",
+    "source": "Wiki Kaamelott — Guenièvre",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre"
+  },
+  {
+    "id": 188,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Quels épisodes du Livre IV s’intitulent Tous Les Matins Du Monde ?",
+    "answer": "Les deux premières parties du Livre IV.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  },
+  {
+    "id": 189,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Dans quel Livre apparaît le camp romain lié à la crise Lancelot-Arthur ?",
+    "answer": "Le Livre IV.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  },
+  {
+    "id": 190,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Quel épisode du Livre IV porte le titre Le Vice De Forme ?",
+    "answer": "Le Livre IV, épisode 92 selon le Codex Missa Brevis.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  },
+  {
+    "id": 191,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Quel épisode du Livre IV montre le baptême de Perceval ?",
+    "answer": "Le Désordre Et La Nuit.",
+    "source": "Wiki Kaamelott — Le Désordre Et La Nuit / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_D%C3%A9sordre_Et_La_Nuit/Script"
+  },
+  {
+    "id": 192,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Dans quel Livre Arthur replante-t-il Excalibur dans le rocher ?",
+    "answer": "Le Livre V.",
+    "source": "Wikipédia — Kaamelott",
+    "url": "https://fr.wikipedia.org/wiki/Kaamelott"
+  },
+  {
+    "id": 193,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Quel épisode long du Livre V correspond au moment où le royaume est sans tête ?",
+    "answer": "Le Royaume Sans Tête.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  },
+  {
+    "id": 194,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Dans quelle partie du Livre V se trouve Le Jurisconsulte selon la fiche de l’épisode ?",
+    "answer": "Dans Le Royaume Sans Tête, version DVD.",
+    "source": "Wiki Kaamelott — Le Jurisconsulte (épisode)",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28%C3%A9pisode%29"
+  },
+  {
+    "id": 195,
+    "category": "Épisodes & situations",
+    "difficulty": "Facile",
+    "question": "Quel Livre n’est pas une suite chronologique directe des cinq premiers ?",
+    "answer": "Le Livre VI.",
+    "source": "Wiki Kaamelott — Livre VI",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI"
+  },
+  {
+    "id": 196,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Quel épisode du Livre VI montre Arthur encore affaibli après sa tentative de suicide ?",
+    "answer": "Dies Iræ.",
+    "source": "Wiki Kaamelott — Dies Iræ (Livre VI)",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29"
+  },
+  {
+    "id": 197,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Dans Dies Iræ, qui questionne Arthur sur sa tentative de suicide ?",
+    "answer": "Le Père Blaise.",
+    "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script"
+  },
+  {
+    "id": 198,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Quel épisode du Livre VI fait revenir Arthur à son mariage avec Guenièvre ?",
+    "answer": "Lacrimosa.",
+    "source": "Wiki Kaamelott — Lacrimosa (Livre VI) / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lacrimosa_%28Livre_VI%29/Script"
+  },
+  {
+    "id": 199,
+    "category": "Épisodes & situations",
+    "difficulty": "Difficile",
+    "question": "Dans Lacrimosa du Livre VI, chez quel seigneur Arthur, Lancelot et Dagonet chassent-ils ?",
+    "answer": "Chez Dagonet, même si celui-ci situe mal ses terres.",
+    "source": "Wiki Kaamelott — Lacrimosa (Livre VI) / Script",
+    "url": "https://kaamelott.fandom.com/fr/wiki/Lacrimosa_%28Livre_VI%29/Script"
+  },
+  {
+    "id": 200,
+    "category": "Épisodes & situations",
+    "difficulty": "Moyen",
+    "question": "Quel site fournit un codex alphabétique des épisodes utilisé pour vérifier les titres et numéros ?",
+    "answer": "Missa Brevis.",
+    "source": "Missa Brevis — Codex des épisodes",
+    "url": "https://www.missabrevis.com/codex/episodes/"
+  }
+];
+
+    const state = {
+      deck: [],
+      index: 0,
+      flipped: false
+    };
+
+    const els = {
+      categoryChecks: document.getElementById('categoryChecks'),
+      difficultyChecks: document.getElementById('difficultyChecks'),
+      catCount: document.getElementById('catCount'),
+      search: document.getElementById('search'),
+      allCats: document.getElementById('allCats'),
+      noCats: document.getElementById('noCats'),
+      shuffle: document.getElementById('shuffleBtn'),
+      reset: document.getElementById('resetBtn'),
+      visibleCount: document.getElementById('visibleCount'),
+      totalCount: document.getElementById('totalCount'),
+      position: document.getElementById('position'),
+      currentDifficulty: document.getElementById('currentDifficulty'),
+      card: document.getElementById('flashcard'),
+      cardWrap: document.getElementById('cardWrap'),
+      empty: document.getElementById('emptyState'),
+      frontMeta: document.getElementById('frontMeta'),
+      backMeta: document.getElementById('backMeta'),
+      question: document.getElementById('questionText'),
+      answer: document.getElementById('answerText'),
+      source: document.getElementById('sourceText'),
+      prev: document.getElementById('prevBtn'),
+      next: document.getElementById('nextBtn'),
+      flip: document.getElementById('flipBtn'),
+      random: document.getElementById('randomBtn')
+    };
+
+    const categories = [...new Set(CARDS.map(card => card.category))].sort((a,b) => a.localeCompare(b, 'fr'));
+    const difficulties = ['Facile', 'Moyen', 'Difficile'];
+
+    function escapeHtml(str) {
+      return String(str).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#039;','"':'&quot;'}[char]));
+    }
+
+    function renderChecks() {
+      els.categoryChecks.innerHTML = categories.map(cat => `
+        <label class="check"><input type="checkbox" name="category" value="${escapeHtml(cat)}" checked> <span>${escapeHtml(cat)}</span></label>
+      `).join('');
+      els.difficultyChecks.innerHTML = difficulties.map(diff => `
+        <label class="check"><input type="checkbox" name="difficulty" value="${escapeHtml(diff)}"> <span>${escapeHtml(diff)}</span></label>
+      `).join('');
+      document.querySelectorAll('input[name="category"], input[name="difficulty"]').forEach(input => input.addEventListener('change', applyFilters));
+    }
+
+    function selectedValues(name) {
+      return [...document.querySelectorAll(`input[name="${name}"]:checked`)].map(input => input.value);
+    }
+
+    function filteredCards() {
+      const selectedCategories = selectedValues('category');
+      const selectedDifficulties = selectedValues('difficulty');
+      const query = els.search.value.trim().toLocaleLowerCase('fr-FR');
+      return CARDS.filter(card => {
+        if (!selectedCategories.includes(card.category)) return false;
+        if (selectedDifficulties.length && !selectedDifficulties.includes(card.difficulty)) return false;
+        if (query) {
+          const haystack = `${card.question} ${card.answer} ${card.category} ${card.difficulty}`.toLocaleLowerCase('fr-FR');
+          if (!haystack.includes(query)) return false;
+        }
+        return true;
+      });
+    }
+
+    function applyFilters() {
+      state.deck = filteredCards();
+      state.index = 0;
+      state.flipped = false;
+      render();
+    }
+
+    function setFlipped(value) {
+      state.flipped = value;
+      els.card.classList.toggle('flipped', state.flipped);
+      els.card.setAttribute('aria-pressed', String(state.flipped));
+      els.flip.textContent = state.flipped ? 'Voir la question' : 'Retourner';
+    }
+
+    function renderMeta(card) {
+      return `<span class="pill">${card.category}</span><span class="pill difficulty">${card.difficulty}</span><span class="pill">Question ${card.id}/200</span>`;
+    }
+
+    function render() {
+      const hasCards = state.deck.length > 0;
+      els.empty.classList.toggle('show', !hasCards);
+      els.cardWrap.style.display = hasCards ? 'block' : 'none';
+      els.prev.disabled = !hasCards;
+      els.next.disabled = !hasCards;
+      els.flip.disabled = !hasCards;
+      els.random.disabled = !hasCards;
+      els.visibleCount.textContent = state.deck.length;
+      els.totalCount.textContent = CARDS.length;
+      els.catCount.textContent = `${selectedValues('category').length}/${categories.length}`;
+
+      if (!hasCards) {
+        els.position.textContent = '0/0';
+        els.currentDifficulty.textContent = '—';
+        return;
+      }
+
+      if (state.index >= state.deck.length) state.index = state.deck.length - 1;
+      const card = state.deck[state.index];
+      els.position.textContent = `${state.index + 1}/${state.deck.length}`;
+      els.currentDifficulty.textContent = card.difficulty;
+      els.frontMeta.innerHTML = renderMeta(card);
+      els.backMeta.innerHTML = renderMeta(card);
+      els.question.textContent = card.question;
+      els.answer.textContent = card.answer;
+      els.source.innerHTML = `<span>Référence :</span><a href="${card.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(card.source)}</a>`;
+      setFlipped(false);
+    }
+
+    function shuffleDeck() {
+      const arr = state.deck.slice();
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      state.deck = arr;
+      state.index = 0;
+      setFlipped(false);
+      render();
+    }
+
+    els.search.addEventListener('input', applyFilters);
+    els.allCats.addEventListener('click', () => { document.querySelectorAll('input[name="category"]').forEach(input => input.checked = true); applyFilters(); });
+    els.noCats.addEventListener('click', () => { document.querySelectorAll('input[name="category"]').forEach(input => input.checked = false); applyFilters(); });
+    els.shuffle.addEventListener('click', shuffleDeck);
+    els.reset.addEventListener('click', () => {
+      els.search.value = '';
+      document.querySelectorAll('input[name="category"]').forEach(input => input.checked = true);
+      document.querySelectorAll('input[name="difficulty"]').forEach(input => input.checked = false);
+      applyFilters();
+    });
+    els.prev.addEventListener('click', () => { if (!state.deck.length) return; state.index = (state.index - 1 + state.deck.length) % state.deck.length; render(); });
+    els.next.addEventListener('click', () => { if (!state.deck.length) return; state.index = (state.index + 1) % state.deck.length; render(); });
+    els.random.addEventListener('click', () => { if (!state.deck.length) return; state.index = Math.floor(Math.random() * state.deck.length); render(); });
+    els.flip.addEventListener('click', () => setFlipped(!state.flipped));
+    els.card.addEventListener('click', () => setFlipped(!state.flipped));
+    els.card.addEventListener('keydown', event => {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        setFlipped(!state.flipped);
+      }
+      if (event.key === 'ArrowRight') els.next.click();
+      if (event.key === 'ArrowLeft') els.prev.click();
+    });
+
+    renderChecks();
+    applyFilters();
+  </script>
+</body>
+</html>
