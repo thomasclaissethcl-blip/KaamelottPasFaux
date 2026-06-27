@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan et Séli.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
+    "explanation": "Guenièvre est bien la fille de Léodagan et Séli, ce qui l’ancre dans la Carmélide. Son mariage avec Arthur ne lie donc pas seulement deux personnes : il rattache aussi la famille de Carmélide au pouvoir de Logres."
   },
   {
     "id": 30,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Yvain est le frère de Guenièvre.",
     "source": "Wiki Kaamelott — Yvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Yvain",
-    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
+    "explanation": "Yvain est le frère de Guenièvre, puisqu’ils sont tous deux les enfants de Léodagan et Séli. Ce lien explique pourquoi Yvain gravite autour de la cour royale tout en restant pris dans les dynamiques familiales de Carmélide."
   },
   {
     "id": 31,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Gauvain est le neveu, plus précisément le demi-neveu, d’Arthur.",
     "source": "Wiki Kaamelott — Gauvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gauvain",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Gauvain est lié à Arthur par Anna de Tintagel, la demi-sœur d’Arthur. C’est pour cela qu’il est son neveu, plus précisément son demi-neveu, tout en appartenant aussi à la famille politique de Loth d’Orcanie."
   },
   {
     "id": 32,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth d’Orcanie et Anna de Tintagel.",
     "source": "Wiki Kaamelott — Gauvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gauvain",
-    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
+    "explanation": "Gauvain est le fils de Loth d’Orcanie et d’Anna de Tintagel. Cette double appartenance explique son positionnement délicat : il est lié à Arthur par le sang, mais aussi à l’Orcanie, souvent opposée à Logres."
   },
   {
     "id": 33,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Anna est la demi-sœur d’Arthur.",
     "source": "Wiki Kaamelott — Anna de Tintagel",
     "url": "https://kaamelott.fandom.com/fr/wiki/Anna_de_Tintagel",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Anna de Tintagel est la demi-sœur d’Arthur. Ce lien familial rend les intrigues d’Orcanie plus sensibles, car Loth et Gauvain ne sont pas seulement des adversaires ou alliés politiques éloignés."
   },
   {
     "id": 34,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guenièvre.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Arthur épouse Guenièvre pour consolider l’alliance avec la Carmélide. La bonne réponse est Guenièvre, parce que son mariage donne à Arthur un appui politique auprès de Léodagan, au-delà de leur relation conjugale difficile."
   },
   {
     "id": 35,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Il sert à rallier la Carmélide à la fédération d’Arthur.",
     "source": "Wiki Kaamelott — Carmélide",
     "url": "https://kaamelott.fandom.com/fr/wiki/Carm%C3%A9lide",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Le mariage Arthur-Guenièvre sert à rallier la Carmélide, royaume de Léodagan, au projet de Logres. C’est un mariage d’alliance : il compte autant pour la fédération bretonne que pour la vie de couple d’Arthur."
   },
   {
     "id": 36,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Gauvain.",
     "source": "Wiki Kaamelott — Yvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Yvain",
-    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
+    "explanation": "Gauvain est le compagnon habituel d’Yvain dans leurs aventures de jeunes chevaliers. Leur duo fonctionne sur une amitié très constante, une grande politesse et une compréhension approximative des enjeux."
   },
   {
     "id": 37,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Yvain et Gauvain.",
     "source": "Wiki Kaamelott — Gauvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gauvain",
-    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
+    "explanation": "Les Petits Pédestres sont fondés par Yvain et Gauvain. Le nom peu impressionnant correspond bien à leur manière de vouloir exister politiquement sans jamais parvenir à inspirer une vraie menace."
   },
   {
     "id": 38,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — Karadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc",
-    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
+    "explanation": "Perceval est le meilleur ami de Karadoc, notamment dans les scènes de taverne et les intrigues des Semi-Croustillants. Leur duo repose sur une fidélité sincère et sur une capacité commune à rendre les situations incompréhensibles."
   },
   {
     "id": 39,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
+    "explanation": "Karadoc est le meilleur ami de Perceval. Leur relation se reconnaît aux discussions de taverne, aux jeux obscurs, aux raisonnements absurdes et à une solidarité qui survit à beaucoup de mauvaises idées."
   },
   {
     "id": 40,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Angharad.",
     "source": "Wiki Kaamelott — Angharad",
     "url": "https://kaamelott.fandom.com/fr/wiki/Angharad",
-    "explanation": "Angharad est la suivante de Guenièvre, mais ses échanges avec Perceval lui donnent une place à part dans les intrigues sentimentales. Leur relation reste souvent maladroite, discrète et très marquée par les difficultés de Perceval à comprendre les sous-entendus."
+    "explanation": "Angharad, suivante de Guenièvre, entretient une idylle maladroite avec Perceval. La réponse est elle, parce que leurs échanges sentimentaux restent marqués par les incompréhensions de Perceval et par la position domestique d’Angharad à la cour."
   },
   {
     "id": 41,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Ils sont cousins.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Lancelot et Bohort sont cousins, ce qui rattache Lancelot à la lignée de Gaunes et de Bénoïc. Ce lien familial donne un relief particulier aux scènes où Bohort reste loyal et inquiet face aux choix de Lancelot."
   },
   {
     "id": 42,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le roi Ban de Bénoïc.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Le père de Lancelot est le roi Ban de Bénoïc. Ce détail compte parce que Lancelot n’est pas seulement un chevalier de Kaamelott : il vient d’une lignée royale, ce qui nourrit aussi son prestige."
   },
   {
     "id": 43,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lionel de Gaunes.",
     "source": "Wiki Kaamelott — Lionel de Gaunes",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lionel_de_Gaunes",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Lionel de Gaunes est le frère de Bohort et croise Lancelot dans le Livre V. Sa présence rappelle que la crise de Lancelot touche aussi sa famille, pas seulement Arthur et la Table Ronde."
   },
   {
     "id": 44,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Kadoc.",
     "source": "Wiki Kaamelott — Kadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Kadoc",
-    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
+    "explanation": "Kadoc est le frère de Karadoc. Le lien se reconnaît dans leurs scènes communes et dans une forme d’absurdité familiale : Kadoc pousse encore plus loin le langage opaque et les raisonnements fermés aux autres."
   },
   {
     "id": 45,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Mehben et Mehgan.",
     "source": "Wiki Kaamelott — Karadoc",
     "url": "https://kaamelott.fandom.com/fr/wiki/Karadoc",
-    "explanation": "Karadoc ramène très souvent les problèmes héroïques à des questions de nourriture, de confort ou de bon sens très personnel. Avec Perceval, il forme le cœur comique de la taverne et des Semi-Croustillants."
+    "explanation": "Mehben et Mehgan sont les filles de Karadoc et Mevanwi les plus citées. Elles rappellent que l’intrigue Arthur-Mevanwi ne concerne pas seulement un adultère : elle touche aussi une famille déjà installée."
   },
   {
     "id": 46,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Guenièvre.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Lancelot est amoureux de Guenièvre avant sa rupture avec Arthur. Ce sentiment nourrit son éloignement progressif de Kaamelott et donne au conflit politique une origine aussi intime que chevaleresque."
   },
   {
     "id": 47,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La liaison d’Arthur avec Mevanwi la choque et la pousse vers Lancelot.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "La liaison d’Arthur avec Mevanwi choque Guenièvre et la pousse vers le camp de Lancelot. La bonne réponse lie donc deux crises : l’adultère d’Arthur et la rupture ouverte entre la reine, le roi et Lancelot."
   },
   {
     "id": 48,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "L’échange d’épouses selon une loi du pays de Vannes.",
     "source": "Wiki Kaamelott — Pays de Vannes",
     "url": "https://kaamelott.fandom.com/fr/wiki/Pays_de_Vannes",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "L’échange d’épouses vient d’une loi du pays de Vannes, ce qui permet à Arthur d’épouser Mevanwi sans passer par un duel contre Karadoc. Le gag politique tient au fait qu’une coutume locale transforme une faute conjugale en procédure officielle."
   },
   {
     "id": 49,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Avec Lancelot, selon la situation indiquée après le Livre VI / KV1.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Après la prise de pouvoir de Lancelot, Mevanwi est indiquée comme son épouse dans la situation postérieure. Cette réponse montre que Mevanwi reste liée aux recompositions politiques et conjugales après l’effondrement de l’ordre d’Arthur."
   },
   {
     "id": 50,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Leurs pères sont frères.",
     "source": "Wiki Kaamelott — Lionel de Gaunes",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lionel_de_Gaunes",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Lancelot est cousin de Lionel parce que leurs pères sont frères. Ce détail replace Lionel dans la famille de Lancelot et rend plus sombre l’épisode où Méléagant pousse Lancelot vers une épreuve concernant ses proches."
   },
   {
     "id": 226,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Arthur est l’époux officiel de Guenièvre pendant l’essentiel de la série. Leur mariage est d’abord politique, mais il devient aussi le centre de nombreuses tensions domestiques, sentimentales et diplomatiques."
   },
   {
     "id": 227,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lancelot.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
+    "explanation": "Guenièvre a une aventure avec Lancelot dans le Livre IV, après avoir quitté Kaamelott. Ce départ donne une forme concrète à l’amour de Lancelot pour elle et rend la rupture avec Arthur visible aux yeux du royaume."
   },
   {
     "id": 228,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
+    "explanation": "Guenièvre devient temporairement mariée à Karadoc à cause de l’échange d’épouses. La réponse est Karadoc, car la loi du pays de Vannes redistribue les couples de manière absurde après la liaison Arthur-Mevanwi."
   },
   {
     "id": 229,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Ban.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Ban est le roi de Bénoïc et le père de Lancelot. Ce lien souligne l’origine noble de Lancelot et explique pourquoi son héritage familial, comme son couteau, prend une valeur particulière."
   },
   {
     "id": 230,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Hector.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Hector est mentionné comme demi-frère de Lancelot. Cette information complète la famille de Lancelot, souvent évoquée par fragments autour de Ban, Bohort, Lionel et les liens de Bénoïc ou de Gaunes."
   },
   {
     "id": 231,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Bohort et Lionel.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Bohort et Lionel sont les cousins directs de Lancelot. Ce duo familial place Lancelot dans un réseau de chevaliers déjà présents ou évoqués à Kaamelott, et rend son isolement d’autant plus frappant."
   },
   {
     "id": 232,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Berlewen.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
+    "explanation": "Berlewen est la femme de Bohort. Ce détail rappelle que Bohort, malgré son image de chevalier anxieux et peu porté sur la guerre, possède aussi une vie familiale établie."
   },
   {
     "id": 233,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Neuf enfants.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
+    "explanation": "Bohort a neuf enfants selon sa fiche. Ce chiffre renforce le contraste comique entre son tempérament très prudent, presque fragile, et une vie familiale étonnamment fournie."
   },
   {
     "id": 234,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lionel de Gaunes.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "Bohort contraste avec l’image guerrière du chevalier : il est courtois, anxieux et souvent réticent devant la violence. Cette douceur en fait un bon contrepoids aux colères de Léodagan et aux exigences militaires d’Arthur."
+    "explanation": "Lionel de Gaunes est le frère de Bohort. Son apparition dans l’orbite de Lancelot rappelle que Gaunes n’est pas seulement le royaume de Bohort, mais aussi un foyer familial lié aux derniers Livres."
   },
   {
     "id": 235,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Pellinor et Acheflour.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
+    "explanation": "Pellinor et Acheflour sont les parents adoptifs de Perceval. Cette origine galloise et familiale éclaire son décalage : Perceval arrive à Kaamelott avec ses propres repères, ses jeux et son langage."
   },
   {
     "id": 236,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Nonna.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
+    "explanation": "Nonna est la grand-mère adoptive associée à l’histoire familiale de Perceval. Elle rattache Perceval au monde gallois et à une mémoire domestique qui refait surface notamment dans les rappels du Livre VI."
   },
   {
     "id": 237,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lamorak de Galles.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "Perceval mêle naïveté, fidélité à Arthur et raisonnements qui tournent souvent de travers. Ses scènes avec Karadoc ou à la taverne transforment les grandes ambitions chevaleresques en discussions absurdes, sans effacer son attachement sincère au roi."
+    "explanation": "Lamorak de Galles est le frère adoptif de Perceval. Ce lien complète la famille galloise de Perceval, dont les noms et traditions expliquent en partie ses références parfois incompréhensibles à Kaamelott."
   },
   {
     "id": 238,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Angharad.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "Angharad est la suivante de Guenièvre, mais ses échanges avec Perceval lui donnent une place à part dans les intrigues sentimentales. Leur relation reste souvent maladroite, discrète et très marquée par les difficultés de Perceval à comprendre les sous-entendus."
+    "explanation": "Angharad est la servante de Guenièvre qui entretient une idylle avec Perceval. Leur relation reste souvent à côté des codes amoureux ordinaires, parce que Perceval comprend difficilement les nuances sentimentales."
   },
   {
     "id": 239,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan est le père d’Yvain.",
     "source": "Wiki Kaamelott — Yvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Yvain",
-    "explanation": "Léodagan apporte à Kaamelott la dureté de la Carmélide : défense du royaume, autorité militaire et goût très prononcé pour les solutions brutales. Sa présence rappelle que l’alliance avec Guenièvre est aussi un arrangement politique avec un beau-père envahissant."
+    "explanation": "Léodagan est le père d’Yvain. Ce lien explique le contraste comique entre un père brutal, militaire et autoritaire, et un fils beaucoup plus hésitant, souvent perdu avec Gauvain."
   },
   {
     "id": 240,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Séli est la mère de Guenièvre.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
+    "explanation": "Séli est la mère de Guenièvre. Cette relation pèse dans les scènes de famille, où Séli intervient autant dans l’intendance du château que dans les affaires conjugales de sa fille."
   },
   {
     "id": 241,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Gauvain et Gareth.",
     "source": "Wiki Kaamelott — Anna de Tintagel",
     "url": "https://kaamelott.fandom.com/fr/wiki/Anna_de_Tintagel",
-    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
+    "explanation": "Anna de Tintagel a pour fils connus Gauvain et Gareth. Cela rattache Gauvain à la fois à l’Orcanie par Loth et à Arthur par Anna, ce qui brouille les lignes entre famille et politique."
   },
   {
     "id": 242,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Loth",
     "url": "https://kaamelott.fandom.com/fr/wiki/Loth",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Loth est l’oncle d’Arthur par son mariage et le père de Gauvain. Cette double position lui permet d’être à la fois membre de la parenté élargie et acteur des intrigues contre Logres."
   },
   {
     "id": 243,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Yvain et Gauvain.",
     "source": "Wiki Kaamelott — Yvain",
     "url": "https://kaamelott.fandom.com/fr/wiki/Yvain",
-    "explanation": "Yvain et Gauvain avancent presque toujours en duo, avec l’enthousiasme de jeunes chevaliers qui comprennent mal les enjeux. Leur clan des Petits pédestres prolonge cette hésitation entre loyauté familiale, naïveté et désir d’exister politiquement."
+    "explanation": "Yvain et Gauvain forment le duo d’adolescents chevaliers le plus stable. Leur amitié donne naissance à des initiatives comme les Petits Pédestres, toujours entre enthousiasme et absence de crédibilité."
   },
   {
     "id": 244,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Mevanwi.",
     "source": "Wiki Kaamelott — Mevanwi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Mevanwi",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Mevanwi est à la fois l’épouse de Karadoc et l’amante d’Arthur dans le Livre III. La réponse est elle, car son arc transforme une attirance privée en crise conjugale et politique."
   },
   {
     "id": 245,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Elles sont d’abord proches, puis leur relation se dégrade avec l’adultère et l’échange d’épouses.",
     "source": "Wiki Kaamelott — Mevanwi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Mevanwi",
-    "explanation": "Guenièvre est au croisement du mariage politique avec la Carmélide, du foyer royal et de la rupture avec Lancelot. Son départ au camp de Lancelot au Livre IV rend visible ce que les non-dits conjugaux ont accumulé depuis le début."
+    "explanation": "Guenièvre et Mevanwi sont d’abord proches, puis leur relation se dégrade à cause de la liaison avec Arthur et de l’échange d’épouses. Leur rupture donne un visage intime aux crises du Livre III et du Livre IV."
   },
   {
     "id": 246,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Demetra.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Demetra fait partie des maîtresses d’Arthur tout en restant proche de Guenièvre. Cette proximité rend les intrigues conjugales plus ambiguës, parce que la cour vit les infidélités d’Arthur dans un quotidien presque domestique."
+    "explanation": "Demetra est une maîtresse d’Arthur qui reste proche de Guenièvre. Ce paradoxe correspond au fonctionnement très particulier de la cour, où les infidélités d’Arthur circulent dans un quotidien presque familial."
   },
   {
     "id": 247,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Aconia Minor.",
     "source": "Wiki Kaamelott — Aconia Minor",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aconia_Minor",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Aconia Minor est la femme qu’Arthur épouse secrètement à Rome avant Guenièvre. Cette union cachée donne à son mariage breton une dimension plus douloureuse, car le devoir politique recouvre une histoire intime antérieure."
   },
   {
     "id": 248,
@@ -449,7 +449,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Caius Camillus.",
     "source": "Wiki Kaamelott — Caius Camillus",
     "url": "https://kaamelott.fandom.com/fr/wiki/Caius_Camillus",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "Caius Camillus est un ami d’Arturus et de Manilius dans l’arc romain. Il appartient au passé d’Arthur à Rome, avant que celui-ci ne devienne la figure bretonne envoyée fédérer les royaumes."
   },
   {
     "id": 249,
@@ -459,7 +459,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "La famille d’Arthur, par Anna et Loth.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Arthur porte à la fois le poids d’Excalibur, de la Table Ronde et de la Quête du Graal. Sa grandeur vient souvent avec une fatigue très concrète : gérer les chevaliers, les familles alliées, les dieux, Rome et les crises domestiques."
+    "explanation": "La réponse renvoie à la famille d’Arthur, par Anna et Loth. Gauvain se trouve ainsi pris entre l’Orcanie de son père et la parenté d’Arthur, ce qui explique son statut de demi-neveu dans l’arbre familial."
   },
   {
     "id": 250,
@@ -469,6 +469,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Mevanwi.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Lancelot commence comme le chevalier le plus exemplaire de Kaamelott, puis son isolement le fait basculer hors du groupe. Son amour pour Guenièvre, la rupture avec Arthur et l’influence de Méléagant nourrissent son passage à une logique de dissidence, puis de pouvoir dur."
+    "explanation": "Mevanwi est l’épouse de Lancelot dans la situation postérieure à la série télévisée. Cette association prolonge les recompositions de pouvoir après la chute d’Arthur et la prise de contrôle de Lancelot."
   }
 ]);

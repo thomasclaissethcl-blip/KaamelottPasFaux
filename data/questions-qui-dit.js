@@ -9,7 +9,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
+    "explanation": "Dans La Botte Secrète, Perceval utilise « C’est pas faux » après l’explication de Karadoc sur la passe triple divergente. La bonne réponse est Perceval, parce que le gag repose sur son incapacité à reconnaître qu’il ne comprend pas les mots compliqués."
   },
   {
     "id": 432,
@@ -19,7 +19,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
+    "explanation": "Dans le repas de La Botte Secrète, Arthur reprend volontairement la formule de Perceval autour du mot « savoureux ». C’est bien Arthur qui répond ainsi : il teste la botte secrète et montre qu’il a compris la mécanique du gag."
   },
   {
     "id": 433,
@@ -29,7 +29,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Angharad.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
+    "explanation": "Angharad se décrit comme « insipide » dans une discussion sentimentale avec Perceval. La réponse est Angharad, car la scène joue sur son malaise amoureux et sur l’incapacité de Perceval à manier correctement les mots du registre affectif."
   },
   {
     "id": 434,
@@ -39,7 +39,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "Dans La Botte Secrète, Karadoc explique à Perceval comment masquer son incompréhension avec une formule passe-partout. Le gag se prolonge ensuite à table avec Arthur et Angharad, parce que chacun teste la méthode sur des mots que Perceval ne maîtrise pas."
+    "explanation": "La comparaison entre travers de porc et côtelettes vient de Perceval pendant le repas de La Botte Secrète. Le contexte alimentaire permet de reconnaître sa manière de détourner une conversation sentimentale ou lexicale vers des choses beaucoup plus concrètes."
   },
   {
     "id": 435,
@@ -49,7 +49,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "Dans La Table de Breccan, Perceval réagit à la nouvelle Table Ronde par une remarque sur le cuir plutôt que sur le symbole politique. C’est typique de lui : il saisit d’abord le détail matériel, pas la portée légendaire de l’objet."
   },
   {
     "id": 436,
@@ -59,7 +59,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "Karadoc trouve que la nouvelle Table Ronde fait « atelier de cousette ». La réponse est Karadoc parce que sa remarque ramène l’institution chevaleresque à une impression domestique et très terre-à-terre."
   },
   {
     "id": 437,
@@ -69,7 +69,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "Perceval rassure Breccan en avouant que même les chevaliers n’ont pas tout compris à la Quête du Graal. La réplique lui revient bien, car il désamorce le prestige de la mission avec une sincérité maladroite."
   },
   {
     "id": 438,
@@ -79,7 +79,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Le Message Codé",
     "url": "https://www.missabrevis.com/codex/episodes/le-message-code/",
-    "explanation": "Dans Le Message Codé, Perceval et Karadoc traitent un message incompréhensible comme s’il s’agissait forcément d’un code élaboré. La taverne devient le décor idéal de leur logique bancale, entre faux déchiffrage et assurance démesurée."
+    "explanation": "Dans Le Message Codé, Karadoc transmet à la taverne une formule incompréhensible en lui donnant une importance de message secret. C’est lui qui porte la phrase « Il faut franchir les compagnons », dans la logique confuse du duo avec Perceval."
   },
   {
     "id": 439,
@@ -89,7 +89,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Tavernier.",
     "source": "Missa Brevis — Le Message Codé",
     "url": "https://www.missabrevis.com/codex/episodes/le-message-code/",
-    "explanation": "Dans Le Message Codé, Perceval et Karadoc traitent un message incompréhensible comme s’il s’agissait forcément d’un code élaboré. La taverne devient le décor idéal de leur logique bancale, entre faux déchiffrage et assurance démesurée."
+    "explanation": "Le Tavernier juge que le message doit être codé précisément parce qu’il ne veut rien dire. La réponse est le Tavernier : il sert ici de témoin pragmatique face aux raisonnements de Perceval et Karadoc."
   },
   {
     "id": 440,
@@ -99,7 +99,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Le Message Codé",
     "url": "https://www.missabrevis.com/codex/episodes/le-message-code/",
-    "explanation": "Dans Le Message Codé, Perceval et Karadoc traitent un message incompréhensible comme s’il s’agissait forcément d’un code élaboré. La taverne devient le décor idéal de leur logique bancale, entre faux déchiffrage et assurance démesurée."
+    "explanation": "Karadoc répond que si le message est codé, alors il est « bien secret ». C’est lui, car la réplique pousse jusqu’au bout sa logique circulaire : l’incompréhensible devient une preuve de confidentialité."
   },
   {
     "id": 441,
@@ -109,7 +109,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — L’Interprète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script",
-    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
+    "explanation": "Dans L’Interprète, Perceval vient annoncer à Arthur que le chef burgonde réclame un entretien. La bonne réponse est Perceval : il sert d’intermédiaire initial avant que la scène ne bascule dans le problème de traduction."
   },
   {
     "id": 442,
@@ -119,7 +119,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — L’Interprète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script",
-    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
+    "explanation": "Arthur explique qu’il n’a pas d’interprète parlant burgonde au moment où l’audience devient impossible à mener normalement. La réplique lui revient, car il est celui qui doit gérer diplomatiquement un adversaire qu’il ne comprend pas."
   },
   {
     "id": 443,
@@ -129,7 +129,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Demetra.",
     "source": "Wiki Kaamelott — L’Interprète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script",
-    "explanation": "Dans L’Interprète, l’audience avec le Roi Burgonde tourne à la diplomatie impossible. Arthur dépend d’un traducteur, mais le décalage entre les langues et les intentions transforme la négociation en scène de pur malentendu."
+    "explanation": "Demetra suggère que l’interprète ne parle peut-être pas burgonde non plus. C’est bien elle : la remarque ajoute un doute comique sur la seule personne censée résoudre le problème de langue."
   },
   {
     "id": 444,
@@ -139,7 +139,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Maître d’Armes.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
+    "explanation": "Le Maître d’Armes crie « En garde, ma mignonne ! » pendant l’entraînement d’Arthur. Sa manière théâtrale et agressive de provoquer le roi permet de l’identifier immédiatement."
   },
   {
     "id": 445,
@@ -149,7 +149,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Maître d’Armes.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
+    "explanation": "Le Maître d’Armes traite les passes d’Arthur de « politesses ». La bonne réponse est lui, parce qu’il reproche au roi de se battre trop mollement et cherche à rendre l’entraînement plus brutal."
   },
   {
     "id": 446,
@@ -159,7 +159,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
+    "explanation": "Arthur proteste après avoir failli être blessé pendant l’entraînement. C’est lui qui dit « Vous pourriez prévenir ! », en contraste avec le Maître d’Armes qui voit justement la surprise et la violence comme des outils pédagogiques."
   },
   {
     "id": 447,
@@ -169,7 +169,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Maître d’Armes.",
     "source": "Wiki Kaamelott — Le Maître D’Armes / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Ma%C3%AEtre_D%27Armes/Script",
-    "explanation": "Dans la scène d’entraînement, le Maître d’Armes pousse Arthur à se battre plus sèchement et à trouver des insultes vraiment vexantes. Le comique vient du contraste entre l’exercice martial et la susceptibilité très personnelle du maître."
+    "explanation": "Le Maître d’Armes rappelle qu’une épée magique ne suffit pas si Arthur ne sait pas s’en servir. La réplique lui appartient, car il remet Excalibur à sa place : un symbole ne remplace pas la technique."
   },
   {
     "id": 448,
@@ -179,7 +179,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Le Porte-bonheur",
     "url": "https://www.missabrevis.com/codex/episodes/le-porte-bonheur/",
-    "explanation": "Dans Le Porte-bonheur, Karadoc questionne Lancelot sur son couteau hérité du roi Ban. Le dialogue oppose la valeur intime de l’objet pour Lancelot à la curiosité insistante et très concrète de Karadoc."
+    "explanation": "Dans Le Porte-bonheur, Karadoc insiste auprès de Lancelot à propos de son couteau. Le « C’est histoire de causer ! » correspond à sa curiosité très concrète, qui ignore presque la valeur intime de l’objet."
   },
   {
     "id": 449,
@@ -189,7 +189,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Lancelot.",
     "source": "Missa Brevis — Le Porte-bonheur",
     "url": "https://www.missabrevis.com/codex/episodes/le-porte-bonheur/",
-    "explanation": "Dans Le Porte-bonheur, Karadoc questionne Lancelot sur son couteau hérité du roi Ban. Le dialogue oppose la valeur intime de l’objet pour Lancelot à la curiosité insistante et très concrète de Karadoc."
+    "explanation": "Lancelot explique que son couteau est le seul héritage reçu de son père, le roi Ban. La bonne réponse est Lancelot, car l’objet renvoie directement à sa lignée et à son passé familial."
   },
   {
     "id": 450,
@@ -199,7 +199,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Le Porte-bonheur",
     "url": "https://www.missabrevis.com/codex/episodes/le-porte-bonheur/",
-    "explanation": "Dans Le Porte-bonheur, Karadoc questionne Lancelot sur son couteau hérité du roi Ban. Le dialogue oppose la valeur intime de l’objet pour Lancelot à la curiosité insistante et très concrète de Karadoc."
+    "explanation": "Karadoc demande à emprunter le couteau de Lancelot malgré la valeur affective que celui-ci vient de lui donner. C’est bien Karadoc : la scène oppose son rapport pratique aux objets au poids intime de l’héritage de Lancelot."
   },
   {
     "id": 451,
@@ -209,7 +209,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — Unagi II",
     "url": "https://www.missabrevis.com/codex/episodes/unagi-ii/",
-    "explanation": "Dans Unagi II, Perceval et Karadoc présentent une technique de combat supposée redoutable. La scène amuse parce qu’ils décrivent avec aplomb une méthode absurde, jusqu’à l’idée de casser des pierres à mains nues."
+    "explanation": "Dans Unagi II, Perceval résume la technique par le mot « progressif ». La réponse est Perceval, parce qu’il présente l’Unagi comme une méthode structurée alors que la démonstration reste franchement absurde."
   },
   {
     "id": 452,
@@ -219,7 +219,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Missa Brevis — Unagi II",
     "url": "https://www.missabrevis.com/codex/episodes/unagi-ii/",
-    "explanation": "Dans Unagi II, Perceval et Karadoc présentent une technique de combat supposée redoutable. La scène amuse parce qu’ils décrivent avec aplomb une méthode absurde, jusqu’à l’idée de casser des pierres à mains nues."
+    "explanation": "Arthur demande « À mains nues ? » en entendant Perceval et Karadoc parler de casser des pierres. La question lui revient : il sert de regard rationnel face à leur confiance démesurée."
   },
   {
     "id": 453,
@@ -229,7 +229,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Karadoc.",
     "source": "Missa Brevis — Unagi II",
     "url": "https://www.missabrevis.com/codex/episodes/unagi-ii/",
-    "explanation": "Dans Unagi II, Perceval et Karadoc présentent une technique de combat supposée redoutable. La scène amuse parce qu’ils décrivent avec aplomb une méthode absurde, jusqu’à l’idée de casser des pierres à mains nues."
+    "explanation": "Karadoc répond presque naturellement qu’ils vont casser des pierres à mains nues. C’est lui, car il partage avec Perceval l’assurance totale autour d’une technique qui n’a aucune évidence pour Arthur."
   },
   {
     "id": 454,
@@ -239,7 +239,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Missa Brevis — Unagi II",
     "url": "https://www.missabrevis.com/codex/episodes/unagi-ii/",
-    "explanation": "Dans Unagi II, Perceval et Karadoc présentent une technique de combat supposée redoutable. La scène amuse parce qu’ils décrivent avec aplomb une méthode absurde, jusqu’à l’idée de casser des pierres à mains nues."
+    "explanation": "Arthur renonce à partir chez Dagonet pour observer la démonstration d’Unagi. La bonne réponse est Arthur : son scepticisme devient curiosité, parce que l’absurdité de Perceval et Karadoc mérite d’être vue."
   },
   {
     "id": 455,
@@ -249,7 +249,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — Sept Cent Quarante-Quatre",
     "url": "https://www.missabrevis.com/codex/episodes/sept-cent-quarante-quatre/",
-    "explanation": "Dans Sept Cent Quarante-Quatre, Perceval tente des calculs à la taverne avec une logique numérique qui lui échappe complètement. Le chiffre absurde devient drôle parce qu’il est présenté avec un sérieux total."
+    "explanation": "Dans Sept Cent Quarante-Quatre, Perceval calcule une moyenne impossible à la taverne. La réponse est Perceval, car le chiffre « huit quatre cent vingt-deux » illustre sa relation très personnelle aux nombres."
   },
   {
     "id": 456,
@@ -259,7 +259,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — La Poétique II, 1re partie",
     "url": "https://www.missabrevis.com/codex/episodes/la-poetique-ii-1re-partie/",
-    "explanation": "Dans La Poétique II, Perceval veut raconter une aventure à la Table Ronde mais doute lui-même de la qualité de son récit. La scène joue sur son envie d’être reconnu comme chevalier et sa peur de produire une histoire franchement décevante."
+    "explanation": "Dans La Poétique II, Perceval avoue avoir « un peu les jetons » avant de raconter son aventure. C’est lui : la scène montre son désir de briller à la Table Ronde, mais aussi sa peur de rater son récit."
   },
   {
     "id": 457,
@@ -269,7 +269,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — La Poétique II, 1re partie",
     "url": "https://www.missabrevis.com/codex/episodes/la-poetique-ii-1re-partie/",
-    "explanation": "Dans La Poétique II, Perceval veut raconter une aventure à la Table Ronde mais doute lui-même de la qualité de son récit. La scène joue sur son envie d’être reconnu comme chevalier et sa peur de produire une histoire franchement décevante."
+    "explanation": "Perceval prévient lui-même que son récit risque d’être « un peu naze ». La bonne réponse est Perceval, parce qu’il pressent le fiasco avant même de commencer à faire de son aventure une légende."
   },
   {
     "id": 458,
@@ -279,7 +279,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — L’Inspiration",
     "url": "https://www.missabrevis.com/codex/episodes/linspiration/",
-    "explanation": "Dans L’Inspiration, Arthur retrouve Perceval au bord de l’eau et croit d’abord à une scène de pêche. Perceval renverse la situation en expliquant qu’il n’aime pas ça, alors même que tout indique le contraire."
+    "explanation": "Dans L’Inspiration, Perceval dit qu’il ne pêche pas alors qu’Arthur le trouve au bord de l’eau. C’est Perceval : le gag naît du décalage entre la situation visible et son explication."
   },
   {
     "id": 459,
@@ -289,7 +289,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Missa Brevis — L’Inspiration",
     "url": "https://www.missabrevis.com/codex/episodes/linspiration/",
-    "explanation": "Dans L’Inspiration, Arthur retrouve Perceval au bord de l’eau et croit d’abord à une scène de pêche. Perceval renverse la situation en expliquant qu’il n’aime pas ça, alors même que tout indique le contraire."
+    "explanation": "Arthur s’étonne en voyant Perceval au bord du lac avec une canne tout en affirmant qu’il ne pêche pas. La réponse est Arthur, parce qu’il formule la question évidente que la logique de Perceval contourne."
   },
   {
     "id": 460,
@@ -299,7 +299,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Missa Brevis — L’Inspiration",
     "url": "https://www.missabrevis.com/codex/episodes/linspiration/",
-    "explanation": "Dans L’Inspiration, Arthur retrouve Perceval au bord de l’eau et croit d’abord à une scène de pêche. Perceval renverse la situation en expliquant qu’il n’aime pas ça, alors même que tout indique le contraire."
+    "explanation": "Perceval explique qu’il n’aime pas la pêche alors qu’il a tout l’air d’être en train de pêcher. La bonne réponse est Perceval : la scène repose sur son refus très sérieux de l’interprétation la plus simple."
   },
   {
     "id": 461,
@@ -309,7 +309,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Séli.",
     "source": "Wiki Kaamelott — Citations, Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
+    "explanation": "Séli défend les tartes et la pêche comme du patrimoine familial. C’est elle, parce qu’elle transforme une préparation culinaire catastrophique en tradition respectable de Carmélide."
   },
   {
     "id": 462,
@@ -319,7 +319,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
+    "explanation": "Arthur réagit à la tarte de Séli en demandant si c’est vraiment du patrimoine. La bonne réponse est Arthur : il met en doute, très concrètement, la grandeur que Séli veut donner à ses tartes."
   },
   {
     "id": 463,
@@ -329,7 +329,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Séli.",
     "source": "Wiki Kaamelott — Citations, Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
+    "explanation": "Séli proteste quand ses tartes sont comparées à des briques. La réplique lui revient, car elle défend sa cuisine avec la même énergie que ses affaires familiales et politiques."
   },
   {
     "id": 464,
@@ -339,7 +339,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Citations, Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Les Tartes aux Myrtilles, Séli défend ses tartes comme un élément de patrimoine familial. Arthur et Léodagan les ramènent aussitôt à leur dureté légendaire, ce qui installe très tôt le comique domestique de la Carmélide."
+    "explanation": "Léodagan compare les tartes de Séli à des briques. C’est lui : son franc-parler brutal s’accorde parfaitement avec cette attaque directe contre la cuisine de son épouse."
   },
   {
     "id": 465,
@@ -349,7 +349,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "Arthur annonce que les chevaliers s’appelleront désormais les Chevaliers de la Table Ronde. La réponse est Arthur, car il donne une forme officielle à l’institution que Breccan vient de matérialiser."
   },
   {
     "id": 466,
@@ -359,7 +359,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Citations, La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "Léodagan répond avec la blague du « buffet à vaisselle » devant la nouvelle Table Ronde. C’est lui, parce qu’il réduit aussitôt le symbole héroïque à un meuble encombrant et ridicule."
   },
   {
     "id": 467,
@@ -369,7 +369,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Perceval.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "Perceval affirme qu’il n’y a « pas de pécores » pour la quête du Graal. La réponse est Perceval : sa formule maladroite tente de protéger le prestige de la quête tout en la simplifiant à sa manière."
   },
   {
     "id": 468,
@@ -379,7 +379,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Bohort.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "Bohort s’émerveille en prononçant « La quête du Graal ! » devant Breccan. C’est bien Bohort, dont l’élan idéaliste contraste avec les réactions plus matérielles de Perceval, Karadoc et Léodagan."
   },
   {
     "id": 469,
@@ -389,7 +389,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Breccan.",
     "source": "Wiki Kaamelott — La Table De Breccan / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan/Script",
-    "explanation": "Dans La Table de Breccan, Breccan livre enfin le meuble censé donner une forme concrète à la Table Ronde. La grandeur symbolique de l’institution se heurte aussitôt aux remarques très matérielles des chevaliers sur le bois, le cuir et l’allure du meuble."
+    "explanation": "Breccan défend le cuir de la Table Ronde en vantant sa durée à travers les âges et les modes. La réponse est Breccan, l’artisan qui justifie ses choix comme s’il vendait autant un meuble qu’un symbole."
   },
   {
     "id": 470,
@@ -399,7 +399,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, À La Volette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans À la Volette, Merlin est rappelé à sa fonction d’enchanteur officiel. Arthur l’interpelle sèchement parce qu’il attend des résultats magiques, pas des remarques protectrices ou familiales."
+    "explanation": "Arthur rappelle à Merlin qu’il est son enchanteur, pas sa grand-mère. La réponse est Arthur, excédé par Merlin lorsqu’il attend une aide magique concrète plutôt que des réflexions protectrices."
   },
   {
     "id": 471,
@@ -409,7 +409,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Le Tourment",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Le Tourment, Arthur répond à Perceval sur un sujet sentimental avec son mélange habituel d’agacement et de pragmatisme. La réplique fonctionne parce qu’elle traite la confusion amoureuse de Perceval avec une liberté volontairement excessive."
+    "explanation": "Arthur dit à Perceval qu’il pourrait se marier avec une chèvre s’il le voulait. C’est Arthur : il emploie l’absurde pour recadrer une conversation sentimentale avec Perceval, déjà peu à l’aise avec ce registre."
   },
   {
     "id": 472,
@@ -419,7 +419,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Unagi",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Unagi, Arthur observe les activités de Perceval et Karadoc avec son scepticisme habituel. La question sur le fait de glandouiller souligne le décalage entre la discipline attendue d’un chevalier et leur manière très personnelle de s’occuper."
+    "explanation": "Arthur demande si glandouiller toute la journée ne donne pas mal à la tête. La réplique lui revient, car il confronte Perceval et Karadoc à leur manière très détendue de vivre la chevalerie."
   },
   {
     "id": 473,
@@ -429,7 +429,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Le Culte Secret",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Le Culte Secret, les questions religieuses viennent compliquer la vie politique et domestique de Kaamelott. Arthur réagit comme souvent : moins en théologien qu’en roi saturé par les complications de son entourage."
+    "explanation": "Arthur lance « La religion, c’est le bordel » dans Le Culte Secret. La réponse est Arthur, parce qu’il subit les complications politiques et domestiques que les questions religieuses ajoutent déjà à Kaamelott."
   },
   {
     "id": 474,
@@ -439,7 +439,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, La Mission",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans La Mission, Arthur mesure l’écart entre l’idéal sacré de la quête et l’état réel de ses chevaliers. La phrase fonctionne parce qu’elle avoue, avec lassitude, que le Graal risque de rester hors de portée encore longtemps."
+    "explanation": "Arthur affirme que le Graal va rester là où il est « un moment ». C’est lui, car la phrase résume sa lassitude devant l’écart entre la mission sacrée et le niveau réel de ses chevaliers."
   },
   {
     "id": 475,
@@ -449,7 +449,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Livre V, L’Épée Des Rois",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans L’Épée des Rois, Arthur ne veut plus être reconnu comme souverain et rejette les marques de respect qui le ramènent à sa fonction. Le cri rappelle son épuisement face au rôle royal et à la question d’Excalibur."
+    "explanation": "Arthur crie « ARRÊTEZ DE M’APPELER SIRE ! » au Livre V, quand il refuse les signes de sa fonction. La bonne réponse est Arthur : il ne supporte plus qu’on le ramène à une royauté qu’il cherche à déposer."
   },
   {
     "id": 476,
@@ -459,7 +459,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Arthur.",
     "source": "Wiki Kaamelott — Citations, Livre VI, Dies Iræ",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Dies Iræ, Arthur parle depuis un point de fatigue et de lucidité qui donne à la réplique un poids plus mélancolique. On est loin du simple gag de cour : la phrase renvoie à ce qu’il a perdu, imaginé ou renoncé à devenir."
+    "explanation": "Arthur dit « Les rêves, ça se compare pas » dans Dies Iræ. La phrase est bien de lui : elle appartient au registre plus intime et mélancolique du dernier épisode du Livre VI."
   },
   {
     "id": 477,
@@ -469,7 +469,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Léodagan.",
     "source": "Wiki Kaamelott — Citations, Léodagan, Livre II, Le Complot",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Le Complot, Léodagan retourne l’accusation contre lui en prétendant que son problème serait d’être trop gentil. La réplique est drôle parce qu’elle vient précisément du personnage le plus porté sur les réponses dures et militaires."
+    "explanation": "Léodagan résume son propre problème par « Trop gentil ». La réponse est Léodagan, parce que le gag inverse son image habituelle : tout le monde le connaît surtout pour sa dureté et son goût des solutions violentes."
   },
   {
     "id": 478,
@@ -479,7 +479,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Citations, Loth, Livre V, La Promesse",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans La Promesse, Loth assume son goût de l’intrigue presque comme un passe-temps domestique. La phrase résume le personnage : s’il reste seul trop longtemps, il transforme l’ennui en complot politique."
+    "explanation": "Loth avoue que lorsqu’il reste trop dans sa baraque, il conspire. C’est lui : la phrase colle à son rôle de roi d’Orcanie, toujours tenté par les manœuvres politiques contre Arthur."
   },
   {
     "id": 479,
@@ -489,7 +489,7 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Loth.",
     "source": "Wiki Kaamelott — Citations, Loth, Livre V, Les Dauphins",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans Les Dauphins, Loth transforme son retard et son attente en formule théâtrale. Son humour vient de cette manière de dramatiser sa propre posture, avec une élégance ampoulée même pour une contrariété banale."
+    "explanation": "Loth dit qu’après deux heures de retard, il est « une sorte de meuble ». La réponse est Loth, dont les répliques mêlent posture aristocratique, mauvaise foi et formulations théâtrales."
   },
   {
     "id": 480,
@@ -499,6 +499,6 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Angharad.",
     "source": "Wiki Kaamelott — Citations, Angharad, Livre I, La Romance de Lancelot",
     "url": "https://kaamelott.fandom.com/fr/wiki/Citations",
-    "explanation": "Dans La Romance de Lancelot, Angharad rappelle sa position de servante auprès de Guenièvre avec une amertume très concrète. La formule souligne le contraste entre les intrigues chevaleresques autour d’elle et sa condition quotidienne de domestique."
+    "explanation": "Angharad dit cette phrase en rappelant sa condition de servante de Guenièvre. La bonne réponse est Angharad : son humour vient souvent du mélange entre lucidité sociale, fatigue du service et sentiments pour Perceval."
   }
 ]);
