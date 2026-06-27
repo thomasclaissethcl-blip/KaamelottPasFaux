@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="480 questions lore Kaamelott façon Trivial Pursuit, avec réponses expliquées en flashcards interactives filtrables.">
+  <title>Kaamelott — 480 questions lore expliquées</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app">
+    <header>
+      <div class="eyebrow">Kaamelott — quiz lore façon Trivial Pursuit</div>
+      <h1>480 questions lore expliquées</h1>
+ </header>
+
+    <section class="layout" aria-label="Application de flashcards">
+      <aside class="panel controls" aria-label="Filtres">
+        <h2>Filtres et jeu</h2>
+        <div class="control-group">
+          <label for="search" class="group-title">Recherche dans les questions et réponses</label>
+          <input id="search" class="search" type="search" placeholder="Ex. Perceval, Livre IV, Excalibur">
+        </div>
+        <div class="control-group">
+          <div class="group-title"><span>Catégories à jouer</span><span id="catCount"></span></div>
+          <div id="categoryChecks" class="checks"></div>
+          <div class="btn-row" style="margin-top:10px">
+            <button type="button" class="secondary" id="allCats">Tout cocher</button>
+            <button type="button" class="secondary" id="noCats">Tout décocher</button>
+          </div>
+        </div>
+        <div class="control-group">
+          <div class="group-title"><span>Difficultés</span><span>Aucune sélection = tous niveaux</span></div>
+          <div id="difficultyChecks" class="checks"></div>
+        </div>
+        <div class="control-group">
+          <div class="btn-row">
+            <button type="button" id="shuffleBtn">Mélanger</button>
+            <button type="button" class="secondary" id="resetBtn">Réinitialiser</button>
+          </div>
+        </div>
+      </aside>
+
+      <section class="stage">
+        <div class="stats" aria-live="polite">
+          <div class="stat"><strong id="visibleCount">0</strong><span>cartes visibles</span></div>
+          <div class="stat"><strong id="totalCount">480</strong><span>cartes au total</span></div>
+          <div class="stat"><strong id="position">0/0</strong><span>position</span></div>
+          <div class="stat"><strong id="currentDifficulty">—</strong><span>difficulté</span></div>
+        </div>
+
+        <div class="panel empty" id="emptyState">Aucune carte ne correspond aux filtres actuels.</div>
+
+        <div class="card-wrap" id="cardWrap">
+          <article class="flashcard" id="flashcard" tabindex="0" role="button" aria-pressed="false" aria-label="Retourner la carte">
+            <section class="face front" aria-label="Question">
+              <div class="meta" id="frontMeta"></div>
+              <h2 class="question" id="questionText"></h2>
+              <p class="hint">Cliquez sur la carte, ou utilisez Entrée ou Espace pour afficher la réponse.</p>
+            </section>
+            <section class="face back" aria-label="Réponse">
+              <div class="meta" id="backMeta"></div>
+              <div class="answer-block">
+                <p class="answer"><span class="answer-label">Réponse</span><span id="answerText"></span></p>
+                <p class="explanation" id="explanationText"></p>
+              </div>
+              <div class="source" id="sourceText"></div>
+            </section>
+          </article>
+        </div>
+
+        <nav class="nav" aria-label="Navigation entre les cartes">
+          <button type="button" class="secondary" id="prevBtn">Précédente</button>
+          <button type="button" id="flipBtn">Retourner</button>
+          <button type="button" class="secondary" id="nextBtn">Suivante</button>
+          <button type="button" class="secondary" id="randomBtn">Carte aléatoire</button>
+        </nav>
+
+        <section class="panel list-panel">
+          <details>
+            <summary>Voir les catégories et sources principales</summary>
+            <ul class="mini-list">
+              <li>Personnages : Arthur, Guenièvre, Lancelot, Perceval, Karadoc, Léodagan, Bohort, Merlin et personnages secondaires.</li>
+              <li>Intrigues : progression des Livres I à VI, crise Lancelot, Mevanwi, Livre V et retour du Livre VI.</li>
+              <li>Relations : familles, alliances, mariages, rivalités et ruptures politiques.</li>
+              <li>Univers : Logres, Carmélide, Orcanie, Vannes, Gaunes, Aquitaine, Rome et lieux récurrents.</li>
+              <li>Répliques et gags : formules cultes, jeux gallois, nourriture, Burgondes, paysans et taverne.</li>
+              <li>Complétez la réplique : débuts courts de répliques cultes à terminer.</li>
+              <li>Qui dit ? : identification du personnage à partir d’une courte réplique contextualisée.</li>
+              <li>Sources principales : Wiki Kaamelott/Fandom, Missa Brevis, Wikipédia et pages de scripts disponibles en ligne.</li>
+            </ul>
+          </details>
+        </section>
+      </section>
+    </section>
+    <footer>
+      Les questions sont formulées comme un quiz. Le dos de chaque carte donne la réponse, un court complément explicatif et la référence utilisée. Les formulations paraphrasent les informations vérifiées et évitent de reproduire de longs passages de scripts.
+    </footer>
+  </main>
+
+
+  <script src="data/questions-personnages.js"></script>
+  <script src="data/questions-relations-et-familles.js"></script>
+  <script src="data/questions-intrigues-par-livre.js"></script>
+  <script src="data/questions-lieux-et-royaumes.js"></script>
+  <script src="data/questions-pouvoir-et-politique.js"></script>
+  <script src="data/questions-quetes-objets-et-mythologie.js"></script>
+  <script src="data/questions-repliques-et-gags.js"></script>
+  <script src="data/questions-episodes-et-situations.js"></script>
+  <script src="data/questions-completez-la-replique.js"></script>
+  <script src="data/questions-qui-dit.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
