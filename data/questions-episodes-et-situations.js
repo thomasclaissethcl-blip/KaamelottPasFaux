@@ -5,261 +5,261 @@ window.KAAMELOTT_CARDS.push(...[
     "id": 171,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Quel est le premier épisode du Livre I ?",
-    "answer": "Heat.",
+    "question": "Dans Heat, où le Livre I installe le quotidien de Kaamelott, quel problème Arthur rencontre-t-il déjà avec ses chevaliers ?",
+    "answer": "Il doit composer avec des chevaliers difficiles à mobiliser et à coordonner.",
     "source": "Wiki Kaamelott — Heat",
     "url": "https://kaamelott.fandom.com/fr/wiki/Heat",
-    "explanation": "Heat ouvre le Livre I : on y retrouve Arthur au travail, déjà confronté aux lenteurs et aux absurdités de son entourage. C’est le premier repère de la série télévisée, avec un roi qui doit rendre héroïque un quotidien beaucoup moins glorieux que prévu."
+    "explanation": "Heat ouvre la série sur un Arthur déjà confronté au décalage entre la grandeur de la Table Ronde et le fonctionnement réel de ses chevaliers. Le premier réflexe de Kaamelott est posé : la légende héroïque se vit dans les disputes, les consignes mal suivies et les détails du quotidien."
   },
   {
     "id": 172,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Quel est le deuxième épisode du Livre I ?",
-    "answer": "Les Tartes Aux Myrtilles.",
+    "question": "Dans Les Tartes Aux Myrtilles, que Séli tente-t-elle de faire accepter comme élément de patrimoine familial ?",
+    "answer": "Ses tartes aux myrtilles, malgré leur réputation de dureté presque impossible à manger.",
     "source": "Wiki Kaamelott — Les Tartes Aux Myrtilles",
     "url": "https://kaamelott.fandom.com/fr/wiki/Les_Tartes_Aux_Myrtilles",
-    "explanation": "Les Tartes aux Myrtilles arrive juste après Heat dans le Livre I. L’épisode marque les débuts du comique domestique de Carmélide : Séli défend ses tartes pendant qu’Arthur et Léodagan les subissent comme une épreuve physique."
+    "explanation": "Séli défend ses tartes comme une tradition de Carmélide, tandis qu’Arthur et Léodagan les traitent surtout comme des blocs dangereusement solides. La scène installe très tôt le comique domestique de Kaamelott : même un repas familial peut devenir un affrontement politique et culinaire."
   },
   {
     "id": 173,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Quel épisode du Livre I introduit la Table Ronde construite par Breccan ?",
-    "answer": "La Table De Breccan.",
+    "question": "Dans La Table De Breccan, quel objet Breccan livre-t-il pour donner une forme concrète à l’institution d’Arthur ?",
+    "answer": "Une grande table ronde destinée à réunir les chevaliers autour de la Quête du Graal.",
     "source": "Wiki Kaamelott — La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan",
-    "explanation": "La Table de Breccan est l’épisode où Breccan livre le meuble qui doit accueillir les chevaliers. La réponse est bien cet épisode parce que la Table Ronde y passe d’idée symbolique à objet très concret, immédiatement critiqué pour son bois, son cuir et son allure."
+    "explanation": "Breccan apporte le meuble qui doit matérialiser l’idéal de la Table Ronde. Mais au lieu d’une inauguration solennelle, les chevaliers discutent surtout de bois, de cuir et d’allure générale : le symbole héroïque est aussitôt rattrapé par le concret."
   },
   {
     "id": 174,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel épisode Arthur et les chevaliers inaugurent-ils maladroitement la Table Ronde ?",
-    "answer": "La Table De Breccan.",
+    "question": "Dans La Table De Breccan, qu’est-ce qui rend maladroite l’inauguration de la nouvelle Table Ronde ?",
+    "answer": "Les chevaliers commentent surtout l’aspect du meuble au lieu de célébrer sa valeur symbolique.",
     "source": "Wiki Kaamelott — La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan",
-    "explanation": "L’inauguration maladroite de la Table Ronde se déroule dans La Table de Breccan. Les chevaliers devraient célébrer la naissance d’une institution sacrée, mais la scène tourne surtout autour des finitions du meuble et de l’embarras de Breccan."
+    "explanation": "Arthur veut lancer une institution majeure pour organiser la Quête du Graal. Mais Perceval, Karadoc et les autres regardent d’abord la table comme un objet encombrant, ce qui transforme une scène fondatrice en discussion de mobilier."
   },
   {
     "id": 175,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel épisode Perceval fait-il la visite de son propre château ?",
-    "answer": "La Mort Le Roy Artu.",
+    "question": "Dans La Mort Le Roy Artu, que fait Perceval avec son propre château ?",
+    "answer": "Il en fait la visite comme s’il découvrait les lieux, avec son rapport habituel très flou aux choses.",
     "source": "Wiki Kaamelott — page ou script d’épisode",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Mort_Le_Roy_Artu/Script",
-    "explanation": "La Mort le Roy Artu joue sur le contraste entre un titre arthurien très solennel et une situation beaucoup plus absurde autour de Perceval. La visite de son propre château fonctionne parce que Perceval aborde son statut et ses possessions avec le même flou que ses raisonnements habituels."
+    "explanation": "Le gag vient du contraste entre le titre très solennel de l’épisode et la situation de Perceval face à son propre domaine. Au lieu d’un moment tragique ou chevaleresque, on retrouve son incapacité à se situer simplement dans son environnement."
   },
   {
     "id": 176,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode met Calogrenant dans une situation vestimentaire devenue célèbre ?",
-    "answer": "La Jupe De Calogrenant.",
+    "question": "Dans La Jupe De Calogrenant, quel type d’incident rend Calogrenant embarrassant à la Table Ronde ?",
+    "answer": "Un problème vestimentaire autour d’une jupe le met dans une position ridicule devant les autres chevaliers.",
     "source": "Wiki Kaamelott — page ou script d’épisode",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Jupe_De_Calogrenant/Script",
-    "explanation": "La Jupe de Calogrenant est bien l’épisode de la situation vestimentaire célèbre. Calogrenant se retrouve ramené à un problème de tenue au lieu d’une affaire chevaleresque, ce qui transforme l’honneur et l’image du guerrier en embarras de cour."
+    "explanation": "Calogrenant se retrouve pris dans une situation où l’honneur chevaleresque se heurte à un détail vestimentaire très concret. Kaamelott transforme ainsi un membre de la Table Ronde en sujet de gêne publique plutôt qu’en figure héroïque."
   },
   {
     "id": 177,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel épisode Arthur négocie-t-il avec les Burgondes par l’intermédiaire d’un traducteur ?",
-    "answer": "L’Interprète.",
+    "question": "Dans L’Interprète, qu’est-ce qui complique la négociation d’Arthur avec le Roi Burgonde ?",
+    "answer": "Arthur ne parle pas burgonde et dépend d’un interprète dont la traduction ne dissipe pas vraiment les malentendus.",
     "source": "Wiki Kaamelott — L’Interprète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27Interpr%C3%A8te_%28%C3%A9pisode%29/Script",
-    "explanation": "L’Interprète met Arthur face au Roi Burgonde et à l’impossibilité de négocier directement. La réponse est cet épisode parce que toute la scène repose sur la traduction : le conflit diplomatique devient un gag de langue et de malentendus."
+    "explanation": "La scène repose sur une diplomatie bloquée par la langue. Le Roi Burgonde peut être un adversaire militaire, mais le vrai obstacle immédiat est beaucoup plus simple : personne n’arrive à se comprendre correctement."
   },
   {
     "id": 178,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quel épisode Livre I, épisode 100, porte sur la question centrale du Graal ?",
-    "answer": "La Vraie Nature Du Graal.",
+    "question": "Dans La Vraie Nature Du Graal, que rappelle l’épisode sur l’objet que tous les chevaliers prétendent chercher ?",
+    "answer": "Que la Quête du Graal est centrale, mais que les chevaliers ne maîtrisent pas vraiment ce qu’ils cherchent.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "La Vraie Nature du Graal ferme le Livre I en revenant sur l’objet que les chevaliers sont censés chercher depuis le début. Le titre annonce une interrogation directe sur ce qu’est réellement le Graal, alors que la Table Ronde fonctionne souvent sans bien maîtriser son but."
+    "explanation": "Arrivé en fin de Livre I, l’épisode ramène la Table Ronde à sa mission officielle. Le comique vient de l’écart entre l’importance sacrée du Graal et le flou qui règne encore autour de sa nature, même chez ceux qui sont censés le trouver."
   },
   {
     "id": 179,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quel épisode Livre I, épisode 93, est associé aux techniques absurdes de Perceval et Karadoc ?",
-    "answer": "Unagi.",
+    "question": "Dans Unagi, que présentent Perceval et Karadoc avec un sérieux presque martial ?",
+    "answer": "Leurs techniques de combat absurdes, auxquelles ils donnent un nom et une logique d’entraînement.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "Unagi est associé aux techniques de combat de Perceval et Karadoc. Ils traitent leurs méthodes comme un art martial sérieux, avec noms et niveaux, alors que le spectateur comprend surtout l’écart entre leur assurance et leur efficacité réelle."
+    "explanation": "Perceval et Karadoc traitent Unagi comme une méthode sérieuse, avec des étapes et une efficacité supposée. La scène fonctionne parce que leur assurance contraste avec le caractère très douteux de la technique."
   },
   {
     "id": 180,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quel épisode Livre II, épisode 54, porte un titre anglais lié au jeu ?",
-    "answer": "The Game.",
+    "question": "Dans The Game, quel aspect de l’univers de la taverne est mis en avant ?",
+    "answer": "Les jeux, les règles compliquées et les raisonnements de joueurs que les personnages prennent très au sérieux.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "The Game est le titre anglais du Livre II lié à l’univers du jeu. Il s’inscrit dans les scènes où les règles, les paris ou les explications compliquées comptent presque plus que l’action elle-même, surtout autour de Perceval, Karadoc et la taverne."
+    "explanation": "La taverne est souvent le lieu où les systèmes absurdes de Perceval, Karadoc et du Tavernier prennent toute leur ampleur. The Game rappelle ce goût de Kaamelott pour les règles longues à expliquer et rarement limpides à appliquer."
   },
   {
     "id": 181,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quel épisode Livre II, épisode 69, réunit Roparzh, Guethenoc, Arthur et Karadoc autour d’une vache morte ?",
-    "answer": "Feue La Vache De Roparzh.",
+    "question": "Dans Feue La Vache De Roparzh, quel conflit très terre-à-terre remonte jusqu’à Arthur ?",
+    "answer": "Une querelle paysanne autour de la vache morte de Roparzh.",
     "source": "Wiki Kaamelott — page ou script d’épisode",
     "url": "https://kaamelott.fandom.com/fr/wiki/Feue_La_Vache_De_Roparzh",
-    "explanation": "Feue la Vache de Roparzh réunit bien Roparzh, Guethenoc, Arthur et Karadoc autour d’une vache morte. La scène ramène le roi de Logres à une querelle paysanne très concrète, loin de la grandeur attendue de la Quête du Graal."
+    "explanation": "Arthur se retrouve à gérer un problème de voisinage et de bétail au lieu d’une grande affaire chevaleresque. L’épisode rappelle que régner sur Logres, c’est aussi arbitrer les rancunes rurales de Guethenoc et Roparzh."
   },
   {
     "id": 182,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode voit Guenièvre mentionner bruyamment des commérages sur la Duchesse d’Aquitaine ?",
-    "answer": "La Ronde, au Livre II.",
+    "question": "Dans La Ronde, que fait Guenièvre à propos de la Duchesse d’Aquitaine ?",
+    "answer": "Elle relaie bruyamment des commérages, sans la discrétion qu’exigerait la vie de cour.",
     "source": "Wiki Kaamelott — Aquitaine",
     "url": "https://kaamelott.fandom.com/fr/wiki/Aquitaine",
-    "explanation": "La Ronde est l’épisode où Guenièvre évoque les commérages autour de la Duchesse d’Aquitaine. La bonne réponse se reconnaît au motif de la rumeur de cour : les informations circulent mal, trop fort et avec beaucoup d’indiscrétion."
+    "explanation": "La scène montre Kaamelott comme un château traversé par les rumeurs autant que par les décisions politiques. Guenièvre y apparaît moins comme une reine solennelle que comme quelqu’un qui participe, maladroitement, aux bavardages de cour."
   },
   {
     "id": 183,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel Livre apparaît l’idylle Arthur-Mevanwi ?",
-    "answer": "Le Livre III.",
+    "question": "Dans le Livre III, quelle relation transforme une affaire de cœur en problème politique à Kaamelott ?",
+    "answer": "L’idylle entre Arthur et Mevanwi.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "L’idylle Arthur-Mevanwi appartient au Livre III. Cet arc commence comme un trouble intime, mais il engage rapidement Guenièvre, Karadoc, les usages du pays de Vannes et l’équilibre politique de Kaamelott."
+    "explanation": "La relation entre Arthur et l’épouse de Karadoc ne reste pas une simple attirance privée. Elle fragilise Guenièvre, touche Karadoc, mobilise les lois de Vannes et prépare les grandes ruptures des Livres suivants."
   },
   {
     "id": 184,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre III amorce la scène où Mevanwi prend un bain près d’Arthur ?",
-    "answer": "Ablutions.",
+    "question": "Dans Ablutions, quelle situation fait apparaître le trouble d’Arthur pour Mevanwi ?",
+    "answer": "La scène où Mevanwi prend un bain près d’Arthur.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "Ablutions amorce le trouble d’Arthur pour Mevanwi avec la scène du bain. La réponse est cet épisode parce que l’attirance y devient visible et prépare l’arc adultère qui va peser sur tout le Livre III."
+    "explanation": "Ablutions met en scène le moment où le désir d’Arthur pour Mevanwi devient visible. Le trouble du roi n’est plus seulement une idée : il entre dans une situation concrète qui va peser sur la cour et sur son mariage."
   },
   {
     "id": 185,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel épisode Arthur commence-t-il à parler à Mevanwi après le début de son trouble ?",
-    "answer": "Le Trouble.",
+    "question": "Dans Le Trouble, comment l’attirance d’Arthur pour Mevanwi change-t-elle de niveau ?",
+    "answer": "Arthur commence à parler à Mevanwi, ce qui fait passer le trouble silencieux dans le dialogue.",
     "source": "Wiki Kaamelott — Arthur Pendragon",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arthur_Pendragon",
-    "explanation": "Le Trouble prolonge Ablutions : Arthur ne se contente plus d’être embarrassé par Mevanwi, il commence à lui parler dans cette tension. L’épisode marque le passage de l’attirance silencieuse à une relation qui menace de devenir une affaire de cour."
+    "explanation": "Après la gêne et l’attirance suggérées, Le Trouble rend la relation plus active. L’intrigue commence alors à sortir de l’intime pour devenir une tension visible dans le fonctionnement de Kaamelott."
   },
   {
     "id": 186,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quels épisodes terminent le Livre III par la crise ouverte entre Arthur, Mevanwi et Guenièvre ?",
-    "answer": "La Dispute, 1re et 2e parties.",
+    "question": "Dans La Dispute, en deux parties, quel conflit devient impossible à cacher à la fin du Livre III ?",
+    "answer": "La crise entre Arthur, Mevanwi et Guenièvre.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "La Dispute, en deux parties, clôt le Livre III sur la crise Arthur-Mevanwi-Guenièvre. Le conflit ne reste plus dans les sous-entendus : la situation conjugale éclate et prépare directement le départ de Guenièvre au camp de Lancelot."
+    "explanation": "La Dispute ferme le Livre III en faisant éclater les conséquences de l’attirance d’Arthur pour Mevanwi. La cour ne peut plus faire comme si l’affaire restait privée, et le départ de Guenièvre au Livre IV se prépare."
   },
   {
     "id": 187,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Quel Livre commence avec Guenièvre au camp de Lancelot ?",
-    "answer": "Le Livre IV.",
+    "question": "Au début du Livre IV, quelle situation montre que la rupture entre Arthur, Guenièvre et Lancelot est devenue concrète ?",
+    "answer": "Guenièvre est installée au camp de Lancelot.",
     "source": "Wiki Kaamelott — Guenièvre",
     "url": "https://kaamelott.fandom.com/fr/wiki/Gueni%C3%A8vre",
-    "explanation": "Le Livre IV commence avec Guenièvre déjà installée au camp de Lancelot. C’est donc le Livre de la rupture visible : le couple royal est séparé, Lancelot est hors de Kaamelott et la crise privée devient politique."
+    "explanation": "Le Livre IV commence avec une séparation déjà matérialisée : Guenièvre n’est plus simplement blessée ou distante, elle a quitté Kaamelott. Son départ donne à la crise conjugale une portée politique et militaire."
   },
   {
     "id": 188,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quels épisodes du Livre IV s’intitulent Tous Les Matins Du Monde ?",
-    "answer": "Les deux premières parties du Livre IV.",
+    "question": "Dans Tous Les Matins Du Monde, quelle nouvelle situation de Guenièvre donne un ton plus romanesque au début du Livre IV ?",
+    "answer": "Elle vit désormais auprès de Lancelot dans son camp.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "Tous les Matins du Monde correspond aux deux premières parties du Livre IV. Ces épisodes ouvrent sur Guenièvre au camp de Lancelot, dans une atmosphère plus romanesque qui rend la séparation d’Arthur et de la reine impossible à ignorer."
+    "explanation": "Le titre donne une couleur presque amoureuse à une situation qui est aussi une rupture du royaume. Guenièvre au camp de Lancelot, c’est à la fois un déplacement intime, une humiliation pour Arthur et un avantage politique pour la dissidence."
   },
   {
     "id": 189,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel Livre apparaît le camp romain lié à la crise Lancelot-Arthur ?",
-    "answer": "Le Livre IV.",
+    "question": "Dans le Livre IV, que matérialise le camp lié à la crise entre Lancelot et Arthur ?",
+    "answer": "La dissidence de Lancelot, qui n’est plus seulement un désaccord personnel mais une force organisée hors de Kaamelott.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "Le camp romain lié à la crise Lancelot-Arthur apparaît dans le Livre IV. Il s’inscrit dans un Livre où la rupture de Lancelot se structure, avec des camps, des soutiens extérieurs et une géographie politique beaucoup plus tendue."
+    "explanation": "Le camp donne une existence concrète à la rupture avec Arthur. Lancelot n’est plus seulement un chevalier mécontent : il dispose d’un lieu, d’alliés et d’une alternative au pouvoir de Kaamelott."
   },
   {
     "id": 190,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quel épisode du Livre IV porte le titre Le Vice De Forme ?",
-    "answer": "Le Livre IV, épisode 92 selon le Codex Missa Brevis.",
+    "question": "Dans Le Vice De Forme, quel type de détail complique les affaires politiques de la fin du Livre IV ?",
+    "answer": "Un problème de droit, de procédure ou de légitimité, typique des crises administratives de Kaamelott.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "Le Vice de Forme est un épisode de la fin du Livre IV. Son titre annonce bien le ressort de la carte : la crise n’est pas seulement sentimentale ou militaire, elle passe aussi par des questions de procédure, de droit et de validité."
+    "explanation": "Kaamelott aime transformer les grandes affaires de royaume en problèmes de formulation, de règle ou de forme. Le Vice de Forme rappelle que les alliances et les décisions politiques peuvent être fragilisées par des détails juridiques."
   },
   {
     "id": 191,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quel épisode du Livre IV montre le baptême de Perceval ?",
-    "answer": "Le Désordre Et La Nuit.",
+    "question": "Dans Le Désordre Et La Nuit, quel rite religieux Perceval traverse-t-il ?",
+    "answer": "Son baptême.",
     "source": "Wiki Kaamelott — Le Désordre Et La Nuit / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_D%C3%A9sordre_Et_La_Nuit/Script",
-    "explanation": "Le Désordre et la Nuit contient le baptême de Perceval. La réponse se reconnaît au mélange typiquement kaamelottien entre rite religieux, incompréhension de Perceval et gravité progressive des enjeux spirituels au Livre IV."
+    "explanation": "Le baptême de Perceval mêle foi, identité chevaleresque et incompréhension personnelle. L’épisode fait entrer plus nettement les questions spirituelles dans le quotidien de Kaamelott, mais toujours avec le décalage propre à Perceval."
   },
   {
     "id": 192,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel Livre Arthur replante-t-il Excalibur dans le rocher ?",
-    "answer": "Le Livre V.",
+    "question": "Dans La Roche Et Le Fer, quel geste d’Arthur remet sa légitimité royale à l’épreuve ?",
+    "answer": "Il replante Excalibur dans le rocher.",
     "source": "Wikipédia — Kaamelott",
     "url": "https://fr.wikipedia.org/wiki/Kaamelott",
-    "explanation": "Arthur replante Excalibur dans le Livre V, notamment dans La Roche et le Fer. Ce geste remet volontairement en jeu le signe de sa légitimité et déclenche la crise : si l’épée reste dans le rocher, le royaume doit se demander qui peut encore régner."
+    "explanation": "En remettant Excalibur dans le rocher, Arthur transforme un symbole personnel en épreuve publique. Le geste ouvre la crise du Livre V, car la royauté dépend de nouveau de la capacité à retirer l’épée."
   },
   {
     "id": 193,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quel épisode long du Livre V correspond au moment où le royaume est sans tête ?",
-    "answer": "Le Royaume Sans Tête.",
+    "question": "Dans Le Royaume Sans Tête, que devient la Bretagne quand Arthur n’assume plus pleinement le pouvoir ?",
+    "answer": "Un royaume sans souverain clairement reconnu, livré aux règles de succession, aux clans et aux ambitions.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "Le Royaume Sans Tête est l’épisode long du Livre V centré sur l’absence de souverain effectif. Le titre désigne directement l’état de Logres lorsque la légitimité d’Arthur est suspendue et que les clans commencent à se positionner."
+    "explanation": "L’épisode montre la politique prendre le relais de l’héroïsme. Dès que la légitimité d’Arthur vacille, chacun cherche comment occuper ou contrôler la place laissée vide."
   },
   {
     "id": 194,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Dans quelle partie du Livre V se trouve Le Jurisconsulte selon la fiche de l’épisode ?",
-    "answer": "Dans Le Royaume Sans Tête, version DVD.",
+    "question": "Dans Le Jurisconsulte, qu’est-ce qui remplace les solutions héroïques pour régler la crise du pouvoir ?",
+    "answer": "Le droit, les règles de succession et les subtilités matrimoniales.",
     "source": "Wiki Kaamelott — Le Jurisconsulte (épisode)",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte_%28%C3%A9pisode%29",
-    "explanation": "Le Jurisconsulte se trouve dans Le Royaume Sans Tête en version DVD. La réponse est liée à la crise juridique du Livre V : quand l’épée ne tranche plus la légitimité, Kaamelott fait venir un spécialiste du droit pour démêler la succession."
+    "explanation": "Le Jurisconsulte transforme la vacance du pouvoir en casse-tête administratif. La question n’est plus de savoir qui est le plus brave, mais qui a juridiquement le droit d’exercer la régence."
   },
   {
     "id": 195,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Quel Livre n’est pas une suite chronologique directe des cinq premiers ?",
-    "answer": "Le Livre VI.",
+    "question": "Dans le Livre VI, pourquoi le récit ne suit-il pas directement la suite chronologique du Livre V ?",
+    "answer": "Parce qu’il revient d’abord à Rome pour raconter la jeunesse d’Arturus avant de rejoindre le présent dans Dies Iræ.",
     "source": "Wiki Kaamelott — Livre VI",
     "url": "https://kaamelott.fandom.com/fr/wiki/Livre_VI",
-    "explanation": "Le Livre VI n’est pas une suite directe : il revient d’abord sur la jeunesse romaine d’Arthur. Les huit premiers épisodes racontent Arturus avant Kaamelott, puis Dies Iræ rejoint le présent après la fin très sombre du Livre V."
+    "explanation": "Le Livre VI fonctionne comme un préquel pendant ses huit premiers épisodes. Il explique comment le soldat Arturus devient l’instrument politique que Rome envoie en Bretagne, avant de revenir à l’effondrement du présent."
   },
   {
     "id": 196,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre VI montre Arthur encore affaibli après sa tentative de suicide ?",
-    "answer": "Dies Iræ.",
+    "question": "Dans Dies Iræ, dans quel état retrouve-t-on Arthur après sa tentative de suicide ?",
+    "answer": "Affaibli, brisé et incapable de reprendre naturellement sa place de roi.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI)",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29",
-    "explanation": "Dies Iræ montre Arthur encore affaibli après sa tentative de suicide. L’épisode revient au présent après l’arc romain et expose les conséquences : Arthur est diminué, Lancelot prend le pouvoir et l’ordre de Kaamelott s’effondre."
+    "explanation": "Dies Iræ revient au présent après l’arc romain et montre Arthur au plus bas. La scène ne traite plus la royauté comme une simple fonction, mais comme un poids intime dont Arthur ne veut plus."
   },
   {
     "id": 197,
@@ -269,286 +269,286 @@ window.KAAMELOTT_CARDS.push(...[
     "answer": "Le Père Blaise.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "Dans Dies Iræ, c’est le Père Blaise qui questionne Arthur sur sa tentative de suicide. La scène est marquante parce que le chroniqueur de la légende se retrouve face à un roi brisé, non plus seulement à un personnage à consigner."
+    "explanation": "Le Père Blaise n’est plus seulement le scribe de la légende : il se retrouve face à un roi brisé. Son échange avec Arthur donne à la chronique de Kaamelott une dimension plus intime et plus sombre."
   },
   {
     "id": 198,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre VI fait revenir Arthur à son mariage avec Guenièvre ?",
-    "answer": "Lacrimosa.",
+    "question": "Dans Lacrimosa, quel moment de la vie d’Arthur revient au centre avant le retour dramatique de Dies Iræ ?",
+    "answer": "Son mariage avec Guenièvre et les tensions déjà inscrites dans cette alliance.",
     "source": "Wiki Kaamelott — Lacrimosa (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lacrimosa_%28Livre_VI%29/Script",
-    "explanation": "Lacrimosa revient sur le mariage d’Arthur et Guenièvre dans le Livre VI. La réponse s’explique par la place de l’épisode juste avant Dies Iræ : il éclaire l’alliance politique avec la Carmélide et les blessures personnelles qu’elle contient déjà."
+    "explanation": "Lacrimosa rappelle que le mariage d’Arthur et Guenièvre est d’abord une alliance politique avant d’être une histoire intime. Revenir à ce moment prépare la chute du présent, où toutes les failles conjugales et politiques pèsent encore."
   },
   {
     "id": 199,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Dans Lacrimosa du Livre VI, chez quel seigneur Arthur, Lancelot et Dagonet chassent-ils ?",
-    "answer": "Chez Dagonet, même si celui-ci situe mal ses terres.",
+    "question": "Dans Lacrimosa, chez quel seigneur Arthur, Lancelot et Dagonet chassent-ils ?",
+    "answer": "Chez Dagonet, même si celui-ci situe mal ses propres terres.",
     "source": "Wiki Kaamelott — Lacrimosa (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lacrimosa_%28Livre_VI%29/Script",
-    "explanation": "Dans Lacrimosa, Arthur, Lancelot et Dagonet chassent chez Dagonet. Le détail est mémorable parce que Dagonet peine lui-même à situer ses terres, ce qui transforme une scène aristocratique en gag de géographie féodale."
+    "explanation": "La scène associe l’amitié ancienne d’Arthur et Lancelot à une absurdité très concrète : Dagonet est seigneur, mais son rapport à son domaine reste flou. Le détail rend la politique bretonne moins solennelle et beaucoup plus bancale."
   },
   {
     "id": 200,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel site fournit un codex alphabétique des épisodes utilisé pour vérifier les titres et numéros ?",
-    "answer": "Missa Brevis.",
-    "source": "Missa Brevis — Codex des épisodes",
-    "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "Missa Brevis est ici la réponse parce que le site sert de codex des épisodes, avec titres et numéros. Pour un quiz centré sur les scènes, c’est le repère utilisé pour vérifier qu’un souvenir correspond bien au bon épisode."
+    "question": "Dans La Poétique II, que révèle l’hésitation de Perceval avant de raconter son aventure à la Table Ronde ?",
+    "answer": "Il veut être reconnu comme chevalier, mais il craint que son récit soit mauvais ou peu glorieux.",
+    "source": "Missa Brevis — La Poétique II, 1re partie",
+    "url": "https://www.missabrevis.com/codex/episodes/la-poetique-ii-1re-partie/",
+    "explanation": "Perceval arrive avec l’envie de partager une aventure, mais il annonce lui-même qu’elle risque d’être décevante. La scène joue sur son besoin de reconnaissance et sur sa lucidité très particulière : il sent que son histoire n’a peut-être rien d’épique."
   },
   {
     "id": 376,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Dans quel épisode la Table Ronde est-elle liée à Breccan ?",
-    "answer": "La Table De Breccan.",
+    "question": "Dans La Table De Breccan, à quoi Breccan donne-t-il enfin une forme concrète ?",
+    "answer": "À la Table Ronde, en livrant le meuble autour duquel les chevaliers doivent se réunir.",
     "source": "Wiki Kaamelott — La Table De Breccan",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Table_De_Breccan",
-    "explanation": "La Table de Breccan est l’épisode lié à Breccan parce que l’artisan y livre la Table Ronde. L’objet censé fonder l’institution chevaleresque devient aussitôt un sujet de critiques très prosaïques sur le meuble lui-même."
+    "explanation": "La Table Ronde passe d’un principe politique et chevaleresque à un objet bien réel. Cette matérialisation crée aussitôt un décalage comique, puisque les chevaliers s’attardent sur le mobilier plutôt que sur l’idéal du Graal."
   },
   {
     "id": 377,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Dans quel épisode apparaît la formule « c’est pas faux » comme botte secrète ?",
-    "answer": "La Botte Secrète.",
+    "question": "Dans La Botte Secrète, quelle méthode Karadoc enseigne-t-il à Perceval pour cacher son incompréhension ?",
+    "answer": "Répondre « C’est pas faux » quand il ne comprend pas un mot.",
     "source": "Wiki Kaamelott — La Botte Secrète / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Botte_Secr%C3%A8te/Script",
-    "explanation": "La Botte Secrète est l’épisode de la formule « c’est pas faux ». Karadoc y donne à Perceval un moyen de cacher qu’il ne comprend pas un mot, avant que la ruse soit testée dans des conversations où elle aggrave surtout le malentendu."
+    "explanation": "Karadoc transforme l’ignorance de Perceval en technique sociale. Le gag fonctionne parce que la formule paraît valider la discussion, alors qu’elle sert seulement à masquer le fait que Perceval n’a rien compris."
   },
   {
     "id": 378,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel épisode Perceval découvre-t-il le cul de chouette à la taverne ?",
-    "answer": "Perceval Relance De Quinze.",
+    "question": "Dans Perceval Relance De Quinze, quel jeu de dés Perceval découvre-t-il à la taverne ?",
+    "answer": "Le cul de chouette.",
     "source": "Wiki Kaamelott — Perceval Relance De Quinze / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval_Relance_De_Quinze/Script",
-    "explanation": "Perceval Relance de Quinze est l’épisode du cul de chouette à la taverne. Le gag tient à des règles annoncées comme très précises, mais quasiment impossibles à suivre, surtout quand Perceval et Karadoc les commentent avec assurance."
+    "explanation": "La taverne devient le terrain d’un jeu aux règles presque impénétrables. Perceval, Karadoc et le Tavernier traitent ces annonces de dés comme une affaire très sérieuse, ce qui rend le jeu aussi drôle qu’incompréhensible."
   },
   {
     "id": 379,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Dans quel épisode du Livre VI le cul de chouette est rejoué avec Nonna ?",
-    "answer": "Dux Bellorum.",
+    "question": "Dans Dux Bellorum, avec qui le cul de chouette est-il rejoué dans le passé romain d’Arthur ?",
+    "answer": "Avec Nonna.",
     "source": "Wiki Kaamelott — Cul de chouette",
     "url": "https://kaamelott.fandom.com/fr/wiki/Cul_de_chouette",
-    "explanation": "Dux Bellorum rejoue le cul de chouette dans le passé romain avec Nonna. La réponse est ce Livre VI parce que l’épisode montre que certains motifs comiques de la taverne existaient déjà autour d’Arturus avant Kaamelott."
+    "explanation": "Le Livre VI rattache le cul de chouette au passé d’Arturus, bien avant les scènes de taverne de Kaamelott. Le jeu devient ainsi une tradition absurde déjà présente dans son histoire personnelle."
   },
   {
     "id": 380,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Quel épisode du Livre VI commence l’histoire d’Arturus simple soldat ?",
-    "answer": "Miles Ignotus.",
+    "question": "Dans Miles Ignotus, dans quelle situation découvre-t-on Arturus avant qu’il devienne roi ?",
+    "answer": "Comme simple soldat romain.",
     "source": "Wiki Kaamelott — Miles Ignotus",
     "url": "https://kaamelott.fandom.com/fr/wiki/Miles_Ignotus",
-    "explanation": "Miles Ignotus ouvre le Livre VI avec Arturus simple soldat. Le titre colle à ce point de départ : avant d’être Arthur roi de Logres, il est un militaire romain obscur que Rome va transformer en instrument politique pour la Bretagne."
+    "explanation": "Miles Ignotus ouvre le Livre VI loin de la Table Ronde et du trône de Logres. Arturus y apparaît d’abord comme un homme de l’armée romaine, avant que Rome ne fasse de lui un outil politique pour la Bretagne."
   },
   {
     "id": 381,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre VI porte un titre lié à un mariage ?",
-    "answer": "Nuptiæ.",
+    "question": "Dans Nuptiæ, quel mariage secret donne une profondeur intime au passé d’Arthur ?",
+    "answer": "Le mariage d’Arturus avec Aconia.",
     "source": "Wiki Kaamelott — Nuptiæ",
     "url": "https://kaamelott.fandom.com/fr/wiki/Nupti%C3%A6",
-    "explanation": "Nuptiæ est le titre lié au mariage dans le Livre VI. Il renvoie à l’union d’Arturus et d’Aconia, une relation intime qui donne un sens tragique aux mariages politiques que le futur Arthur devra ensuite accepter en Bretagne."
+    "explanation": "L’union avec Aconia précède le mariage politique avec Guenièvre. Elle explique une part du secret et de la mélancolie d’Arthur : son destin royal s’est construit sur une histoire romaine intime qu’il ne peut pas simplement effacer."
   },
   {
     "id": 382,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre VI annonce explicitement la royauté d’Arturus ?",
-    "answer": "Arturus Rex.",
+    "question": "Dans Arturus Rex, quelle bascule s’opère dans l’identité d’Arturus ?",
+    "answer": "Il passe du soldat romain à la figure appelée à devenir roi de Bretagne.",
     "source": "Wiki Kaamelott — Arturus Rex",
     "url": "https://kaamelott.fandom.com/fr/wiki/Arturus_Rex",
-    "explanation": "Arturus Rex annonce explicitement la royauté d’Arturus. Le titre dit le basculement : le soldat romain devient progressivement la figure appelée à régner en Bretagne, avant même d’être l’Arthur connu à Kaamelott."
+    "explanation": "Le titre annonce clairement la transformation d’Arturus. Rome ne se contente plus de l’employer comme soldat : elle fabrique la figure politique qui deviendra Arthur, roi de Logres."
   },
   {
     "id": 383,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre VI porte un titre latin signifiant chef de guerre ?",
-    "answer": "Dux Bellorum.",
+    "question": "Dans Dux Bellorum, quel titre rappelle le rôle militaire confié à Arturus ?",
+    "answer": "Celui de chef de guerre, ou dux bellorum.",
     "source": "Wiki Kaamelott — Dux Bellorum",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dux_Bellorum",
-    "explanation": "Dux Bellorum signifie chef de guerre et renvoie au rôle militaire confié à Arturus. Dans l’arc romain, ce titre marque le moment où Rome lui donne une fonction stratégique pour reprendre la main sur la Bretagne."
+    "explanation": "Dux bellorum rattache Arturus à une fonction militaire avant son image de roi légendaire. L’épisode montre que son autorité bretonne naît d’abord d’une stratégie romaine de contrôle et de pacification."
   },
   {
     "id": 384,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Quel épisode du Livre VI clôt la série télévisée ?",
-    "answer": "Dies Iræ.",
+    "question": "Dans Dies Iræ, que devient Lancelot au moment où l’ancien ordre de Kaamelott s’effondre ?",
+    "answer": "Il reçoit les pleins pouvoirs et prend le contrôle du royaume.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI)",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29",
-    "explanation": "Dies Iræ clôt la série télévisée. L’épisode revient au présent après le préquel romain et rassemble plusieurs chocs narratifs : Arthur survivant, Lancelot au pouvoir, la fuite vers Rome et la destruction symbolique de la Table Ronde."
+    "explanation": "Dies Iræ fait revenir le récit au présent pour montrer la transmission catastrophique du pouvoir. Lancelot sauve Arthur, mais devient aussi celui qui fait basculer le royaume vers la traque des anciens chevaliers."
   },
   {
     "id": 385,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Dans quel épisode Lancelot met-il le feu à la Table Ronde ?",
-    "answer": "Dies Iræ.",
+    "question": "Dans Dies Iræ, quel symbole de la Quête Lancelot détruit-il par le feu ?",
+    "answer": "La Table Ronde.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "Lancelot met le feu à la Table Ronde dans Dies Iræ. La réponse se comprend parce que cet épisode montre sa prise de pouvoir : brûler la table revient à détruire le symbole même du projet collectif d’Arthur."
+    "explanation": "Brûler la Table Ronde revient à détruire le symbole même du projet d’Arthur : égalité des chevaliers, Quête du Graal et idéal collectif. Le geste marque visuellement la fin de l’ancien Kaamelott."
   },
   {
     "id": 386,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Dans quel épisode Arthur retrouve-t-il la robe rouge d’Aconia dans une villa abandonnée ?",
-    "answer": "Dies Iræ.",
+    "question": "Dans Dies Iræ, quel souvenir matériel d’Aconia Arthur retrouve-t-il dans une villa abandonnée ?",
+    "answer": "La robe rouge d’Aconia.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "La robe rouge d’Aconia est retrouvée dans Dies Iræ, quand Arthur revient dans la Villa Aconia abandonnée. L’objet relie le présent du roi brisé au passé romain raconté juste avant, et rappelle son mariage secret avec Aconia."
+    "explanation": "La robe rouge ramène Arthur à son passé romain et à son mariage secret avec Aconia. Dans un épisode centré sur sa fuite et son épuisement, cet objet fait revenir une part intime de son histoire."
   },
   {
     "id": 387,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre V est centré sur le geste d’Arthur avec Excalibur et le rocher ?",
-    "answer": "La Roche Et Le Fer.",
+    "question": "Dans La Roche Et Le Fer, que fait Arthur pour remettre sa légitimité à l’épreuve ?",
+    "answer": "Il replante Excalibur dans le rocher.",
     "source": "Wiki Kaamelott — La Roche Et Le Fer",
     "url": "https://kaamelott.fandom.com/fr/wiki/La_Roche_Et_Le_Fer",
-    "explanation": "La Roche et le Fer est centré sur Excalibur et le rocher. Arthur y replante l’épée, donc il ne confirme plus seulement qu’il est l’élu : il oblige tout le royaume à affronter l’idée qu’il pourrait ne plus vouloir régner."
+    "explanation": "Le geste force tout le royaume à regarder de nouveau le lien entre Arthur et l’épée. Tant qu’Excalibur peut être retirée, la royauté reste liée à un signe magique que le roi lui-même choisit de remettre en jeu."
   },
   {
     "id": 388,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre V pose la question d’un royaume sans souverain effectif ?",
-    "answer": "Le Royaume Sans Tête.",
+    "question": "Dans Le Royaume Sans Tête, qu’est-ce qui prend le dessus quand le roi n’est plus clairement en fonction ?",
+    "answer": "Les règles de succession, les stratégies de clans et les ambitions personnelles.",
     "source": "Wiki Kaamelott — Le Royaume Sans Tête",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Royaume_Sans_T%C3%AAte",
-    "explanation": "Le Royaume Sans Tête pose la question d’un royaume sans souverain effectif. Le titre annonce la situation politique du Livre V : Arthur n’assume plus pleinement la couronne et les autres cherchent une solution de régence."
+    "explanation": "L’épisode montre que l’absence d’un roi reconnu ne crée pas seulement un vide : elle ouvre une compétition. Les proches d’Arthur, les familles alliées et les institutions cherchent alors comment organiser ou récupérer le pouvoir."
   },
   {
     "id": 389,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre V correspond à la crise de l’élu refusant la royauté ?",
-    "answer": "L’Élu.",
+    "question": "Dans L’Élu, quel refus d’Arthur aggrave la crise de légitimité du Livre V ?",
+    "answer": "Son refus de reprendre pleinement sa place de roi et d’assumer ce que représente Excalibur.",
     "source": "Wiki Kaamelott — L’Élu",
     "url": "https://kaamelott.fandom.com/fr/wiki/L%27%C3%89lu",
-    "explanation": "L’Élu correspond à la crise du roi qui refuse sa propre fonction. La question de l’élection divine devient intime : Arthur n’est pas seulement incapable de retirer Excalibur, il ne veut plus forcément redevenir celui qu’on attend."
+    "explanation": "L’Élu déplace la crise vers l’intérieur d’Arthur. Le problème n’est plus seulement de savoir qui peut retirer l’épée, mais si celui qui l’a fait veut encore porter le royaume."
   },
   {
     "id": 390,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre V met le droit au centre de la crise politique ?",
-    "answer": "Le Jurisconsulte.",
+    "question": "Dans Le Jurisconsulte, par quel moyen la crise politique de Kaamelott est-elle examinée ?",
+    "answer": "Par le droit, les textes et les règles de régence.",
     "source": "Wiki Kaamelott — Le Jurisconsulte",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Jurisconsulte",
-    "explanation": "Le Jurisconsulte met le droit au centre de la crise politique. La bonne réponse se reconnaît à ce déplacement : on ne règle plus la royauté par l’épée ou la guerre, mais par des règles de succession et d’échange d’épouses."
+    "explanation": "Au lieu d’une solution de chevaliers, Kaamelott fait venir un spécialiste des règles. Le pouvoir devient une affaire de documents, de mariages et de clauses, ce qui rend la crise à la fois comique et très dangereuse."
   },
   {
     "id": 391,
     "category": "Épisodes & situations",
     "difficulty": "Facile",
-    "question": "Quel codex en ligne donne les titres et numéros d’épisodes Livre par Livre ?",
-    "answer": "Missa Brevis.",
-    "source": "Missa Brevis — Codex des épisodes",
-    "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "Missa Brevis est le codex utilisé pour retrouver les titres et numéros d’épisodes Livre par Livre. Dans ce paquet, la réponse sert de repère de vérification pour les cartes qui demandent un titre précis plutôt qu’un souvenir général."
+    "question": "Dans Le Message Codé, à la taverne, comment Perceval et Karadoc interprètent-ils un message incompréhensible ?",
+    "answer": "Ils décident que c’est forcément un code secret.",
+    "source": "Missa Brevis — Le Message Codé",
+    "url": "https://www.missabrevis.com/codex/episodes/le-message-code/",
+    "explanation": "Perceval et Karadoc prennent l’incohérence du message comme une preuve de sophistication. La taverne devient alors le lieu parfait pour leur fausse logique : plus ça ne veut rien dire, plus ils sont convaincus qu’il y a un code."
   },
   {
     "id": 392,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode est cité comme première apparition de Perceval sur sa fiche ?",
-    "answer": "Heat.",
+    "question": "Dans Heat, que montre déjà la première apparition de Perceval sur son rôle à la Table Ronde ?",
+    "answer": "Qu’il est un chevalier fidèle mais décalé, avec une manière très personnelle de comprendre les consignes.",
     "source": "Wiki Kaamelott — Perceval",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval",
-    "explanation": "Heat est cité comme première apparition de Perceval. Le repère est important parce que Perceval entre très tôt dans le quotidien de Kaamelott, avant de devenir l’un des principaux moteurs des malentendus, des jeux de taverne et de la fidélité à Arthur."
+    "explanation": "La présence de Perceval dès Heat l’inscrit dans le quotidien de la Table Ronde. Il participe à la quête, mais son langage et ses détours annoncent déjà les malentendus qui feront sa place dans la série."
   },
   {
     "id": 393,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode est cité comme première apparition de Merlin sur sa fiche ?",
-    "answer": "Les Défis De Merlin.",
+    "question": "Dans Les Défis De Merlin, quel ressort comique est associé à l’enchanteur officiel ?",
+    "answer": "L’écart entre sa fonction magique prestigieuse et des résultats très discutables.",
     "source": "Wiki Kaamelott — Merlin",
     "url": "https://kaamelott.fandom.com/fr/wiki/Merlin",
-    "explanation": "Les Défis de Merlin est cité comme première apparition de Merlin. L’épisode installe le personnage par son rapport à la magie : il a le titre d’enchanteur, mais ses démonstrations et ses explications sont déjà sources de doute et de comique."
+    "explanation": "Merlin est présenté par ce qu’il est censé savoir faire, mais aussi par ses limites. L’épisode installe son rôle : un enchanteur officiel dont Arthur attend beaucoup, et qui déçoit souvent dans la pratique."
   },
   {
     "id": 394,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode est cité comme première apparition de Caius Camillus ?",
-    "answer": "Le Dernier Empereur.",
+    "question": "Dans Le Dernier Empereur, que rappelle la présence de Caius Camillus dans l’univers d’Arthur ?",
+    "answer": "Que l’histoire d’Arthur reste liée au monde romain et au déclin de l’autorité impériale.",
     "source": "Wiki Kaamelott — Caius Camillus",
     "url": "https://kaamelott.fandom.com/fr/wiki/Caius_Camillus",
-    "explanation": "Le Dernier Empereur est cité comme première apparition de Caius Camillus. Ce repère rattache Caius au versant romain de la série, où l’autorité impériale décline pendant qu’Arthur reste lié à Rome par son passé."
+    "explanation": "Caius Camillus relie Kaamelott à Rome, avant et pendant la construction du royaume breton. Sa présence rappelle que la légende arthurienne de la série ne naît pas hors de l’Histoire : elle sort aussi du retrait romain."
   },
   {
     "id": 395,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode est cité comme première apparition de Lancelot ?",
-    "answer": "Le Chevalier Mystère.",
+    "question": "Dans Le Chevalier Mystère, quelle image de Lancelot l’épisode installe-t-il d’abord ?",
+    "answer": "Celle d’un chevalier noble, efficace et sérieux.",
     "source": "Wiki Kaamelott — Lancelot du Lac",
     "url": "https://kaamelott.fandom.com/fr/wiki/Lancelot_du_Lac",
-    "explanation": "Le Chevalier Mystère est cité comme première apparition de Lancelot. La réponse rappelle son entrée par l’image d’un chevalier exceptionnel, ce qui rend ensuite sa rupture avec Arthur et Kaamelott beaucoup plus forte."
+    "explanation": "Lancelot apparaît d’abord comme un modèle de compétence chevaleresque. Ce point de départ rend sa rupture future avec Arthur plus marquante, car c’est l’un des meilleurs éléments de Kaamelott qui finit par se retourner contre l’ancien ordre."
   },
   {
     "id": 396,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode est cité comme première apparition de Bohort ?",
-    "answer": "Dies Iræ.",
+    "question": "Dans les premiers épisodes associés à Bohort, quel contraste le personnage apporte-t-il parmi les chevaliers ?",
+    "answer": "Un chevalier inquiet, sensible et peu porté sur la violence.",
     "source": "Wiki Kaamelott — Bohort",
     "url": "https://kaamelott.fandom.com/fr/wiki/Bohort",
-    "explanation": "Dies Iræ est cité comme première apparition de Bohort sur sa fiche. Le repère renvoie à l’installation initiale de la légende, avant que Bohort devienne dans la série le chevalier inquiet, délicat et souvent dépassé par les aventures."
+    "explanation": "Bohort tranche avec les profils guerriers ou brutaux de la Table Ronde. Sa peur et sa délicatesse deviennent son identité comique, tout en offrant un contrepoint aux exigences militaires d’Arthur."
   },
   {
     "id": 397,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode réunit le gag du tavernier, de Perceval et de Karadoc autour des dés ?",
-    "answer": "Perceval Relance De Quinze.",
+    "question": "Dans Perceval Relance De Quinze, quels personnages portent le gag du cul de chouette autour des dés ?",
+    "answer": "Le Tavernier, Perceval et Karadoc.",
     "source": "Wiki Kaamelott — Perceval Relance De Quinze / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Perceval_Relance_De_Quinze/Script",
-    "explanation": "Perceval Relance de Quinze réunit le Tavernier, Perceval et Karadoc autour des dés. L’épisode est le bon parce qu’il fait du cul de chouette un monument de règles absurdes, joué avec un sérieux qui dépasse de loin sa lisibilité."
+    "explanation": "Le jeu existe surtout par la façon dont ces trois personnages en parlent. Le Tavernier tient le cadre, Perceval et Karadoc suivent ou inventent des règles, et le spectateur se retrouve face à un système aussi codifié qu’opaque."
   },
   {
     "id": 398,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Dans quel épisode du Livre VI le souvenir d’Arthur enfant retirant Excalibur revient-il ?",
-    "answer": "Dies Iræ.",
+    "question": "Dans Dies Iræ, quel souvenir d’enfance revient autour d’Excalibur lorsque la trajectoire d’Arthur se referme ?",
+    "answer": "Le souvenir d’Arthur enfant retirant Excalibur.",
     "source": "Wiki Kaamelott — Dies Iræ (Livre VI) / Script",
     "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_%28Livre_VI%29/Script",
-    "explanation": "Le souvenir d’Arthur enfant retirant Excalibur revient dans Dies Iræ. L’image répond au présent d’un Arthur qui a perdu le goût de régner : l’élu du passé et le roi épuisé se retrouvent dans le même épisode."
+    "explanation": "Le souvenir d’Excalibur ramène Arthur à son origine mythique au moment où il est le plus loin de sa fonction royale. L’épisode fait se répondre l’enfant élu et le roi épuisé."
   },
   {
     "id": 399,
     "category": "Épisodes & situations",
     "difficulty": "Moyen",
-    "question": "Quel épisode du Livre V a un titre inspiré du roman arthurien et de la crise du royaume ?",
-    "answer": "Le Royaume Sans Tête.",
+    "question": "Dans Le Royaume Sans Tête, quelle crise le titre résume-t-il ?",
+    "answer": "La crise d’un royaume privé d’un souverain pleinement reconnu.",
     "source": "Wiki Kaamelott — Le Royaume Sans Tête",
     "url": "https://kaamelott.fandom.com/fr/wiki/Le_Royaume_Sans_T%C3%AAte",
-    "explanation": "Le Royaume Sans Tête reprend un imaginaire arthurien tout en désignant très concrètement la crise du Livre V. Le titre est le bon parce qu’il résume Logres sans roi reconnu, avec une succession devenue affaire de clans."
+    "explanation": "Le titre dit directement ce qui menace Logres : sans tête, le royaume n’a plus de centre politique stable. Les règles, les ambitions et les alliances prennent alors la place de l’autorité d’Arthur."
   },
   {
     "id": 400,
     "category": "Épisodes & situations",
     "difficulty": "Difficile",
-    "question": "Quel épisode du Livre VI précède immédiatement Dies Iræ dans l’ordre des épisodes ?",
-    "answer": "Lacrimosa.",
+    "question": "Dans Lacrimosa, quel événement prépare le retour au présent dramatique de Dies Iræ ?",
+    "answer": "Le mariage d’Arthur et Guenièvre, avec les tensions politiques et intimes qu’il contient déjà.",
     "source": "Missa Brevis — Codex des épisodes",
     "url": "https://www.missabrevis.com/codex/episodes/",
-    "explanation": "Lacrimosa précède immédiatement Dies Iræ dans le Livre VI. L’épisode revient sur le mariage avec Guenièvre et prépare le choc du final, où le récit quitte le passé romain pour retrouver Arthur au présent."
+    "explanation": "Lacrimosa rappelle que l’alliance entre Arthur et Guenièvre est chargée de devoirs, de famille et de non-dits. Placé juste avant Dies Iræ, cet épisode éclaire le poids que le passé continue de faire peser sur le présent."
   }
 ]);
